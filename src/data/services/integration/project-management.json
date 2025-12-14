@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "project-management",
+    "slug": "project-management",
+    "parentService": "integration"
+  },
+  "hero": {
+    "title": {
+      "en": "IT Project Management Services",
+      "ar": "خدمات إدارة مشاريع تكنولوجيا المعلومات"
+    },
+    "subtitle": {
+      "en": "Expert project leadership delivering complex IT initiatives on time, within budget, and exceeding expectations",
+      "ar": "قيادة خبيرة للمشاريع تقدم مبادرات تكنولوجيا المعلومات المعقدة في الوقت المحدد وضمن الميزانية وتتجاوز التوقعات"
+    },
+    "badge": {
+      "en": "PMI Certified",
+      "ar": "معتمد من PMI"
+    }
+  },
+  "description": {
+    "en": "Drive successful IT transformation initiatives with our seasoned project management professionals. We bring proven methodologies, industry best practices, and hands-on expertise to manage infrastructure upgrades, software implementations, digital transformation programs, and large-scale technology deployments. Our PMP-certified project managers combine technical knowledge with business acumen to navigate complex stakeholder environments, manage risks proactively, and ensure project objectives align with organizational goals while maintaining transparent communication throughout the project lifecycle.",
+    "ar": "قُد مبادرات التحول في تكنولوجيا المعلومات الناجحة مع محترفي إدارة المشاريع المتمرسين لدينا. نحن نجلب منهجيات مثبتة وأفضل ممارسات الصناعة والخبرة العملية لإدارة ترقيات البنية التحتية وتنفيذ البرمجيات وبرامج التحول الرقمي ونشر التكنولوجيا واسع النطاق. يجمع مديرو المشاريع المعتمدون من PMP لدينا بين المعرفة التقنية والفطنة التجارية للتنقل في بيئات أصحاب المصلحة المعقدة وإدارة المخاطر بشكل استباقي وضمان توافق أهداف المشروع مع الأهداف التنظيمية مع الحفاظ على التواصل الشفاف طوال دورة حياة المشروع."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Agile & Waterfall Methodology",
+        "ar": "منهجية أجايل والشلال"
+      },
+      "description": {
+        "en": "Employ the right project methodology—Agile, Scrum, Waterfall, or hybrid approaches—tailored to project requirements, team dynamics, and organizational culture for optimal outcomes.",
+        "ar": "استخدام منهجية المشروع الصحيحة - أجايل أو سكرم أو الشلال أو النهج الهجين - المصممة خصيصًا لمتطلبات المشروع وديناميكيات الفريق والثقافة التنظيمية للحصول على نتائج مثلى."
+      }
+    },
+    {
+      "title": {
+        "en": "Stakeholder Management",
+        "ar": "إدارة أصحاب المصلحة"
+      },
+      "description": {
+        "en": "Navigate complex organizational structures with strategic stakeholder engagement, clear communication protocols, regular status updates, and executive-level reporting for alignment and buy-in.",
+        "ar": "التنقل في الهياكل التنظيمية المعقدة مع المشاركة الاستراتيجية لأصحاب المصلحة وبروتوكولات الاتصال الواضحة والتحديثات المنتظمة للحالة والإبلاغ على المستوى التنفيذي للتوافق والموافقة."
+      }
+    },
+    {
+      "title": {
+        "en": "Risk & Issue Management",
+        "ar": "إدارة المخاطر والقضايا"
+      },
+      "description": {
+        "en": "Proactively identify, assess, and mitigate project risks with comprehensive risk registers, contingency planning, and issue resolution frameworks to prevent delays and cost overruns.",
+        "ar": "تحديد وتقييم وتخفيف مخاطر المشروع بشكل استباقي مع سجلات مخاطر شاملة وتخطيط الطوارئ وأطر حل القضايا لمنع التأخيرات وتجاوز التكاليف."
+      }
+    },
+    {
+      "title": {
+        "en": "Budget & Resource Management",
+        "ar": "إدارة الميزانية والموارد"
+      },
+      "description": {
+        "en": "Optimize project financials with accurate cost estimation, budget tracking, resource allocation, earned value management (EVM), and vendor management for cost-effective delivery.",
+        "ar": "تحسين الشؤون المالية للمشروع مع تقدير دقيق للتكلفة وتتبع الميزانية وتخصيص الموارد وإدارة القيمة المكتسبة (EVM) وإدارة البائعين للتسليم الفعال من حيث التكلفة."
+      }
+    },
+    {
+      "title": {
+        "en": "Quality Assurance & Testing",
+        "ar": "ضمان الجودة والاختبار"
+      },
+      "description": {
+        "en": "Ensure deliverable quality with structured QA processes, test planning, defect management, user acceptance testing coordination, and continuous quality improvement practices.",
+        "ar": "ضمان جودة التسليم مع عمليات ضمان الجودة المنظمة وتخطيط الاختبار وإدارة العيوب وتنسيق اختبار قبول المستخدم وممارسات التحسين المستمر للجودة."
+      }
+    },
+    {
+      "title": {
+        "en": "Change & Configuration Control",
+        "ar": "التحكم في التغيير والتكوين"
+      },
+      "description": {
+        "en": "Manage project changes systematically with change control boards, impact assessments, configuration management, and version control to maintain project scope and baseline integrity.",
+        "ar": "إدارة تغييرات المشروع بشكل منهجي مع مجالس التحكم في التغيير وتقييمات التأثير وإدارة التكوين والتحكم في الإصدار للحفاظ على نطاق المشروع وسلامة الخط الأساسي."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Project Management Deliverables",
+      "ar": "مخرجات إدارة المشاريع"
+    },
+    "items": {
+      "en": [
+        "Project Charter: Comprehensive project definition with business case, objectives, scope statement, success criteria, and stakeholder register",
+        "Project Plan: Detailed work breakdown structure (WBS), schedule with critical path analysis, resource allocation, and baseline establishment",
+        "RACI Matrix: Clear roles and responsibilities mapping across all project phases, deliverables, and decision points",
+        "Risk Management Plan: Risk register with probability/impact assessments, mitigation strategies, contingency reserves, and risk monitoring protocols",
+        "Communication Plan: Stakeholder communication matrix, meeting schedules, reporting templates, escalation procedures, and status update cadence",
+        "Quality Management: Quality assurance plans, testing strategies, acceptance criteria, defect tracking, and continuous improvement processes",
+        "Change Management: Change request procedures, impact analysis templates, change control board governance, and configuration management protocols",
+        "Project Closeout: Lessons learned documentation, knowledge transfer, final reports, post-implementation reviews, and success metrics analysis"
+      ],
+      "ar": [
+        "ميثاق المشروع: تعريف شامل للمشروع مع حالة العمل والأهداف وبيان النطاق ومعايير النجاح وسجل أصحاب المصلحة",
+        "خطة المشروع: هيكل تفصيلي لتقسيم العمل (WBS) وجدول زمني مع تحليل المسار الحرج وتخصيص الموارد وإنشاء الخط الأساسي",
+        "مصفوفة RACI: رسم خرائط واضح للأدوار والمسؤوليات عبر جميع مراحل المشروع والتسليمات ونقاط القرار",
+        "خطة إدارة المخاطر: سجل المخاطر مع تقييمات الاحتمالية / التأثير واستراتيجيات التخفيف واحتياطيات الطوارئ وبروتوكولات مراقبة المخاطر",
+        "خطة الاتصال: مصفوفة اتصال أصحاب المصلحة وجداول الاجتماعات وقوالب التقارير وإجراءات التصعيد وإيقاع تحديث الحالة",
+        "إدارة الجودة: خطط ضمان الجودة واستراتيجيات الاختبار ومعايير القبول وتتبع العيوب وعمليات التحسين المستمر",
+        "إدارة التغيير: إجراءات طلب التغيير وقوالب تحليل التأثير وحوكمة مجلس التحكم في التغيير وبروتوكولات إدارة التكوين",
+        "إغلاق المشروع: توثيق الدروس المستفادة ونقل المعرفة والتقارير النهائية ومراجعات ما بعد التنفيذ وتحليل مقاييس النجاح"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Migration Projects",
+        "ar": "مشاريع الترحيل"
+      },
+      "link": "/services/integration/migration-projects"
+    },
+    {
+      "title": {
+        "en": "IT Strategy & Alignment",
+        "ar": "استراتيجية تكنولوجيا المعلومات"
+      },
+      "link": "/services/integration/it-strategy"
+    },
+    {
+      "title": {
+        "en": "System Integration",
+        "ar": "تكامل الأنظمة"
+      },
+      "link": "/services/integration/system-integration"
+    }
+  ]
+}

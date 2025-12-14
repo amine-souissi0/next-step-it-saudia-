@@ -1,0 +1,156 @@
+{
+  "hero": {
+    "title": {
+      "en": "Identity & Access Management",
+      "ar": "إدارة الهوية والوصول"
+    },
+    "subtitle": {
+      "en": "Secure access management with advanced identity governance and authentication solutions",
+      "ar": "إدارة وصول آمنة مع حلول حوكمة الهوية والمصادقة المتقدمة"
+    }
+  },
+  "description": {
+    "en": "Protect your organization's digital assets with comprehensive Identity and Access Management (IAM) solutions. We implement robust authentication, authorization, and governance frameworks that ensure the right people have the right access to the right resources at the right time. Our IAM services combine cutting-edge technology with best practices to secure user identities, streamline access management, and maintain compliance with regulatory requirements.",
+    "ar": "احمِ الأصول الرقمية لمؤسستك بحلول إدارة الهوية والوصول (IAM) الشاملة. نطبق أطر عمل قوية للمصادقة والتفويض والحوكمة التي تضمن حصول الأشخاص المناسبين على الوصول المناسب."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Single Sign-On (SSO)",
+        "ar": "تسجيل الدخول الموحد (SSO)"
+      },
+      "description": {
+        "en": "Seamless access to multiple applications with a single set of credentials, enhancing security and user experience",
+        "ar": "وصول سلس إلى تطبيقات متعددة بمجموعة واحدة من بيانات الاعتماد، مما يعزز الأمان وتجربة المستخدم"
+      }
+    },
+    {
+      "title": {
+        "en": "Multi-Factor Authentication",
+        "ar": "المصادقة متعددة العوامل"
+      },
+      "description": {
+        "en": "Advanced MFA solutions including biometrics, hardware tokens, and adaptive authentication based on risk context",
+        "ar": "حلول المصادقة متعددة العوامل المتقدمة بما في ذلك القياسات الحيوية ورموز الأجهزة والمصادقة التكيفية"
+      }
+    },
+    {
+      "title": {
+        "en": "Privileged Access Management",
+        "ar": "إدارة الوصول المميز"
+      },
+      "description": {
+        "en": "Secure vault and session monitoring for privileged accounts with just-in-time access and approval workflows",
+        "ar": "خزنة آمنة ومراقبة الجلسة للحسابات المميزة مع الوصول في الوقت المناسب وسير عمل الموافقة"
+      }
+    },
+    {
+      "title": {
+        "en": "Identity Governance",
+        "ar": "حوكمة الهوية"
+      },
+      "description": {
+        "en": "Automated access reviews, certification campaigns, and role-based access control (RBAC) management",
+        "ar": "مراجعات الوصول الآلية وحملات الشهادات وإدارة التحكم في الوصول على أساس الدور (RBAC)"
+      }
+    },
+    {
+      "title": {
+        "en": "Directory Services",
+        "ar": "خدمات الدليل"
+      },
+      "description": {
+        "en": "Integration with Active Directory, Azure AD, and LDAP for centralized identity management",
+        "ar": "التكامل مع Active Directory و Azure AD و LDAP لإدارة الهوية المركزية"
+      }
+    },
+    {
+      "title": {
+        "en": "Access Lifecycle Management",
+        "ar": "إدارة دورة حياة الوصول"
+      },
+      "description": {
+        "en": "Automated provisioning and deprovisioning of user accounts aligned with HR processes and policies",
+        "ar": "التزويد وإلغاء التزويد الآلي لحسابات المستخدمين بما يتماشى مع عمليات وسياسات الموارد البشرية"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Supported Platforms",
+        "ar": "المنصات المدعومة"
+      },
+      "specs": [
+        {
+          "en": "Microsoft Azure AD / Entra ID",
+          "ar": "Microsoft Azure AD / Entra ID"
+        },
+        {
+          "en": "Okta Identity Cloud",
+          "ar": "Okta Identity Cloud"
+        },
+        {
+          "en": "CyberArk Privileged Access Security",
+          "ar": "CyberArk Privileged Access Security"
+        },
+        {
+          "en": "SailPoint IdentityIQ",
+          "ar": "SailPoint IdentityIQ"
+        },
+        {
+          "en": "Ping Identity Platform",
+          "ar": "Ping Identity Platform"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Authentication Methods",
+        "ar": "طرق المصادقة"
+      },
+      "specs": [
+        {
+          "en": "SAML 2.0 and OAuth 2.0 / OpenID Connect",
+          "ar": "SAML 2.0 و OAuth 2.0 / OpenID Connect"
+        },
+        {
+          "en": "Biometric authentication (fingerprint, facial recognition)",
+          "ar": "المصادقة البيومترية (بصمة الإصبع، التعرف على الوجه)"
+        },
+        {
+          "en": "Hardware security keys (FIDO2, U2F)",
+          "ar": "مفاتيح الأمان للأجهزة (FIDO2، U2F)"
+        },
+        {
+          "en": "SMS, email, and authenticator app-based MFA",
+          "ar": "المصادقة متعددة العوامل عبر الرسائل القصيرة والبريد الإلكتروني وتطبيق المصادقة"
+        },
+        {
+          "en": "Risk-based adaptive authentication",
+          "ar": "المصادقة التكيفية القائمة على المخاطر"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Compliance & Standards",
+        "ar": "الامتثال والمعايير"
+      },
+      "specs": [
+        {
+          "en": "NCA ECC identity and access control requirements",
+          "ar": "متطلبات التحكم في الهوية والوصول NCA ECC"
+        },
+        {
+          "en": "ISO 27001 access control standards",
+          "ar": "معايير التحكم في الوصول ISO 27001"
+        },
+        {
+          "en": "NIST 800-63 digital identity guidelines",
+          "ar": "إرشادات الهوية الرقمية NIST 800-63"
+        }
+      ]
+    }
+  ]
+}

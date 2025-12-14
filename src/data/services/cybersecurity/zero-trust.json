@@ -1,0 +1,196 @@
+{
+  "hero": {
+    "title": {
+      "en": "Zero Trust Implementation",
+      "ar": "تطبيق الثقة الصفرية"
+    },
+    "subtitle": {
+      "en": "Modern security architecture that never trusts, always verifies every access request",
+      "ar": "بنية أمنية حديثة لا تثق أبدًا، تتحقق دائمًا من كل طلب وصول"
+    }
+  },
+  "description": {
+    "en": "Transform your security posture with Zero Trust Architecture (ZTA). We help organizations move from traditional perimeter-based security to a modern 'never trust, always verify' approach. Our Zero Trust implementation encompasses identity verification, device security, microsegmentation, and continuous monitoring to protect your assets regardless of location. This approach is essential in today's cloud-first, work-from-anywhere environments where the traditional network perimeter no longer exists.",
+    "ar": "حوّل وضعك الأمني مع بنية الثقة الصفرية (ZTA). نساعد المؤسسات على الانتقال من الأمن التقليدي القائم على المحيط إلى نهج حديث 'لا تثق أبدًا، تحقق دائمًا'."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Identity-Centric Security",
+        "ar": "الأمن المتمحور حول الهوية"
+      },
+      "description": {
+        "en": "Strong authentication and continuous verification of user and device identities across all access points",
+        "ar": "المصادقة القوية والتحقق المستمر من هويات المستخدمين والأجهزة عبر جميع نقاط الوصول"
+      }
+    },
+    {
+      "title": {
+        "en": "Network Microsegmentation",
+        "ar": "التقسيم الدقيق للشبكة"
+      },
+      "description": {
+        "en": "Granular network segmentation to limit lateral movement and contain potential breaches within isolated segments",
+        "ar": "التقسيم الدقيق للشبكة للحد من الحركة الجانبية واحتواء الخروقات المحتملة داخل القطاعات المعزولة"
+      }
+    },
+    {
+      "title": {
+        "en": "Least Privilege Access",
+        "ar": "الوصول بأقل الامتيازات"
+      },
+      "description": {
+        "en": "Just-in-time and just-enough access provisioning based on context, risk, and business need",
+        "ar": "توفير الوصول في الوقت المناسب وبالقدر الكافي بناءً على السياق والمخاطر والحاجة التجارية"
+      }
+    },
+    {
+      "title": {
+        "en": "Device Trust Assessment",
+        "ar": "تقييم ثقة الجهاز"
+      },
+      "description": {
+        "en": "Continuous evaluation of device security posture including compliance, patching, and endpoint protection status",
+        "ar": "التقييم المستمر لوضع أمان الجهاز بما في ذلك الامتثال والتصحيح وحالة حماية نقاط النهاية"
+      }
+    },
+    {
+      "title": {
+        "en": "Software-Defined Perimeter",
+        "ar": "المحيط المعرف بالبرمجيات"
+      },
+      "description": {
+        "en": "Dynamic, identity-based network perimeters that replace traditional VPNs and firewalls",
+        "ar": "محيطات الشبكة الديناميكية القائمة على الهوية والتي تحل محل VPN التقليدية وجدران الحماية"
+      }
+    },
+    {
+      "title": {
+        "en": "Continuous Monitoring",
+        "ar": "المراقبة المستمرة"
+      },
+      "description": {
+        "en": "Real-time analytics and behavioral monitoring to detect anomalies and enforce adaptive security policies",
+        "ar": "التحليلات في الوقت الفعلي ومراقبة السلوك لاكتشاف الحالات الشاذة وفرض سياسات الأمان التكيفية"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Zero Trust Components",
+        "ar": "مكونات الثقة الصفرية"
+      },
+      "specs": [
+        {
+          "en": "Identity and Access Management (IAM) platforms",
+          "ar": "منصات إدارة الهوية والوصول (IAM)"
+        },
+        {
+          "en": "Network Access Control (NAC) solutions",
+          "ar": "حلول التحكم في الوصول إلى الشبكة (NAC)"
+        },
+        {
+          "en": "Software-Defined Perimeter (SDP) / ZTNA gateways",
+          "ar": "بوابات المحيط المعرف بالبرمجيات (SDP) / ZTNA"
+        },
+        {
+          "en": "Endpoint Detection and Response (EDR)",
+          "ar": "الكشف والاستجابة لنقاط النهاية (EDR)"
+        },
+        {
+          "en": "Cloud Access Security Broker (CASB)",
+          "ar": "وسيط أمان الوصول إلى السحابة (CASB)"
+        },
+        {
+          "en": "Security analytics and SIEM integration",
+          "ar": "تحليلات الأمن والتكامل مع SIEM"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Implementation Approach",
+        "ar": "نهج التنفيذ"
+      },
+      "specs": [
+        {
+          "en": "Current state assessment and architecture review",
+          "ar": "تقييم الحالة الحالية ومراجعة البنية"
+        },
+        {
+          "en": "Zero Trust maturity model evaluation",
+          "ar": "تقييم نموذج نضج الثقة الصفرية"
+        },
+        {
+          "en": "Phased implementation roadmap",
+          "ar": "خريطة طريق التنفيذ المرحلي"
+        },
+        {
+          "en": "Pilot deployment and validation",
+          "ar": "النشر التجريبي والتحقق"
+        },
+        {
+          "en": "Organization-wide rollout and optimization",
+          "ar": "النشر على مستوى المؤسسة والتحسين"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Supported Platforms",
+        "ar": "المنصات المدعومة"
+      },
+      "specs": [
+        {
+          "en": "Microsoft Zero Trust Architecture",
+          "ar": "بنية الثقة الصفرية من Microsoft"
+        },
+        {
+          "en": "Palo Alto Networks Prisma Access",
+          "ar": "Palo Alto Networks Prisma Access"
+        },
+        {
+          "en": "Zscaler Zero Trust Exchange",
+          "ar": "Zscaler Zero Trust Exchange"
+        },
+        {
+          "en": "Cisco Zero Trust solutions",
+          "ar": "حلول الثقة الصفرية من Cisco"
+        },
+        {
+          "en": "Google BeyondCorp Enterprise",
+          "ar": "Google BeyondCorp Enterprise"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Benefits",
+        "ar": "الفوائد"
+      },
+      "specs": [
+        {
+          "en": "Reduced attack surface and blast radius",
+          "ar": "تقليل سطح الهجوم ونصف قطر الانفجار"
+        },
+        {
+          "en": "Enhanced visibility and control",
+          "ar": "تعزيز الرؤية والتحكم"
+        },
+        {
+          "en": "Support for remote and hybrid work models",
+          "ar": "دعم نماذج العمل عن بعد والهجين"
+        },
+        {
+          "en": "Improved compliance posture",
+          "ar": "تحسين وضع الامتثال"
+        },
+        {
+          "en": "Better user experience with seamless access",
+          "ar": "تجربة مستخدم أفضل مع وصول سلس"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "hero": {
+    "title": {
+      "en": "GRC & Compliance Solutions",
+      "ar": "حلول الحوكمة وإدارة المخاطر والامتثال"
+    },
+    "subtitle": {
+      "en": "Integrated governance, risk management, and compliance framework for comprehensive security oversight",
+      "ar": "إطار عمل متكامل للحوكمة وإدارة المخاطر والامتثال للرقابة الأمنية الشاملة"
+    }
+  },
+  "description": {
+    "en": "Establish a comprehensive Governance, Risk, and Compliance (GRC) framework that aligns cybersecurity initiatives with business objectives. Our GRC solutions provide unified visibility and control over your security posture, risk landscape, and compliance obligations. We help organizations implement efficient processes, automate compliance workflows, and maintain continuous adherence to regulatory requirements while enabling informed decision-making at all levels.",
+    "ar": "أنشئ إطار عمل شامل للحوكمة وإدارة المخاطر والامتثال (GRC) يوائم مبادرات الأمن السيبراني مع أهداف العمل. توفر حلول GRC لدينا رؤية وتحكمًا موحدًا في وضعك الأمني ومشهد المخاطر والتزامات الامتثال."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Policy & Procedure Management",
+        "ar": "إدارة السياسات والإجراءات"
+      },
+      "description": {
+        "en": "Centralized repository for security policies with version control, approval workflows, and attestation tracking",
+        "ar": "مستودع مركزي لسياسات الأمان مع التحكم في الإصدار وسير عمل الموافقة وتتبع الشهادات"
+      }
+    },
+    {
+      "title": {
+        "en": "Risk Register & Treatment",
+        "ar": "سجل المخاطر ومعالجتها"
+      },
+      "description": {
+        "en": "Comprehensive risk identification, assessment, and treatment planning with continuous monitoring and reporting",
+        "ar": "تحديد وتقييم المخاطر الشامل وتخطيط المعالجة مع المراقبة والإبلاغ المستمر"
+      }
+    },
+    {
+      "title": {
+        "en": "Compliance Automation",
+        "ar": "أتمتة الامتثال"
+      },
+      "description": {
+        "en": "Automated evidence collection, control testing, and compliance reporting for multiple regulatory frameworks",
+        "ar": "جمع الأدلة الآلي واختبار الضوابط وإعداد تقارير الامتثال لأطر تنظيمية متعددة"
+      }
+    },
+    {
+      "title": {
+        "en": "Third-Party Risk Management",
+        "ar": "إدارة مخاطر الطرف الثالث"
+      },
+      "description": {
+        "en": "Vendor risk assessment, due diligence, and continuous monitoring of third-party security posture",
+        "ar": "تقييم مخاطر الموردين والعناية الواجبة والمراقبة المستمرة لوضع أمان الطرف الثالث"
+      }
+    },
+    {
+      "title": {
+        "en": "Audit Management",
+        "ar": "إدارة التدقيق"
+      },
+      "description": {
+        "en": "Streamlined audit planning, execution, and remediation tracking with audit-ready documentation",
+        "ar": "تخطيط التدقيق المبسط والتنفيذ وتتبع المعالجة مع وثائق جاهزة للتدقيق"
+      }
+    },
+    {
+      "title": {
+        "en": "Executive Dashboards",
+        "ar": "لوحات معلومات تنفيذية"
+      },
+      "description": {
+        "en": "Real-time visibility into risk posture, compliance status, and security metrics for informed decision-making",
+        "ar": "رؤية في الوقت الفعلي لوضع المخاطر وحالة الامتثال ومقاييس الأمان لاتخاذ قرارات مستنيرة"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "GRC Platform Features",
+        "ar": "ميزات منصة GRC"
+      },
+      "specs": [
+        {
+          "en": "Integrated GRC platform (ServiceNow GRC, RSA Archer, or MetricStream)",
+          "ar": "منصة GRC متكاملة (ServiceNow GRC أو RSA Archer أو MetricStream)"
+        },
+        {
+          "en": "Risk assessment and treatment workflows",
+          "ar": "سير عمل تقييم المخاطر ومعالجتها"
+        },
+        {
+          "en": "Compliance management and automation",
+          "ar": "إدارة الامتثال والأتمتة"
+        },
+        {
+          "en": "Policy lifecycle management",
+          "ar": "إدارة دورة حياة السياسة"
+        },
+        {
+          "en": "Audit and assessment modules",
+          "ar": "وحدات التدقيق والتقييم"
+        },
+        {
+          "en": "Reporting and analytics dashboards",
+          "ar": "لوحات معلومات التقارير والتحليلات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Supported Frameworks",
+        "ar": "الأطر المدعومة"
+      },
+      "specs": [
+        {
+          "en": "NCA ECC (Essential Cybersecurity Controls)",
+          "ar": "ضوابط الأمن السيبراني الأساسية NCA ECC"
+        },
+        {
+          "en": "SAMA Cybersecurity Framework",
+          "ar": "إطار الأمن السيبراني SAMA"
+        },
+        {
+          "en": "ISO/IEC 27001:2022 and related standards",
+          "ar": "ISO/IEC 27001:2022 والمعايير ذات الصلة"
+        },
+        {
+          "en": "NIST CSF and NIST 800-53",
+          "ar": "NIST CSF و NIST 800-53"
+        },
+        {
+          "en": "CIS Controls v8",
+          "ar": "CIS Controls v8"
+        },
+        {
+          "en": "PCI-DSS, GDPR, HIPAA (where applicable)",
+          "ar": "PCI-DSS و GDPR و HIPAA (حيثما ينطبق)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Service Components",
+        "ar": "مكونات الخدمة"
+      },
+      "specs": [
+        {
+          "en": "GRC platform implementation and configuration",
+          "ar": "تنفيذ وتكوين منصة GRC"
+        },
+        {
+          "en": "Framework mapping and control library development",
+          "ar": "رسم خرائط الإطار وتطوير مكتبة الضوابط"
+        },
+        {
+          "en": "Risk assessment workshops and documentation",
+          "ar": "ورش عمل تقييم المخاطر والتوثيق"
+        },
+        {
+          "en": "Compliance gap analysis and remediation planning",
+          "ar": "تحليل فجوات الامتثال وتخطيط المعالجة"
+        },
+        {
+          "en": "Policy development and review services",
+          "ar": "خدمات تطوير السياسات ومراجعتها"
+        },
+        {
+          "en": "Internal audit support and coordination",
+          "ar": "دعم التدقيق الداخلي والتنسيق"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Benefits",
+        "ar": "الفوائد"
+      },
+      "specs": [
+        {
+          "en": "Unified view of risk and compliance posture",
+          "ar": "رؤية موحدة لوضع المخاطر والامتثال"
+        },
+        {
+          "en": "Reduced compliance costs through automation",
+          "ar": "تقليل تكاليف الامتثال من خلال الأتمتة"
+        },
+        {
+          "en": "Improved decision-making with real-time insights",
+          "ar": "تحسين اتخاذ القرارات مع رؤى في الوقت الفعلي"
+        },
+        {
+          "en": "Streamlined audit readiness",
+          "ar": "تبسيط الجاهزية للتدقيق"
+        },
+        {
+          "en": "Enhanced stakeholder confidence",
+          "ar": "تعزيز ثقة أصحاب المصلحة"
+        }
+      ]
+    }
+  ]
+}

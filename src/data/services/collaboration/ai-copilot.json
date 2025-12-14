@@ -1,0 +1,216 @@
+{
+  "hero": {
+    "title": {
+      "en": "AI Copilot Enablement Services",
+      "ar": "خدمات تمكين المساعد الذكي"
+    },
+    "subtitle": {
+      "en": "Unlock productivity with Microsoft Copilot and AI-powered assistants across your organization",
+      "ar": "أطلق العنان للإنتاجية مع Microsoft Copilot والمساعدين المدعومين بالذكاء الاصطناعي عبر مؤسستك"
+    }
+  },
+  "description": {
+    "en": "Transform how your workforce operates with our AI Copilot enablement services. We help organizations successfully adopt and deploy Microsoft Copilot for Microsoft 365, Copilot Studio, and custom AI assistants that enhance productivity across Teams, Outlook, Word, Excel, PowerPoint, and other business applications. Our comprehensive approach includes readiness assessment, data preparation, security configuration, user training, and governance to ensure your organization maximizes the value of AI-powered assistance.",
+    "ar": "حوّل طريقة عمل قوتك العاملة مع خدمات تمكين المساعد الذكي لدينا. نساعد المؤسسات على اعتماد ونشر Microsoft Copilot لـ Microsoft 365 و Copilot Studio والمساعدين الذكيين المخصصين بنجاح."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Copilot Readiness Assessment",
+        "ar": "تقييم جاهزية Copilot"
+      },
+      "description": {
+        "en": "Comprehensive evaluation of your Microsoft 365 environment, data governance, and security posture to ensure Copilot readiness",
+        "ar": "التقييم الشامل لبيئة Microsoft 365 وحوكمة البيانات والوضع الأمني لضمان جاهزية Copilot"
+      }
+    },
+    {
+      "title": {
+        "en": "Data Governance & Security",
+        "ar": "حوكمة البيانات والأمان"
+      },
+      "description": {
+        "en": "Configure sensitivity labels, DLP policies, and access controls to ensure Copilot operates within your security boundaries",
+        "ar": "تكوين تسميات الحساسية وسياسات DLP وضوابط الوصول لضمان عمل Copilot ضمن حدود الأمان الخاصة بك"
+      }
+    },
+    {
+      "title": {
+        "en": "Custom Copilot Development",
+        "ar": "تطوير Copilot مخصص"
+      },
+      "description": {
+        "en": "Build organization-specific copilots using Copilot Studio with custom knowledge bases, plugins, and enterprise data integration",
+        "ar": "بناء copilots خاصة بالمؤسسة باستخدام Copilot Studio مع قواعد المعرفة المخصصة والمكونات الإضافية وتكامل بيانات المؤسسة"
+      }
+    },
+    {
+      "title": {
+        "en": "Plugin & Extension Development",
+        "ar": "تطوير المكونات الإضافية والامتدادات"
+      },
+      "description": {
+        "en": "Extend Copilot capabilities with custom plugins that integrate with your line-of-business applications and data sources",
+        "ar": "توسيع قدرات Copilot مع المكونات الإضافية المخصصة التي تتكامل مع تطبيقات خط الأعمال ومصادر البيانات"
+      }
+    },
+    {
+      "title": {
+        "en": "User Adoption & Training",
+        "ar": "اعتماد المستخدم والتدريب"
+      },
+      "description": {
+        "en": "Comprehensive training programs and change management to drive Copilot adoption and maximize productivity gains",
+        "ar": "برامج التدريب الشاملة وإدارة التغيير لدفع اعتماد Copilot وتعظيم مكاسب الإنتاجية"
+      }
+    },
+    {
+      "title": {
+        "en": "Usage Analytics & Optimization",
+        "ar": "تحليلات الاستخدام والتحسين"
+      },
+      "description": {
+        "en": "Monitor Copilot usage patterns, measure ROI, and continuously optimize deployment for maximum business value",
+        "ar": "مراقبة أنماط استخدام Copilot وقياس العائد على الاستثمار والتحسين المستمر للنشر لتحقيق أقصى قيمة تجارية"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Microsoft Copilot Suite",
+        "ar": "مجموعة Microsoft Copilot"
+      },
+      "specs": [
+        {
+          "en": "Copilot for Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams)",
+          "ar": "Copilot لـ Microsoft 365 (Word و Excel و PowerPoint و Outlook و Teams)"
+        },
+        {
+          "en": "Copilot Studio for custom copilot development",
+          "ar": "Copilot Studio لتطوير copilot مخصص"
+        },
+        {
+          "en": "GitHub Copilot for developer productivity",
+          "ar": "GitHub Copilot لإنتاجية المطورين"
+        },
+        {
+          "en": "Copilot in Power Platform (Power Apps, Power Automate, Power BI)",
+          "ar": "Copilot في Power Platform (Power Apps و Power Automate و Power BI)"
+        },
+        {
+          "en": "Dynamics 365 Copilot for CRM and ERP",
+          "ar": "Dynamics 365 Copilot لـ CRM و ERP"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Prerequisites & Requirements",
+        "ar": "المتطلبات الأساسية والمتطلبات"
+      },
+      "specs": [
+        {
+          "en": "Microsoft 365 E3 or E5 licensing",
+          "ar": "ترخيص Microsoft 365 E3 أو E5"
+        },
+        {
+          "en": "Azure Active Directory (Entra ID) configuration",
+          "ar": "تكوين Azure Active Directory (Entra ID)"
+        },
+        {
+          "en": "Microsoft Purview data governance setup",
+          "ar": "إعداد حوكمة البيانات Microsoft Purview"
+        },
+        {
+          "en": "SharePoint Online and OneDrive configuration",
+          "ar": "تكوين SharePoint Online و OneDrive"
+        },
+        {
+          "en": "Teams and Exchange Online deployment",
+          "ar": "نشر Teams و Exchange Online"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Security & Compliance",
+        "ar": "الأمان والامتثال"
+      },
+      "specs": [
+        {
+          "en": "Sensitivity labels and information protection policies",
+          "ar": "تسميات الحساسية وسياسات حماية المعلومات"
+        },
+        {
+          "en": "Data loss prevention (DLP) configuration",
+          "ar": "تكوين منع فقدان البيانات (DLP)"
+        },
+        {
+          "en": "Conditional access and MFA enforcement",
+          "ar": "الوصول المشروط وفرض المصادقة متعددة العوامل"
+        },
+        {
+          "en": "Audit logging and compliance reporting",
+          "ar": "تسجيل التدقيق وإعداد تقارير الامتثال"
+        },
+        {
+          "en": "Semantic search and Graph API permissions",
+          "ar": "البحث الدلالي وأذونات Graph API"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Custom Development",
+        "ar": "التطوير المخصص"
+      },
+      "specs": [
+        {
+          "en": "Copilot Studio conversational AI builder",
+          "ar": "منشئ الذكاء الاصطناعي للمحادثة Copilot Studio"
+        },
+        {
+          "en": "Plugin development with API integration",
+          "ar": "تطوير المكونات الإضافية مع تكامل API"
+        },
+        {
+          "en": "Custom knowledge sources and grounding",
+          "ar": "مصادر المعرفة المخصصة والتأريض"
+        },
+        {
+          "en": "Azure OpenAI Service integration",
+          "ar": "تكامل خدمة Azure OpenAI"
+        },
+        {
+          "en": "Power Automate workflow integration",
+          "ar": "تكامل سير عمل Power Automate"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Adoption Services",
+        "ar": "خدمات الاعتماد"
+      },
+      "specs": [
+        {
+          "en": "Executive and end-user training programs",
+          "ar": "برامج التدريب التنفيذي والمستخدم النهائي"
+        },
+        {
+          "en": "Use case identification and prioritization",
+          "ar": "تحديد حالات الاستخدام وتحديد الأولويات"
+        },
+        {
+          "en": "Champion network and community building",
+          "ar": "شبكة الأبطال وبناء المجتمع"
+        },
+        {
+          "en": "ROI measurement and success metrics",
+          "ar": "قياس العائد على الاستثمار ومقاييس النجاح"
+        }
+      ]
+    }
+  ]
+}

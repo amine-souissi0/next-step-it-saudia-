@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "container-platform",
+    "slug": "container-platform",
+    "parentService": "cloud"
+  },
+  "hero": {
+    "title": {
+      "en": "Container Platform & Kubernetes",
+      "ar": "منصة الحاويات و Kubernetes"
+    },
+    "subtitle": {
+      "en": "Enterprise container orchestration platform enabling cloud-native applications with Kubernetes, Docker, and modern DevOps practices",
+      "ar": "منصة تنسيق الحاويات المؤسسية التي تمكن التطبيقات السحابية الأصلية مع Kubernetes و Docker وممارسات DevOps الحديثة"
+    },
+    "badge": {
+      "en": "Cloud Native",
+      "ar": "السحابة الأصلية"
+    }
+  },
+  "description": {
+    "en": "Accelerate application development and deployment with our enterprise container platform built on Kubernetes. We provide fully managed container orchestration, automated CI/CD pipelines, service mesh integration, and comprehensive monitoring that enables teams to build, ship, and run cloud-native applications at scale with improved reliability and faster time-to-market.",
+    "ar": "قم بتسريع تطوير التطبيقات ونشرها من خلال منصة الحاويات المؤسسية المبنية على Kubernetes. نوفر تنسيق الحاويات المدار بالكامل وخطوط CI/CD التلقائية وتكامل شبكة الخدمة والمراقبة الشاملة التي تمكن الفرق من بناء وشحن وتشغيل التطبيقات السحابية الأصلية على نطاق واسع مع تحسين الموثوقية ووقت أسرع للسوق."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Managed Kubernetes",
+        "ar": "Kubernetes المُدار"
+      },
+      "description": {
+        "en": "Production-ready Kubernetes clusters with automated upgrades, patching, scaling, and 99.95% SLA. Deploy on AWS EKS, Azure AKS, Google GKE, or on-premises with Rancher/OpenShift.",
+        "ar": "مجموعات Kubernetes الجاهزة للإنتاج مع الترقيات التلقائية والتصحيح والتوسع و SLA 99.95٪. انشر على AWS EKS أو Azure AKS أو Google GKE أو داخليًا مع Rancher/OpenShift."
+      }
+    },
+    {
+      "title": {
+        "en": "Container Registry & Security",
+        "ar": "سجل الحاويات والأمان"
+      },
+      "description": {
+        "en": "Private container registry with vulnerability scanning, image signing, compliance enforcement, and integration with Harbor, Artifactory, or cloud-native registries preventing deployment of insecure images.",
+        "ar": "سجل حاويات خاص مع فحص الثغرات وتوقيع الصورة وإنفاذ الامتثال والتكامل مع Harbor أو Artifactory أو السجلات السحابية الأصلية مما يمنع نشر الصور غير الآمنة."
+      }
+    },
+    {
+      "title": {
+        "en": "Service Mesh Integration",
+        "ar": "تكامل شبكة الخدمة"
+      },
+      "description": {
+        "en": "Advanced traffic management, observability, and security with Istio or Linkerd providing mutual TLS, circuit breaking, canary deployments, and distributed tracing across microservices.",
+        "ar": "إدارة حركة المرور المتقدمة والملاحظة والأمان مع Istio أو Linkerd توفر TLS المتبادل وقطع الدائرة ونشر الكناري والتتبع الموزع عبر الخدمات الدقيقة."
+      }
+    },
+    {
+      "title": {
+        "en": "GitOps & CI/CD",
+        "ar": "GitOps و CI/CD"
+      },
+      "description": {
+        "en": "Automated deployment pipelines with GitOps workflows using Argo CD, Flux, Jenkins, or GitLab CI enabling continuous delivery, automated rollbacks, and infrastructure-as-code practices.",
+        "ar": "خطوط نشر آلية مع سير عمل GitOps باستخدام Argo CD أو Flux أو Jenkins أو GitLab CI مما يتيح التسليم المستمر والتراجع التلقائي وممارسات البنية التحتية كرمز."
+      }
+    },
+    {
+      "title": {
+        "en": "Observability & Monitoring",
+        "ar": "الملاحظة والمراقبة"
+      },
+      "description": {
+        "en": "Comprehensive monitoring stack with Prometheus, Grafana, ELK/EFK for metrics, logs, and traces providing real-time insights, alerting, and troubleshooting capabilities across the entire platform.",
+        "ar": "مجموعة مراقبة شاملة مع Prometheus و Grafana و ELK/EFK للمقاييس والسجلات والآثار توفر رؤى في الوقت الفعلي والتنبيه وقدرات استكشاف الأخطاء وإصلاحها عبر المنصة بأكملها."
+      }
+    },
+    {
+      "title": {
+        "en": "Auto-Scaling & Optimization",
+        "ar": "التوسع التلقائي والتحسين"
+      },
+      "description": {
+        "en": "Horizontal Pod Autoscaler (HPA), Vertical Pod Autoscaler (VPA), and Cluster Autoscaler automatically adjusting resources based on demand, optimizing costs while maintaining performance SLAs.",
+        "ar": "Horizontal Pod Autoscaler (HPA) و Vertical Pod Autoscaler (VPA) و Cluster Autoscaler تضبط الموارد تلقائيًا بناءً على الطلب، وتحسين التكاليف مع الحفاظ على اتفاقيات مستوى الخدمة للأداء."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Platform Specifications & Technologies",
+      "ar": "مواصفات المنصة والتقنيات"
+    },
+    "items": {
+      "en": [
+        "Kubernetes: Versions 1.28+ with support for all major distributions (EKS, AKS, GKE, Rancher, OpenShift, Vanilla) and air-gapped deployments",
+        "Container Runtime: Docker, containerd, CRI-O with OCI compliance and support for Windows containers",
+        "Networking: Calico, Cilium, Weave Net with network policies, CNI plugins, and high-performance networking up to 100Gbps",
+        "Storage: Persistent volumes with CSI drivers supporting block, file, and object storage from any provider with dynamic provisioning",
+        "Load Balancing: Nginx Ingress, Traefik, Istio Gateway with L4/L7 load balancing, TLS termination, and rate limiting",
+        "Security: Pod Security Policies, Network Policies, RBAC, OPA/Gatekeeper for policy enforcement, Falco for runtime security, and Vault integration",
+        "Multi-Tenancy: Namespace isolation, resource quotas, limit ranges, and hierarchical namespaces supporting 100+ tenants per cluster",
+        "Disaster Recovery: Velero for backup and restore, cross-cluster replication, and disaster recovery with RPO < 1 hour"
+      ],
+      "ar": [
+        "Kubernetes: الإصدارات 1.28+ مع دعم جميع التوزيعات الرئيسية (EKS و AKS و GKE و Rancher و OpenShift و Vanilla) والنشر المعزول",
+        "وقت تشغيل الحاوية: Docker و containerd و CRI-O مع امتثال OCI ودعم حاويات Windows",
+        "الشبكات: Calico و Cilium و Weave Net مع سياسات الشبكة ومكونات CNI الإضافية والشبكات عالية الأداء تصل إلى 100 جيجابت في الثانية",
+        "التخزين: وحدات التخزين الدائمة مع برامج تشغيل CSI تدعم تخزين الكتلة والملف والكائن من أي مزود مع التوفير الديناميكي",
+        "موازنة الحمل: Nginx Ingress و Traefik و Istio Gateway مع موازنة الحمل L4/L7 وإنهاء TLS والحد من المعدل",
+        "الأمان: سياسات أمان Pod وسياسات الشبكة و RBAC و OPA/Gatekeeper لإنفاذ السياسة و Falco لأمان وقت التشغيل وتكامل Vault",
+        "تعدد المستأجرين: عزل مساحة الاسم وحصص الموارد ونطاقات الحد ومساحات الأسماء الهرمية تدعم أكثر من 100 مستأجر لكل مجموعة",
+        "التعافي من الكوارث: Velero للنسخ الاحتياطي والاستعادة والنسخ المتماثل عبر المجموعات والتعافي من الكوارث مع RPO < 1 ساعة"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Public Cloud",
+        "ar": "السحابة العامة"
+      },
+      "link": "/services/cloud/public-cloud"
+    },
+    {
+      "title": {
+        "en": "DevOps Services",
+        "ar": "خدمات DevOps"
+      },
+      "link": "/services/integration"
+    },
+    {
+      "title": {
+        "en": "Managed Services",
+        "ar": "الخدمات المدارة"
+      },
+      "link": "/services/managed"
+    }
+  ]
+}

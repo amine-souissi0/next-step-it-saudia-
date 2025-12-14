@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "title": {
+      "en": "Incident Response Services",
+      "ar": "خدمات الاستجابة للحوادث"
+    },
+    "subtitle": {
+      "en": "Rapid containment and recovery from cybersecurity incidents with expert incident response teams",
+      "ar": "الاحتواء السريع والتعافي من الحوادث السيبرانية مع فرق الاستجابة للحوادث الخبيرة"
+    }
+  },
+  "description": {
+    "en": "When a security incident occurs, every minute counts. Our incident response services provide rapid detection, containment, eradication, and recovery from cybersecurity incidents. With certified incident responders available 24/7, advanced forensic tools, and proven methodologies, we minimize the impact of security breaches and help you restore normal operations quickly while preserving evidence for investigation and compliance purposes.",
+    "ar": "عندما يحدث حادث أمني، كل دقيقة لها أهمية. توفر خدمات الاستجابة للحوادث لدينا الكشف السريع والاحتواء والقضاء والتعافي من الحوادث السيبرانية."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "24/7 Emergency Response",
+        "ar": "الاستجابة للطوارئ على مدار الساعة"
+      },
+      "description": {
+        "en": "Round-the-clock availability of certified incident responders with guaranteed response times for critical incidents",
+        "ar": "توافر على مدار الساعة لمستجيبي الحوادث المعتمدين مع أوقات استجابة مضمونة للحوادث الحرجة"
+      }
+    },
+    {
+      "title": {
+        "en": "Digital Forensics",
+        "ar": "الطب الشرعي الرقمي"
+      },
+      "description": {
+        "en": "Advanced forensic analysis to identify attack vectors, scope of compromise, and evidence collection for legal proceedings",
+        "ar": "التحليل الجنائي المتقدم لتحديد ناقلات الهجوم ونطاق الاختراق وجمع الأدلة للإجراءات القانونية"
+      }
+    },
+    {
+      "title": {
+        "en": "Malware Analysis",
+        "ar": "تحليل البرامج الضارة"
+      },
+      "description": {
+        "en": "In-depth reverse engineering and behavior analysis of malicious code to understand capabilities and attribution",
+        "ar": "الهندسة العكسية المتعمقة وتحليل سلوك الشفرة الضارة لفهم القدرات والإسناد"
+      }
+    },
+    {
+      "title": {
+        "en": "Threat Containment",
+        "ar": "احتواء التهديد"
+      },
+      "description": {
+        "en": "Rapid isolation and containment of affected systems to prevent lateral movement and limit damage",
+        "ar": "العزل والاحتواء السريع للأنظمة المتأثرة لمنع الحركة الجانبية والحد من الضرر"
+      }
+    },
+    {
+      "title": {
+        "en": "Recovery & Remediation",
+        "ar": "التعافي والمعالجة"
+      },
+      "description": {
+        "en": "Systematic restoration of services with validation, security hardening, and lessons-learned documentation",
+        "ar": "الاستعادة المنهجية للخدمات مع التحقق وتعزيز الأمن وتوثيق الدروس المستفادة"
+      }
+    },
+    {
+      "title": {
+        "en": "Post-Incident Support",
+        "ar": "الدعم بعد الحادث"
+      },
+      "description": {
+        "en": "Comprehensive reporting, regulatory notifications, and security improvements to prevent future incidents",
+        "ar": "التقارير الشاملة والإخطارات التنظيمية والتحسينات الأمنية لمنع الحوادث المستقبلية"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Response Capabilities",
+        "ar": "قدرات الاستجابة"
+      },
+      "specs": [
+        {
+          "en": "15-minute initial response for critical incidents",
+          "ar": "استجابة أولية خلال 15 دقيقة للحوادث الحرجة"
+        },
+        {
+          "en": "On-site response team deployment within hours",
+          "ar": "نشر فريق الاستجابة في الموقع خلال ساعات"
+        },
+        {
+          "en": "Remote incident handling and coordination",
+          "ar": "المعالجة عن بعد للحوادث والتنسيق"
+        },
+        {
+          "en": "Multi-language support (English and Arabic)",
+          "ar": "دعم متعدد اللغات (الإنجليزية والعربية)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Forensic Tools & Methods",
+        "ar": "الأدوات والطرق الجنائية"
+      },
+      "specs": [
+        {
+          "en": "EnCase Forensic and FTK (Forensic Toolkit)",
+          "ar": "EnCase Forensic و FTK (مجموعة أدوات الطب الشرعي)"
+        },
+        {
+          "en": "Volatility for memory forensics",
+          "ar": "Volatility للطب الشرعي للذاكرة"
+        },
+        {
+          "en": "Wireshark and NetworkMiner for network analysis",
+          "ar": "Wireshark و NetworkMiner لتحليل الشبكة"
+        },
+        {
+          "en": "SIFT Workstation and SANS Investigative Forensics Toolkit",
+          "ar": "SIFT Workstation ومجموعة أدوات الطب الشرعي الاستقصائي SANS"
+        },
+        {
+          "en": "Cloud forensics tools for AWS, Azure, GCP",
+          "ar": "أدوات الطب الشرعي السحابية لـ AWS و Azure و GCP"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Incident Types Covered",
+        "ar": "أنواع الحوادث المغطاة"
+      },
+      "specs": [
+        {
+          "en": "Ransomware and malware infections",
+          "ar": "إصابات برامج الفدية والبرامج الضارة"
+        },
+        {
+          "en": "Data breaches and exfiltration",
+          "ar": "خروقات البيانات والتسريب"
+        },
+        {
+          "en": "Phishing and social engineering attacks",
+          "ar": "هجمات التصيد والهندسة الاجتماعية"
+        },
+        {
+          "en": "Insider threats and privilege abuse",
+          "ar": "التهديدات الداخلية وإساءة استخدام الامتيازات"
+        },
+        {
+          "en": "DDoS attacks and service disruptions",
+          "ar": "هجمات DDoS واضطرابات الخدمة"
+        },
+        {
+          "en": "Advanced persistent threats (APTs)",
+          "ar": "التهديدات المستمرة المتقدمة (APTs)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Compliance & Legal",
+        "ar": "الامتثال والشؤون القانونية"
+      },
+      "specs": [
+        {
+          "en": "Chain of custody procedures for legal admissibility",
+          "ar": "إجراءات سلسلة الحفظ للقبول القانوني"
+        },
+        {
+          "en": "NCA incident reporting assistance",
+          "ar": "المساعدة في الإبلاغ عن الحوادث إلى الهيئة الوطنية للأمن السيبراني"
+        },
+        {
+          "en": "Expert witness testimony support",
+          "ar": "دعم شهادة الشهود الخبراء"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "backup-storage",
+    "slug": "backup-storage",
+    "parentService": "cloud"
+  },
+  "hero": {
+    "title": {
+      "en": "Backup & Storage Solutions",
+      "ar": "حلول النسخ الاحتياطي والتخزين"
+    },
+    "subtitle": {
+      "en": "Enterprise-grade backup, archiving, and storage solutions ensuring data protection, compliance, and instant recovery",
+      "ar": "حلول نسخ احتياطي وأرشفة وتخزين على مستوى المؤسسات تضمن حماية البيانات والامتثال والاستعادة الفورية"
+    },
+    "badge": {
+      "en": "Data Protection",
+      "ar": "حماية البيانات"
+    }
+  },
+  "description": {
+    "en": "Protect your critical business data with our comprehensive backup and storage solutions. We provide automated backup strategies, immutable storage, ransomware protection, and rapid recovery capabilities that ensure business continuity and meet the most stringent compliance requirements including GDPR, HIPAA, and industry-specific regulations.",
+    "ar": "احمِ بيانات عملك الحيوية من خلال حلول النسخ الاحتياطي والتخزين الشاملة. نوفر استراتيجيات نسخ احتياطي آلية وتخزين غير قابل للتغيير وحماية من برامج الفدية وقدرات استعادة سريعة تضمن استمرارية الأعمال وتلبي متطلبات الامتثال الأكثر صرامة بما في ذلك GDPR و HIPAA واللوائح الخاصة بالصناعة."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Automated Backup Management",
+        "ar": "إدارة النسخ الاحتياطي التلقائي"
+      },
+      "description": {
+        "en": "Set-and-forget backup automation with configurable schedules, incremental backups, deduplication, compression, and intelligent retention policies reducing storage costs by up to 60%.",
+        "ar": "أتمتة النسخ الاحتياطي مع جداول قابلة للتكوين ونسخ احتياطية تزايدية وإلغاء البيانات المكررة والضغط وسياسات الاحتفاظ الذكية مما يقلل من تكاليف التخزين بنسبة تصل إلى 60٪."
+      }
+    },
+    {
+      "title": {
+        "en": "Immutable Storage",
+        "ar": "التخزين غير القابل للتغيير"
+      },
+      "description": {
+        "en": "Write-once-read-many (WORM) storage preventing data modification or deletion, providing protection against ransomware, insider threats, and accidental deletions.",
+        "ar": "تخزين الكتابة مرة واحدة والقراءة المتعددة (WORM) يمنع تعديل البيانات أو حذفها، مما يوفر الحماية ضد برامج الفدية والتهديدات الداخلية والحذف العرضي."
+      }
+    },
+    {
+      "title": {
+        "en": "Instant Recovery",
+        "ar": "الاستعادة الفورية"
+      },
+      "description": {
+        "en": "Rapid recovery with instant VM recovery, file-level restore, granular application recovery, and boot-from-backup capabilities achieving RTOs under 15 minutes.",
+        "ar": "استعادة سريعة مع استعادة VM الفورية واستعادة مستوى الملف واستعادة التطبيق الدقيق وقدرات التمهيد من النسخ الاحتياطي مما يحقق RTOs أقل من 15 دقيقة."
+      }
+    },
+    {
+      "title": {
+        "en": "Multi-Tier Storage",
+        "ar": "التخزين متعدد المستويات"
+      },
+      "description": {
+        "en": "Intelligent data tiering across hot, warm, and cold storage tiers with automatic lifecycle management, optimizing performance and cost based on access patterns.",
+        "ar": "تدريج البيانات الذكي عبر مستويات التخزين الساخنة والدافئة والباردة مع إدارة دورة الحياة التلقائية، وتحسين الأداء والتكلفة بناءً على أنماط الوصول."
+      }
+    },
+    {
+      "title": {
+        "en": "Air-Gap Protection",
+        "ar": "حماية الفجوة الهوائية"
+      },
+      "description": {
+        "en": "Physical and logical air-gap between production and backup systems, creating an isolated recovery environment that's immune to network-based attacks and malware.",
+        "ar": "فجوة هوائية مادية ومنطقية بين أنظمة الإنتاج والنسخ الاحتياطي، مما يخلق بيئة استعادة معزولة محصنة ضد الهجمات القائمة على الشبكة والبرامج الضارة."
+      }
+    },
+    {
+      "title": {
+        "en": "Compliance & Reporting",
+        "ar": "الامتثال والإبلاغ"
+      },
+      "description": {
+        "en": "Comprehensive audit trails, backup verification, compliance dashboards, and automated reporting for regulatory requirements including data retention and recovery testing.",
+        "ar": "سجلات تدقيق شاملة والتحقق من النسخ الاحتياطي ولوحات معلومات الامتثال والإبلاغ التلقائي لمتطلبات التنظيم بما في ذلك الاحتفاظ بالبيانات واختبار الاستعادة."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Technical Specifications & Protection Capabilities",
+      "ar": "المواصفات الفنية وقدرات الحماية"
+    },
+    "items": {
+      "en": [
+        "Backup Targets: VMware, Hyper-V, physical servers, cloud workloads (AWS, Azure, GCP), SaaS applications (Microsoft 365, Google Workspace), databases (SQL, Oracle, MySQL, PostgreSQL, MongoDB)",
+        "Storage Capacity: Scalable from 10TB to 10PB+ with automatic capacity expansion and thin provisioning",
+        "Performance: Up to 100TB/hour backup throughput with parallel processing and network acceleration",
+        "Retention: Flexible retention policies from hourly snapshots to 99-year archival with GFS (Grandfather-Father-Son) scheduling",
+        "Deduplication: Variable block-length deduplication achieving 20:1 to 50:1 compression ratios reducing storage requirements",
+        "Replication: Real-time and scheduled replication to secondary sites with bandwidth throttling and WAN optimization",
+        "Encryption: AES-256 encryption at rest and in transit with key management integration (HSM, KMS) and FIPS 140-2 compliance",
+        "Recovery Options: Full system restore, bare-metal recovery, instant VM recovery, file-level restore, application-aware backup and recovery"
+      ],
+      "ar": [
+        "أهداف النسخ الاحتياطي: VMware و Hyper-V والخوادم المادية وأحمال العمل السحابية (AWS و Azure و GCP) وتطبيقات SaaS (Microsoft 365 و Google Workspace) وقواعد البيانات (SQL و Oracle و MySQL و PostgreSQL و MongoDB)",
+        "سعة التخزين: قابلة للتوسع من 10 تيرابايت إلى 10 بيتابايت + مع التوسع التلقائي للسعة والتوفير الرقيق",
+        "الأداء: ما يصل إلى 100 تيرابايت / ساعة إنتاجية النسخ الاحتياطي مع المعالجة المتوازية وتسريع الشبكة",
+        "الاحتفاظ: سياسات احتفاظ مرنة من اللقطات الساعية إلى الأرشفة لمدة 99 عامًا مع جدولة GFS (الجد-الأب-الابن)",
+        "إلغاء البيانات المكررة: إلغاء البيانات المكررة بطول الكتلة المتغير تحقيق نسب ضغط 20:1 إلى 50:1 مما يقلل من متطلبات التخزين",
+        "النسخ المتماثل: النسخ المتماثل في الوقت الفعلي والمجدول إلى المواقع الثانوية مع خنق النطاق الترددي وتحسين WAN",
+        "التشفير: تشفير AES-256 في حالة الراحة والعبور مع تكامل إدارة المفاتيح (HSM و KMS) والامتثال FIPS 140-2",
+        "خيارات الاستعادة: استعادة النظام الكاملة واسترداد المعدن العاري واستعادة VM الفورية واستعادة مستوى الملف والنسخ الاحتياطي والاستعادة الواعية للتطبيق"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Disaster Recovery",
+        "ar": "التعافي من الكوارث"
+      },
+      "link": "/services/cloud/disaster-recovery"
+    },
+    {
+      "title": {
+        "en": "Cybersecurity",
+        "ar": "الأمن السيبراني"
+      },
+      "link": "/services/cybersecurity"
+    },
+    {
+      "title": {
+        "en": "Managed Services",
+        "ar": "الخدمات المدارة"
+      },
+      "link": "/services/managed"
+    }
+  ]
+}

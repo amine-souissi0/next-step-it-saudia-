@@ -1,0 +1,228 @@
+{
+  "hero": {
+    "title": {
+      "en": "Change Management & Digital Adoption",
+      "ar": "إدارة التغيير والاعتماد الرقمي"
+    },
+    "subtitle": {
+      "en": "Strategic guidance to drive successful technology adoption and organizational transformation",
+      "ar": "التوجيه الاستراتيجي لدفع اعتماد التكنولوجيا الناجح والتحول التنظيمي"
+    }
+  },
+  "description": {
+    "en": "Technology transformation is only successful when people embrace change. Our change management and digital adoption services ensure your technology investments deliver maximum value through strategic planning, stakeholder engagement, comprehensive training, and continuous support. We follow proven methodologies including ADKAR, Prosci, and Kotter's 8-Step Process to minimize resistance, accelerate adoption, and create lasting behavioral change that drives business outcomes.",
+    "ar": "يكون التحول التكنولوجي ناجحًا فقط عندما يتبنى الناس التغيير. تضمن خدمات إدارة التغيير والاعتماد الرقمي لدينا أن استثماراتك التكنولوجية تقدم أقصى قيمة من خلال التخطيط الاستراتيجي."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Change Impact Assessment",
+        "ar": "تقييم تأثير التغيير"
+      },
+      "description": {
+        "en": "Comprehensive analysis of organizational readiness, stakeholder impact, and change risks to develop targeted strategies",
+        "ar": "التحليل الشامل للجاهزية التنظيمية وتأثير أصحاب المصلحة ومخاطر التغيير لتطوير الاستراتيجيات المستهدفة"
+      }
+    },
+    {
+      "title": {
+        "en": "Stakeholder Engagement",
+        "ar": "مشاركة أصحاب المصلحة"
+      },
+      "description": {
+        "en": "Strategic communication and engagement plans to build buy-in from executives, managers, and end-users",
+        "ar": "خطط الاتصال والمشاركة الاستراتيجية لبناء القبول من المديرين التنفيذيين والمديرين والمستخدمين النهائيين"
+      }
+    },
+    {
+      "title": {
+        "en": "Training & Enablement",
+        "ar": "التدريب والتمكين"
+      },
+      "description": {
+        "en": "Role-based training programs, workshops, and hands-on labs tailored to different user personas and skill levels",
+        "ar": "برامج التدريب القائمة على الدور وورش العمل والمختبرات العملية المصممة لشخصيات المستخدمين المختلفة ومستويات المهارات"
+      }
+    },
+    {
+      "title": {
+        "en": "Champion Network",
+        "ar": "شبكة الأبطال"
+      },
+      "description": {
+        "en": "Build and support internal champion networks to drive grassroots adoption and provide peer-to-peer assistance",
+        "ar": "بناء ودعم شبكات الأبطال الداخلية لدفع الاعتماد الشعبي وتقديم المساعدة من نظير إلى نظير"
+      }
+    },
+    {
+      "title": {
+        "en": "Digital Adoption Platform",
+        "ar": "منصة الاعتماد الرقمي"
+      },
+      "description": {
+        "en": "Implement in-app guidance, interactive walkthroughs, and contextual help to accelerate user proficiency",
+        "ar": "تنفيذ الإرشادات داخل التطبيق والإرشادات التفاعلية والمساعدة السياقية لتسريع كفاءة المستخدم"
+      }
+    },
+    {
+      "title": {
+        "en": "Adoption Analytics",
+        "ar": "تحليلات الاعتماد"
+      },
+      "description": {
+        "en": "Track adoption metrics, user sentiment, and identify areas requiring additional support or training",
+        "ar": "تتبع مقاييس الاعتماد ومشاعر المستخدمين وتحديد المجالات التي تتطلب دعمًا أو تدريبًا إضافيًا"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Change Management Frameworks",
+        "ar": "أطر إدارة التغيير"
+      },
+      "specs": [
+        {
+          "en": "ADKAR Model (Awareness, Desire, Knowledge, Ability, Reinforcement)",
+          "ar": "نموذج ADKAR (الوعي، الرغبة، المعرفة، القدرة، التعزيز)"
+        },
+        {
+          "en": "Prosci Change Management Methodology",
+          "ar": "منهجية إدارة التغيير Prosci"
+        },
+        {
+          "en": "Kotter's 8-Step Change Model",
+          "ar": "نموذج التغيير ذو 8 خطوات من Kotter"
+        },
+        {
+          "en": "Lewin's Change Management Model",
+          "ar": "نموذج إدارة التغيير من Lewin"
+        },
+        {
+          "en": "Microsoft Adoption Framework",
+          "ar": "إطار اعتماد Microsoft"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Engagement Activities",
+        "ar": "أنشطة المشاركة"
+      },
+      "specs": [
+        {
+          "en": "Executive sponsorship activation",
+          "ar": "تفعيل الرعاية التنفيذية"
+        },
+        {
+          "en": "Town halls and leadership briefings",
+          "ar": "اجتماعات البلدية والإحاطات القيادية"
+        },
+        {
+          "en": "Email campaigns and newsletters",
+          "ar": "حملات البريد الإلكتروني والنشرات الإخبارية"
+        },
+        {
+          "en": "Intranet portals and resource centers",
+          "ar": "بوابات الإنترانت ومراكز الموارد"
+        },
+        {
+          "en": "Interactive demos and roadshows",
+          "ar": "العروض التفاعلية والجولات التوضيحية"
+        },
+        {
+          "en": "Success story sharing and recognition programs",
+          "ar": "مشاركة قصص النجاح وبرامج التقدير"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Training Delivery Methods",
+        "ar": "طرق تقديم التدريب"
+      },
+      "specs": [
+        {
+          "en": "Instructor-led training (ILT) and virtual instructor-led training (VILT)",
+          "ar": "التدريب بقيادة المدرب (ILT) والتدريب الافتراضي بقيادة المدرب (VILT)"
+        },
+        {
+          "en": "Self-paced e-learning modules and videos",
+          "ar": "وحدات التعلم الإلكتروني ذاتية السرعة ومقاطع الفيديو"
+        },
+        {
+          "en": "Hands-on workshops and labs",
+          "ar": "ورش العمل والمختبرات العملية"
+        },
+        {
+          "en": "Quick reference guides and job aids",
+          "ar": "أدلة المرجع السريع ومساعدات الوظائف"
+        },
+        {
+          "en": "Office hours and Q&A sessions",
+          "ar": "ساعات العمل وجلسات الأسئلة والأجوبة"
+        },
+        {
+          "en": "Train-the-trainer programs",
+          "ar": "برامج تدريب المدربين"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Digital Adoption Platforms",
+        "ar": "منصات الاعتماد الرقمي"
+      },
+      "specs": [
+        {
+          "en": "WalkMe for in-app guidance and automation",
+          "ar": "WalkMe للإرشاد والأتمتة داخل التطبيق"
+        },
+        {
+          "en": "Whatfix for contextual user support",
+          "ar": "Whatfix لدعم المستخدم السياقي"
+        },
+        {
+          "en": "Pendo for product analytics and guidance",
+          "ar": "Pendo لتحليلات المنتج والإرشاد"
+        },
+        {
+          "en": "Microsoft Viva Learning for content delivery",
+          "ar": "Microsoft Viva Learning لتسليم المحتوى"
+        },
+        {
+          "en": "Custom tooltip and overlay development",
+          "ar": "تطوير التلميحات والتراكبات المخصصة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Success Metrics",
+        "ar": "مقاييس النجاح"
+      },
+      "specs": [
+        {
+          "en": "User adoption rate and active usage statistics",
+          "ar": "معدل اعتماد المستخدم وإحصاءات الاستخدام النشط"
+        },
+        {
+          "en": "Training completion rates and assessment scores",
+          "ar": "معدلات إكمال التدريب ودرجات التقييم"
+        },
+        {
+          "en": "Support ticket volume and resolution time",
+          "ar": "حجم تذاكر الدعم ووقت الحل"
+        },
+        {
+          "en": "User satisfaction surveys (NPS, CSAT)",
+          "ar": "استطلاعات رضا المستخدمين (NPS، CSAT)"
+        },
+        {
+          "en": "Business impact metrics (productivity, efficiency, ROI)",
+          "ar": "مقاييس تأثير الأعمال (الإنتاجية، الكفاءة، العائد على الاستثمار)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "virtualization",
+    "slug": "virtualization",
+    "parentService": "cloud"
+  },
+  "hero": {
+    "title": {
+      "en": "Virtualization Solutions",
+      "ar": "حلول المحاكاة الافتراضية"
+    },
+    "subtitle": {
+      "en": "Advanced virtualization infrastructure maximizing resource utilization, reducing costs, and accelerating application deployment",
+      "ar": "بنية تحتية افتراضية متقدمة تزيد من استخدام الموارد وتقلل التكاليف وتسرع نشر التطبيقات"
+    },
+    "badge": {
+      "en": "Infrastructure Optimization",
+      "ar": "تحسين البنية التحتية"
+    }
+  },
+  "description": {
+    "en": "Transform your IT infrastructure with enterprise virtualization solutions that consolidate workloads, improve resource efficiency, and enable rapid provisioning. Our virtualization platforms support VMware vSphere, Microsoft Hyper-V, and open-source solutions, providing flexibility, high availability, and seamless integration with existing infrastructure while reducing hardware costs by up to 70%.",
+    "ar": "قم بتحويل البنية التحتية لتكنولوجيا المعلومات من خلال حلول المحاكاة الافتراضية المؤسسية التي تدمج أحمال العمل وتحسن كفاءة الموارد وتمكن التوفير السريع. تدعم منصات المحاكاة الافتراضية لدينا VMware vSphere و Microsoft Hyper-V والحلول مفتوحة المصدر، مما يوفر المرونة والتوافر العالي والتكامل السلس مع البنية التحتية الحالية مع تقليل تكاليف الأجهزة بنسبة تصل إلى 70٪."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Server Virtualization",
+        "ar": "محاكاة الخادم الافتراضية"
+      },
+      "description": {
+        "en": "Consolidate physical servers into virtual machines with VMware ESXi, Hyper-V, or KVM, achieving 20:1 consolidation ratios with high performance and enterprise-grade management tools.",
+        "ar": "دمج الخوادم المادية في الأجهزة الافتراضية مع VMware ESXi أو Hyper-V أو KVM، وتحقيق نسب توحيد 20:1 مع أداء عالٍ وأدوات إدارة على مستوى المؤسسات."
+      }
+    },
+    {
+      "title": {
+        "en": "Desktop Virtualization (VDI)",
+        "ar": "محاكاة سطح المكتب الافتراضية (VDI)"
+      },
+      "description": {
+        "en": "Deploy virtual desktops with VMware Horizon or Citrix Virtual Apps and Desktops, enabling secure remote work, BYOD support, and centralized desktop management for thousands of users.",
+        "ar": "انشر أجهزة سطح المكتب الافتراضية مع VMware Horizon أو Citrix Virtual Apps and Desktops، مما يتيح العمل عن بُعد الآمن ودعم BYOD وإدارة سطح المكتب المركزية لآلاف المستخدمين."
+      }
+    },
+    {
+      "title": {
+        "en": "High Availability & DRS",
+        "ar": "التوافر العالي و DRS"
+      },
+      "description": {
+        "en": "Automated failover, load balancing, and resource optimization with vSphere HA, DRS (Distributed Resource Scheduler), and live migration ensuring 99.99% uptime without service interruption.",
+        "ar": "الفشل التلقائي وموازنة الحمل وتحسين الموارد مع vSphere HA و DRS (جدولة الموارد الموزعة) والترحيل المباشر مما يضمن وقت تشغيل 99.99٪ دون انقطاع الخدمة."
+      }
+    },
+    {
+      "title": {
+        "en": "Network Virtualization",
+        "ar": "محاكاة الشبكة الافتراضية"
+      },
+      "description": {
+        "en": "Software-defined networking with NSX or Azure Virtual Network enabling micro-segmentation, distributed firewalls, load balancing, and automated network provisioning without physical hardware changes.",
+        "ar": "شبكات محددة بالبرمجيات مع NSX أو Azure Virtual Network تمكن التجزئة الدقيقة وجدران الحماية الموزعة وموازنة الحمل وتوفير الشبكة الآلي دون تغييرات الأجهزة المادية."
+      }
+    },
+    {
+      "title": {
+        "en": "Storage Virtualization",
+        "ar": "محاكاة التخزين الافتراضي"
+      },
+      "description": {
+        "en": "Virtualized storage with vSAN, Storage Spaces Direct, or Ceph aggregating local storage into shared pools with deduplication, compression, and automated tiering for optimal performance.",
+        "ar": "تخزين افتراضي مع vSAN أو Storage Spaces Direct أو Ceph تجميع التخزين المحلي في مجمعات مشتركة مع إلغاء البيانات المكررة والضغط والتدريج التلقائي للأداء الأمثل."
+      }
+    },
+    {
+      "title": {
+        "en": "Disaster Recovery Orchestration",
+        "ar": "تنسيق التعافي من الكوارث"
+      },
+      "description": {
+        "en": "Automated DR with Site Recovery Manager, Azure Site Recovery, or custom orchestration enabling one-click failover, non-disruptive testing, and automated runbook execution.",
+        "ar": "DR التلقائي مع Site Recovery Manager أو Azure Site Recovery أو التنسيق المخصص الذي يتيح الفشل بنقرة واحدة والاختبار غير المدمر وتنفيذ الدفتر التلقائي."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Platform Specifications & Capabilities",
+      "ar": "مواصفات المنصة والقدرات"
+    },
+    "items": {
+      "en": [
+        "Hypervisors: VMware vSphere 8.0, Microsoft Hyper-V 2022, KVM/QEMU with full feature parity and cross-platform management",
+        "VM Density: Support for 1,000+ VMs per host with nested virtualization, CPU and memory overcommitment, and resource pools",
+        "Performance: Near-native performance with hardware acceleration (Intel VT-x/AMD-V), NUMA awareness, SR-IOV, and GPU passthrough",
+        "Management: vCenter Server, System Center VMM, or oVirt for centralized management with role-based access control and automation APIs",
+        "Migration: Live migration (vMotion, Live Migration) with zero downtime, cross-version compatibility, and long-distance vMotion up to 150ms RTT",
+        "Networking: Distributed virtual switches, port mirroring, NetFlow/sFlow, VXLAN/NVGRE overlays, and integration with physical network infrastructure",
+        "Storage: Support for FC, iSCSI, NFS, SMB with multipathing, VAAI/ODX offloading, and thin provisioning reducing storage costs by 50%",
+        "Monitoring: Real-time performance monitoring, capacity planning, predictive analytics, and integration with third-party tools (vRealize Operations, SCOM)"
+      ],
+      "ar": [
+        "المحاكيات الافتراضية: VMware vSphere 8.0 و Microsoft Hyper-V 2022 و KVM/QEMU مع تكافؤ كامل في الميزات والإدارة عبر الأنظمة الأساسية",
+        "كثافة VM: دعم أكثر من 1000 VM لكل مضيف مع المحاكاة الافتراضية المتداخلة والالتزام المفرط لوحدة المعالجة المركزية والذاكرة ومجمعات الموارد",
+        "الأداء: أداء قريب من الأصلي مع تسريع الأجهزة (Intel VT-x/AMD-V) ووعي NUMA و SR-IOV ومرور GPU",
+        "الإدارة: vCenter Server أو System Center VMM أو oVirt للإدارة المركزية مع التحكم في الوصول القائم على الدور وواجهات برمجة تطبيقات الأتمتة",
+        "الترحيل: الترحيل المباشر (vMotion و Live Migration) مع عدم وقت التوقف والتوافق عبر الإصدارات و vMotion لمسافات طويلة تصل إلى 150 مللي ثانية RTT",
+        "الشبكات: المحولات الافتراضية الموزعة ونسخ المنفذ و NetFlow/sFlow وتراكبات VXLAN/NVGRE والتكامل مع البنية التحتية للشبكة المادية",
+        "التخزين: دعم FC و iSCSI و NFS و SMB مع المسارات المتعددة وإلغاء تحميل VAAI/ODX والتوفير الرقيق مما يقلل من تكاليف التخزين بنسبة 50٪",
+        "المراقبة: مراقبة الأداء في الوقت الفعلي وتخطيط السعة والتحليلات التنبؤية والتكامل مع أدوات الطرف الثالث (vRealize Operations و SCOM)"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Private Cloud",
+        "ar": "السحابة الخاصة"
+      },
+      "link": "/services/cloud/private-cloud"
+    },
+    {
+      "title": {
+        "en": "Disaster Recovery",
+        "ar": "التعافي من الكوارث"
+      },
+      "link": "/services/cloud/disaster-recovery"
+    },
+    {
+      "title": {
+        "en": "Managed Services",
+        "ar": "الخدمات المدارة"
+      },
+      "link": "/services/managed"
+    }
+  ]
+}

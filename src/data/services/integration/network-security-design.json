@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "network-security-design",
+    "slug": "network-security-design",
+    "parentService": "integration"
+  },
+  "hero": {
+    "title": {
+      "en": "Network & Security Design",
+      "ar": "تصميم الشبكات والأمن"
+    },
+    "subtitle": {
+      "en": "Architecting secure, resilient, and high-performance network infrastructures aligned with your business objectives",
+      "ar": "تصميم بنية تحتية للشبكات آمنة ومرنة وعالية الأداء متوافقة مع أهداف عملك"
+    },
+    "badge": {
+      "en": "Network Architecture",
+      "ar": "هندسة الشبكات"
+    }
+  },
+  "description": {
+    "en": "Our expert network and security design services deliver comprehensive infrastructure blueprints that balance performance, security, scalability, and cost-effectiveness. We leverage industry best practices and cutting-edge technologies to design networks that meet current demands while providing a clear path for future growth. From data center networks to campus connectivity and secure remote access, we ensure every design element aligns with your organization's security posture and compliance requirements.",
+    "ar": "تقدم خدمات تصميم الشبكات والأمن لدينا مخططات شاملة للبنية التحتية توازن بين الأداء والأمن وقابلية التوسع والفعالية من حيث التكلفة. نستفيد من أفضل ممارسات الصناعة والتقنيات المتطورة لتصميم شبكات تلبي المتطلبات الحالية مع توفير مسار واضح للنمو المستقبلي. من شبكات مراكز البيانات إلى اتصال الحرم الجامعي والوصول الآمن عن بُعد، نضمن توافق كل عنصر تصميم مع وضع الأمن ومتطلبات الامتثال لمؤسستك."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Enterprise Network Architecture",
+        "ar": "بنية الشبكات المؤسسية"
+      },
+      "description": {
+        "en": "Design scalable campus, branch, and data center networks with redundant paths, load balancing, and optimized routing protocols for maximum uptime and performance.",
+        "ar": "تصميم شبكات حرم ومواقع فرعية ومراكز بيانات قابلة للتوسع مع مسارات احتياطية وموازنة الحمل وبروتوكولات توجيه محسّنة لأقصى وقت تشغيل وأداء."
+      }
+    },
+    {
+      "title": {
+        "en": "Zero Trust Security Model",
+        "ar": "نموذج الأمان بدون ثقة"
+      },
+      "description": {
+        "en": "Implement modern zero-trust architectures with micro-segmentation, identity-based access controls, continuous verification, and least-privilege principles across all network zones.",
+        "ar": "تنفيذ بنى عدم الثقة الحديثة مع التقسيم الدقيق وضوابط الوصول القائمة على الهوية والتحقق المستمر ومبادئ الحد الأدنى من الامتيازات عبر جميع مناطق الشبكة."
+      }
+    },
+    {
+      "title": {
+        "en": "SD-WAN & Cloud Connectivity",
+        "ar": "SD-WAN واتصال السحابة"
+      },
+      "description": {
+        "en": "Design software-defined WAN solutions that optimize application performance, reduce costs, and provide secure direct cloud access with intelligent traffic steering and failover.",
+        "ar": "تصميم حلول WAN محددة بالبرمجيات تعمل على تحسين أداء التطبيقات وتقليل التكاليف وتوفير وصول سحابي مباشر وآمن مع توجيه ذكي للحركة والفشل الاحتياطي."
+      }
+    },
+    {
+      "title": {
+        "en": "Multi-Layer Security Design",
+        "ar": "تصميم الأمان متعدد الطبقات"
+      },
+      "description": {
+        "en": "Architect defense-in-depth security with firewalls, IPS/IDS, DDoS protection, secure web gateways, email security, and endpoint protection integrated into the network design.",
+        "ar": "تصميم أمان دفاعي متعمق مع جدران الحماية و IPS/IDS وحماية DDoS وبوابات الويب الآمنة وأمان البريد الإلكتروني وحماية نقاط النهاية المتكاملة في تصميم الشبكة."
+      }
+    },
+    {
+      "title": {
+        "en": "Wireless & IoT Integration",
+        "ar": "تكامل اللاسلكي وإنترنت الأشياء"
+      },
+      "description": {
+        "en": "Design secure, high-performance wireless networks with IoT device integration, network segmentation, location services, and centralized management for modern smart environments.",
+        "ar": "تصميم شبكات لاسلكية آمنة وعالية الأداء مع تكامل أجهزة إنترنت الأشياء وتقسيم الشبكة وخدمات الموقع والإدارة المركزية للبيئات الذكية الحديثة."
+      }
+    },
+    {
+      "title": {
+        "en": "Compliance & Documentation",
+        "ar": "الامتثال والتوثيق"
+      },
+      "description": {
+        "en": "Ensure designs meet regulatory requirements (NCA ECC, CITC, ISO 27001) with comprehensive documentation including network diagrams, security policies, and configuration standards.",
+        "ar": "ضمان تلبية التصاميم للمتطلبات التنظيمية (NCA ECC و CITC و ISO 27001) مع توثيق شامل بما في ذلك مخططات الشبكة وسياسات الأمان ومعايير التكوين."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Design Deliverables & Standards",
+      "ar": "مخرجات التصميم والمعايير"
+    },
+    "items": {
+      "en": [
+        "Network Topology: High-level and detailed network diagrams (L1, L2, L3) with all connectivity paths, redundancy, and failover mechanisms",
+        "Security Architecture: Comprehensive security zone maps, firewall rule matrices, access control policies, and threat model documentation",
+        "Technology Selection: Vendor-neutral technology recommendations with detailed comparison matrices, cost analysis, and implementation roadmaps",
+        "IP Addressing: Complete IP address management (IPAM) schemes, VLAN designs, subnet allocation plans, and routing protocol configurations",
+        "Performance Specifications: Bandwidth requirements, latency targets, QoS policies, traffic prioritization rules, and capacity planning models",
+        "High Availability: Redundancy designs with STP/RSTP/MSTP, VRRP/HSRP, load balancer configurations, and disaster recovery network paths",
+        "Standards Compliance: Alignment with IEEE, IETF, NIST, and local regulations (NCA ECC Controls, CITC guidelines, ISO 27001/27002)",
+        "Implementation Plan: Phased deployment strategy, migration plans, testing procedures, rollback plans, and change management documentation"
+      ],
+      "ar": [
+        "طوبولوجيا الشبكة: مخططات شبكة عالية المستوى ومفصلة (L1، L2، L3) مع جميع مسارات الاتصال والتكرار وآليات الفشل الاحتياطي",
+        "بنية الأمان: خرائط شاملة لمناطق الأمان ومصفوفات قواعد جدار الحماية وسياسات التحكم في الوصول وتوثيق نموذج التهديدات",
+        "اختيار التكنولوجيا: توصيات تكنولوجية محايدة للبائع مع مصفوفات مقارنة مفصلة وتحليل التكلفة وخرائط طريق التنفيذ",
+        "عنونة IP: مخططات إدارة عناوين IP الكاملة (IPAM) وتصاميم VLAN وخطط تخصيص الشبكات الفرعية وتكوينات بروتوكول التوجيه",
+        "مواصفات الأداء: متطلبات النطاق الترددي وأهداف الكمون وسياسات QoS وقواعد أولوية الحركة ونماذج تخطيط السعة",
+        "التوفر العالي: تصميمات التكرار مع STP/RSTP/MSTP و VRRP/HSRP وتكوينات موازن الحمل ومسارات شبكة التعافي من الكوارث",
+        "الامتثال للمعايير: التوافق مع IEEE و IETF و NIST واللوائح المحلية (ضوابط NCA ECC وإرشادات CITC و ISO 27001/27002)",
+        "خطة التنفيذ: استراتيجية النشر المرحلي وخطط الترحيل وإجراءات الاختبار وخطط التراجع وتوثيق إدارة التغيير"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "System Integration",
+        "ar": "تكامل الأنظمة"
+      },
+      "link": "/services/integration/system-integration"
+    },
+    {
+      "title": {
+        "en": "Cybersecurity Services",
+        "ar": "خدمات الأمن السيبراني"
+      },
+      "link": "/services/cybersecurity"
+    },
+    {
+      "title": {
+        "en": "Cloud Migration",
+        "ar": "الانتقال إلى السحابة"
+      },
+      "link": "/services/cloud/cloud-migration"
+    }
+  ]
+}

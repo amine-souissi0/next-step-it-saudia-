@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "migration-projects",
+    "slug": "migration-projects",
+    "parentService": "integration"
+  },
+  "hero": {
+    "title": {
+      "en": "Migration & Transformation Projects",
+      "ar": "مشاريع الترحيل والتحول"
+    },
+    "subtitle": {
+      "en": "Expert-led technology migrations with zero downtime, data integrity, and seamless transition to modern platforms",
+      "ar": "مشاريع ترحيل تكنولوجية بقيادة الخبراء مع عدم توقف وسلامة البيانات والانتقال السلس إلى المنصات الحديثة"
+    },
+    "badge": {
+      "en": "Digital Transformation",
+      "ar": "التحول الرقمي"
+    }
+  },
+  "description": {
+    "en": "Navigate complex technology migrations with confidence through our structured, risk-managed approach. We specialize in data center migrations, application modernization, cloud migrations, platform upgrades, and enterprise system consolidations. Our migration experts employ proven methodologies, automated tools, and comprehensive testing frameworks to ensure business continuity throughout the transition. From initial assessment to post-migration optimization, we manage every aspect of your transformation journey while minimizing disruption to daily operations.",
+    "ar": "تنقل عبر عمليات الترحيل التكنولوجية المعقدة بثقة من خلال نهجنا المنظم والمدار للمخاطر. نحن متخصصون في ترحيل مراكز البيانات وتحديث التطبيقات وعمليات الترحيل إلى السحابة وترقيات المنصات ودمج أنظمة المؤسسات. يستخدم خبراء الترحيل لدينا منهجيات مثبتة وأدوات آلية وأطر اختبار شاملة لضمان استمرارية الأعمال طوال فترة الانتقال. من التقييم الأولي إلى التحسين بعد الترحيل، نحن ندير كل جانب من جوانب رحلة التحول الخاصة بك مع تقليل الاضطراب للعمليات اليومية."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Data Center Migration",
+        "ar": "ترحيل مركز البيانات"
+      },
+      "description": {
+        "en": "Execute complete data center relocations or consolidations with physical-to-virtual (P2V), virtual-to-virtual (V2V), and workload rebalancing while maintaining 24/7 availability.",
+        "ar": "تنفيذ نقل أو دمج مراكز البيانات الكاملة مع التحويل من الفيزيائي إلى الافتراضي (P2V) ومن الافتراضي إلى الافتراضي (V2V) وإعادة توازن أحمال العمل مع الحفاظ على التوفر على مدار الساعة."
+      }
+    },
+    {
+      "title": {
+        "en": "Application Modernization",
+        "ar": "تحديث التطبيقات"
+      },
+      "description": {
+        "en": "Migrate legacy applications to cloud-native architectures, containerize monolithic apps, refactor for microservices, and upgrade outdated technology stacks with minimal code changes.",
+        "ar": "ترحيل التطبيقات القديمة إلى بنى أصلية للسحابة ووضع التطبيقات المتراصة في حاويات وإعادة البناء للخدمات الدقيقة وترقية حزم التكنولوجيا القديمة مع الحد الأدنى من تغييرات الكود."
+      }
+    },
+    {
+      "title": {
+        "en": "Database Migration Services",
+        "ar": "خدمات ترحيل قواعد البيانات"
+      },
+      "description": {
+        "en": "Migrate databases across platforms (Oracle to PostgreSQL, SQL Server to Azure SQL), versions, and cloud providers with schema conversion, data validation, and zero data loss guarantees.",
+        "ar": "ترحيل قواعد البيانات عبر المنصات (Oracle إلى PostgreSQL، SQL Server إلى Azure SQL) والإصدارات ومزودي السحابة مع تحويل المخطط والتحقق من البيانات وضمانات عدم فقدان البيانات."
+      }
+    },
+    {
+      "title": {
+        "en": "Cloud Migration Strategy",
+        "ar": "استراتيجية الترحيل إلى السحابة"
+      },
+      "description": {
+        "en": "Assess, plan, and execute cloud migrations using lift-and-shift, replatforming, or refactoring strategies with comprehensive cost optimization and performance tuning.",
+        "ar": "تقييم وتخطيط وتنفيذ عمليات الترحيل إلى السحابة باستخدام استراتيجيات الرفع والتحول أو إعادة النظام الأساسي أو إعادة البناء مع تحسين شامل للتكلفة وضبط الأداء."
+      }
+    },
+    {
+      "title": {
+        "en": "ERP & Business System Migration",
+        "ar": "ترحيل ERP وأنظمة الأعمال"
+      },
+      "description": {
+        "en": "Migrate enterprise systems like SAP, Oracle EBS, Microsoft Dynamics to newer versions or alternative platforms with full data integrity, customization preservation, and user training.",
+        "ar": "ترحيل أنظمة المؤسسات مثل SAP و Oracle EBS و Microsoft Dynamics إلى إصدارات أحدث أو منصات بديلة مع سلامة البيانات الكاملة والحفاظ على التخصيص وتدريب المستخدمين."
+      }
+    },
+    {
+      "title": {
+        "en": "Post-Migration Optimization",
+        "ar": "التحسين بعد الترحيل"
+      },
+      "description": {
+        "en": "Optimize migrated environments with performance tuning, security hardening, cost management, monitoring setup, and continuous improvement recommendations for maximum ROI.",
+        "ar": "تحسين البيئات المرحلة مع ضبط الأداء وتقوية الأمان وإدارة التكلفة وإعداد المراقبة وتوصيات التحسين المستمر لأقصى عائد على الاستثمار."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Migration Methodology & Tools",
+      "ar": "منهجية وأدوات الترحيل"
+    },
+    "items": {
+      "en": [
+        "Assessment Tools: Discovery tools for inventory analysis, dependency mapping, performance baselining, and compatibility assessment across environments",
+        "Migration Frameworks: AWS Migration Hub, Azure Migrate, VMware HCX, Carbonite Migrate for automated workload migration and tracking",
+        "Data Replication: Continuous data replication with minimal RPO using native tools, Veeam, Zerto, and database-specific replication technologies",
+        "Testing Methodology: Comprehensive test plans including unit testing, integration testing, UAT, performance testing, and disaster recovery testing",
+        "Rollback Strategy: Detailed rollback procedures with automated snapshots, backup verification, and failback mechanisms for every migration phase",
+        "Cutover Planning: Wave-based migration scheduling, maintenance windows, communication plans, and go-live checklists for controlled transitions",
+        "Change Management: Stakeholder engagement, training materials, knowledge transfer sessions, and post-migration support documentation",
+        "Validation & QA: Automated validation scripts, data integrity checks, performance comparisons, and functional testing across all migrated components"
+      ],
+      "ar": [
+        "أدوات التقييم: أدوات الاكتشاف لتحليل المخزون ورسم خرائط التبعية والخطوط الأساسية للأداء وتقييم التوافق عبر البيئات",
+        "أطر الترحيل: AWS Migration Hub و Azure Migrate و VMware HCX و Carbonite Migrate للترحيل الآلي لأحمال العمل والتتبع",
+        "نسخ البيانات: نسخ البيانات المستمر مع الحد الأدنى من RPO باستخدام الأدوات الأصلية و Veeam و Zerto وتقنيات النسخ المتماثل الخاصة بقاعدة البيانات",
+        "منهجية الاختبار: خطط اختبار شاملة بما في ذلك اختبار الوحدة واختبار التكامل و UAT واختبار الأداء واختبار التعافي من الكوارث",
+        "استراتيجية التراجع: إجراءات تراجع مفصلة مع لقطات آلية والتحقق من النسخ الاحتياطي وآليات الفشل الاحتياطي لكل مرحلة ترحيل",
+        "تخطيط القطع: جدولة الترحيل القائمة على الموجة ونوافذ الصيانة وخطط الاتصال وقوائم مراجعة الإطلاق للانتقالات المنضبطة",
+        "إدارة التغيير: إشراك أصحاب المصلحة ومواد التدريب وجلسات نقل المعرفة وتوثيق الدعم بعد الترحيل",
+        "التحقق من الصحة وضمان الجودة: نصوص التحقق الآلي وفحوصات سلامة البيانات ومقارنات الأداء والاختبار الوظيفي عبر جميع المكونات المرحلة"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Cloud Migration",
+        "ar": "الانتقال إلى السحابة"
+      },
+      "link": "/services/cloud/cloud-migration"
+    },
+    {
+      "title": {
+        "en": "System Integration",
+        "ar": "تكامل الأنظمة"
+      },
+      "link": "/services/integration/system-integration"
+    },
+    {
+      "title": {
+        "en": "Project Management",
+        "ar": "إدارة المشاريع"
+      },
+      "link": "/services/integration/project-management"
+    }
+  ]
+}

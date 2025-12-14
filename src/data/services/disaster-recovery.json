@@ -1,0 +1,237 @@
+{
+  "hero": {
+    "title": {
+      "en": "Disaster Recovery as a Service",
+      "ar": "التعافي من الكوارث كخدمة"
+    },
+    "subtitle": {
+      "en": "Enterprise-grade business continuity with guaranteed RPO/RTO and automated failover",
+      "ar": "استمرارية الأعمال على مستوى المؤسسات مع RPO / RTO المضمونة والفشل التلقائي"
+    },
+    "image": "/placeholder.svg"
+  },
+  "description": {
+    "en": "Our Disaster Recovery as a Service (DRaaS) provides comprehensive business continuity protection with guaranteed recovery objectives. We deliver automated replication, one-click failover, and regular DR testing to ensure your critical systems can recover quickly from any disruption. With RPO as low as 15 minutes and RTO under 1 hour, your business stays resilient against ransomware, hardware failures, natural disasters, and cyber attacks.",
+    "ar": "توفر خدمة التعافي من الكوارث لدينا (DRaaS) حماية شاملة لاستمرارية الأعمال مع أهداف استرداد مضمونة. نقدم نسخاً متماثلاً تلقائياً وفشلاً بنقرة واحدة واختباراً منتظماً للتعافي من الكوارث لضمان إمكانية استرداد الأنظمة الحيوية بسرعة من أي اضطراب. مع RPO منخفض يصل إلى 15 دقيقة و RTO أقل من ساعة واحدة، تظل أعمالك مرنة ضد برامج الفدية وفشل الأجهزة والكوارث الطبيعية والهجمات السيبرانية."
+  },
+  "features": [
+    {
+      "id": "guaranteed-rpo-rto",
+      "title": {
+        "en": "Guaranteed RPO & RTO",
+        "ar": "RPO و RTO مضمونة"
+      },
+      "description": {
+        "en": "Tier 1: RPO 15 mins / RTO 1 hour for mission-critical systems. Tier 2: RPO 1 hour / RTO 4 hours. Tier 3: RPO 24 hours / RTO 24 hours. SLA-backed guarantees with financial penalties for non-compliance.",
+        "ar": "المستوى 1: RPO 15 دقيقة / RTO ساعة واحدة للأنظمة الحرجة. المستوى 2: RPO ساعة واحدة / RTO 4 ساعات. المستوى 3: RPO 24 ساعة / RTO 24 ساعة. ضمانات مدعومة باتفاقية مستوى الخدمة مع عقوبات مالية لعدم الامتثال."
+      },
+      "icon": "Clock"
+    },
+    {
+      "id": "automated-replication",
+      "title": {
+        "en": "Continuous Data Replication",
+        "ar": "النسخ المتماثل المستمر للبيانات"
+      },
+      "description": {
+        "en": "Real-time or near-real-time replication to secondary site. Block-level and application-aware replication with data deduplication and compression. Support for VMs, databases, and file systems.",
+        "ar": "نسخ متماثل في الوقت الفعلي أو شبه الفعلي إلى الموقع الثانوي. نسخ متماثل على مستوى الكتل وواعي بالتطبيقات مع إلغاء تكرار البيانات والضغط. دعم للأجهزة الافتراضية وقواعد البيانات وأنظمة الملفات."
+      },
+      "icon": "RefreshCcw"
+    },
+    {
+      "id": "one-click-failover",
+      "title": {
+        "en": "Orchestrated Failover",
+        "ar": "الفشل المنظم"
+      },
+      "description": {
+        "en": "One-click or fully automated failover with customizable runbooks. Dependency mapping ensures applications start in correct order. Automated DNS updates and network reconfiguration for seamless transition.",
+        "ar": "فشل بنقرة واحدة أو تلقائي بالكامل مع كتيبات تشغيل قابلة للتخصيص. يضمن تعيين التبعية بدء التطبيقات بالترتيب الصحيح. تحديثات DNS تلقائية وإعادة تكوين الشبكة للانتقال السلس."
+      },
+      "icon": "Zap"
+    },
+    {
+      "id": "non-disruptive-testing",
+      "title": {
+        "en": "Non-Disruptive DR Testing",
+        "ar": "اختبار غير مزعج للتعافي من الكوارث"
+      },
+      "description": {
+        "en": "Test DR plans quarterly without impacting production systems. Isolated test environment with network segmentation. Automated test reports showing recovery time metrics and identifying gaps.",
+        "ar": "اختبار خطط التعافي من الكوارث ربع سنوياً دون التأثير على أنظمة الإنتاج. بيئة اختبار معزولة مع تقسيم الشبكة. تقارير اختبار تلقائية تظهر مقاييس وقت الاسترداد وتحديد الثغرات."
+      },
+      "icon": "TestTube"
+    },
+    {
+      "id": "ransomware-protection",
+      "title": {
+        "en": "Ransomware Immutable Backups",
+        "ar": "نسخ احتياطية غير قابلة للتغيير من برامج الفدية"
+      },
+      "description": {
+        "en": "Air-gapped and immutable backup copies protected from encryption attacks. Automated malware scanning of backups before recovery. Point-in-time recovery to pre-infection state with minimal data loss.",
+        "ar": "نسخ احتياطية معزولة وغير قابلة للتغيير محمية من هجمات التشفير. فحص تلقائي للبرامج الضارة للنسخ الاحتياطية قبل الاسترداد. الاسترداد إلى نقطة زمنية قبل الإصابة مع فقدان بيانات ضئيل."
+      },
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "multi-site-dr",
+      "title": {
+        "en": "Multi-Site DR Architecture",
+        "ar": "بنية التعافي من الكوارث متعددة المواقع"
+      },
+      "description": {
+        "en": "Primary, secondary, and tertiary DR sites for maximum resilience. Geographic distribution across Saudi regions for disaster isolation. Cloud-based DR site option for cost-effective protection.",
+        "ar": "مواقع التعافي من الكوارث الأولية والثانوية والثالثية لأقصى قدر من المرونة. التوزيع الجغرافي عبر المناطق السعودية لعزل الكوارث. خيار موقع التعافي من الكوارث السحابي للحماية الفعالة من حيث التكلفة."
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Recovery Tiers",
+        "ar": "مستويات الاسترداد"
+      },
+      "specs": [
+        {
+          "en": "Tier 1 Critical: RPO 15 min / RTO 1 hour / 99.99% availability",
+          "ar": "المستوى 1 الحرج: RPO 15 دقيقة / RTO ساعة واحدة / توفر 99.99٪"
+        },
+        {
+          "en": "Tier 2 Important: RPO 1 hour / RTO 4 hours / 99.9% availability",
+          "ar": "المستوى 2 المهم: RPO ساعة واحدة / RTO 4 ساعات / توفر 99.9٪"
+        },
+        {
+          "en": "Tier 3 Standard: RPO 24 hours / RTO 24 hours / 99.5% availability",
+          "ar": "المستوى 3 القياسي: RPO 24 ساعة / RTO 24 ساعة / توفر 99.5٪"
+        },
+        {
+          "en": "Custom tier configurations available based on requirements",
+          "ar": "تكوينات مستوى مخصصة متاحة بناءً على المتطلبات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Replication Technologies",
+        "ar": "تقنيات النسخ المتماثل"
+      },
+      "specs": [
+        {
+          "en": "VMware Site Recovery Manager for vSphere environments",
+          "ar": "VMware Site Recovery Manager لبيئات vSphere"
+        },
+        {
+          "en": "Azure Site Recovery for hybrid and Azure workloads",
+          "ar": "Azure Site Recovery لأحمال العمل المختلطة و Azure"
+        },
+        {
+          "en": "Zerto for continuous data protection",
+          "ar": "Zerto للحماية المستمرة للبيانات"
+        },
+        {
+          "en": "Veeam Backup & Replication with CDP",
+          "ar": "Veeam Backup & Replication مع CDP"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Supported Workloads",
+        "ar": "أحمال العمل المدعومة"
+      },
+      "specs": [
+        {
+          "en": "Physical servers, virtual machines, and cloud instances",
+          "ar": "الخوادم الفعلية والأجهزة الافتراضية ونسخ السحابة"
+        },
+        {
+          "en": "Microsoft SQL Server, Oracle, PostgreSQL, MySQL databases",
+          "ar": "قواعد بيانات Microsoft SQL Server و Oracle و PostgreSQL و MySQL"
+        },
+        {
+          "en": "SAP, Microsoft Exchange, SharePoint applications",
+          "ar": "تطبيقات SAP و Microsoft Exchange و SharePoint"
+        },
+        {
+          "en": "Kubernetes clusters and containerized applications",
+          "ar": "مجموعات Kubernetes والتطبيقات المحتواة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Network & Connectivity",
+        "ar": "الشبكة والاتصال"
+      },
+      "specs": [
+        {
+          "en": "Dedicated 10Gbps replication links with QoS",
+          "ar": "روابط النسخ المتماثل المخصصة 10 جيجابت في الثانية مع QoS"
+        },
+        {
+          "en": "WAN optimization with data deduplication (95% reduction)",
+          "ar": "تحسين WAN مع إلغاء تكرار البيانات (تخفيض 95٪)"
+        },
+        {
+          "en": "Encrypted replication channels (AES-256)",
+          "ar": "قنوات النسخ المتماثل المشفرة (AES-256)"
+        },
+        {
+          "en": "Multi-path networking for replication resilience",
+          "ar": "شبكات متعددة المسارات لمرونة النسخ المتماثل"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Testing & Validation",
+        "ar": "الاختبار والتحقق"
+      },
+      "specs": [
+        {
+          "en": "Quarterly mandatory DR tests with detailed reports",
+          "ar": "اختبارات التعافي من الكوارث الإلزامية ربع السنوية مع تقارير مفصلة"
+        },
+        {
+          "en": "Isolated test networks (VLAN segregation)",
+          "ar": "شبكات اختبار معزولة (فصل VLAN)"
+        },
+        {
+          "en": "Automated validation of application functionality",
+          "ar": "التحقق التلقائي من وظائف التطبيق"
+        },
+        {
+          "en": "Recovery time measurement and trending analysis",
+          "ar": "قياس وقت الاسترداد وتحليل الاتجاهات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Compliance & Reporting",
+        "ar": "الامتثال وإعداد التقارير"
+      },
+      "specs": [
+        {
+          "en": "ISO 22301 Business Continuity Management certified",
+          "ar": "معتمد ISO 22301 لإدارة استمرارية الأعمال"
+        },
+        {
+          "en": "Audit trails for all DR activities and configuration changes",
+          "ar": "مسارات التدقيق لجميع أنشطة التعافي من الكوارث وتغييرات التكوين"
+        },
+        {
+          "en": "Compliance with Saudi Cloud Computing Regulatory Framework",
+          "ar": "الامتثال للإطار التنظيمي للحوسبة السحابية السعودية"
+        },
+        {
+          "en": "Monthly DR readiness reports with executive dashboards",
+          "ar": "تقارير جاهزية التعافي من الكوارث الشهرية مع لوحات معلومات تنفيذية"
+        }
+      ]
+    }
+  ]
+}

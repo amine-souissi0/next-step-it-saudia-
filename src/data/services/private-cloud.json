@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "private-cloud",
+    "slug": "private-cloud",
+    "parentService": "cloud"
+  },
+  "hero": {
+    "title": {
+      "en": "Private Cloud Solutions",
+      "ar": "حلول السحابة الخاصة"
+    },
+    "subtitle": {
+      "en": "Secure, scalable, and fully customizable private cloud infrastructure tailored to your business needs",
+      "ar": "بنية تحتية سحابية خاصة آمنة وقابلة للتطوير ومخصصة بالكامل لاحتياجات عملك"
+    },
+    "badge": {
+      "en": "Enterprise Cloud",
+      "ar": "السحابة المؤسسية"
+    }
+  },
+  "description": {
+    "en": "Deploy a dedicated private cloud environment that combines the flexibility and efficiency of cloud computing with the security and control of on-premises infrastructure. Our private cloud solutions are designed for enterprises that require maximum data sovereignty, compliance adherence, and performance optimization while maintaining complete administrative control over their IT resources.",
+    "ar": "انشر بيئة سحابية خاصة مخصصة تجمع بين مرونة وكفاءة الحوسبة السحابية مع أمان وتحكم البنية التحتية الداخلية. تم تصميم حلول السحابة الخاصة لدينا للمؤسسات التي تتطلب الحد الأقصى من سيادة البيانات والامتثال وتحسين الأداء مع الحفاظ على التحكم الإداري الكامل في موارد تكنولوجيا المعلومات."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "On-Premises Deployment",
+        "ar": "النشر الداخلي"
+      },
+      "description": {
+        "en": "Deploy infrastructure within your data center for complete control over data location, security policies, and compliance requirements with zero external dependencies.",
+        "ar": "انشر البنية التحتية داخل مركز البيانات الخاص بك للتحكم الكامل في موقع البيانات وسياسات الأمان ومتطلبات الامتثال دون اعتماديات خارجية."
+      }
+    },
+    {
+      "title": {
+        "en": "Hybrid Cloud Integration",
+        "ar": "تكامل السحابة الهجينة"
+      },
+      "description": {
+        "en": "Seamlessly integrate private cloud with public cloud services, enabling workload portability, disaster recovery, and burst capacity when needed.",
+        "ar": "تكامل سلس للسحابة الخاصة مع خدمات السحابة العامة، مما يتيح نقل أحمال العمل والتعافي من الكوارث والقدرة الإضافية عند الحاجة."
+      }
+    },
+    {
+      "title": {
+        "en": "Advanced Security Isolation",
+        "ar": "العزل الأمني المتقدم"
+      },
+      "description": {
+        "en": "Multi-layered security architecture with hardware isolation, encrypted storage, network segmentation, and dedicated security appliances for maximum data protection.",
+        "ar": "بنية أمنية متعددة الطبقات مع عزل الأجهزة والتخزين المشفر وتقسيم الشبكة وأجهزة أمنية مخصصة لأقصى حماية للبيانات."
+      }
+    },
+    {
+      "title": {
+        "en": "Elastic Auto-Scaling",
+        "ar": "التوسع التلقائي المرن"
+      },
+      "description": {
+        "en": "Automatically scale compute, storage, and network resources based on demand with intelligent resource allocation and load balancing capabilities.",
+        "ar": "قم بتوسيع موارد الحوسبة والتخزين والشبكة تلقائيًا بناءً على الطلب مع تخصيص ذكي للموارد وقدرات موازنة الحمل."
+      }
+    },
+    {
+      "title": {
+        "en": "Compliance & Governance",
+        "ar": "الامتثال والحوكمة"
+      },
+      "description": {
+        "en": "Built-in compliance frameworks for GDPR, HIPAA, PCI-DSS, and local regulations with comprehensive audit trails, policy enforcement, and reporting tools.",
+        "ar": "أطر امتثال مدمجة لـ GDPR و HIPAA و PCI-DSS واللوائح المحلية مع سجلات تدقيق شاملة وأدوات إنفاذ السياسات والإبلاغ."
+      }
+    },
+    {
+      "title": {
+        "en": "High Performance Computing",
+        "ar": "الحوسبة عالية الأداء"
+      },
+      "description": {
+        "en": "Optimized infrastructure with NVMe storage, high-speed networking, GPU acceleration, and dedicated resources for compute-intensive workloads.",
+        "ar": "بنية تحتية محسّنة مع تخزين NVMe وشبكات عالية السرعة وتسريع GPU وموارد مخصصة لأحمال العمل كثيفة الحوسبة."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Technical Specifications & Capabilities",
+      "ar": "المواصفات الفنية والقدرات"
+    },
+    "items": {
+      "en": [
+        "Compute: Up to 1000+ virtual machines per cluster with live migration, high availability, and DRS (Distributed Resource Scheduler)",
+        "Storage: All-flash NVMe arrays with 99.9999% availability, deduplication, compression, and snapshot capabilities up to 2PB capacity",
+        "Network: 100Gbps backbone with SDN (Software-Defined Networking), micro-segmentation, and automated network provisioning",
+        "Virtualization: VMware vSphere 8, Microsoft Hyper-V, or KVM with full management suite and automation tools",
+        "Backup & DR: Continuous data protection with RPO < 15 minutes, automated failover, and multi-site replication",
+        "Monitoring: Real-time infrastructure monitoring, predictive analytics, capacity planning, and automated alerting systems",
+        "Security: Hardware-based encryption, TPM 2.0, secure boot, intrusion detection/prevention, and zero-trust architecture",
+        "API Access: RESTful APIs for automation, integration with DevOps tools (Terraform, Ansible), and self-service portal"
+      ],
+      "ar": [
+        "الحوسبة: ما يصل إلى 1000+ جهاز افتراضي لكل مجموعة مع الترحيل المباشر والتوفر العالي وجدولة الموارد الموزعة",
+        "التخزين: مصفوفات NVMe فلاش بالكامل مع توفر 99.9999٪ وإلغاء البيانات المكررة والضغط ولقطات حتى 2 بيتابايت",
+        "الشبكة: شبكة أساسية 100 جيجابت في الثانية مع شبكات محددة بالبرمجيات وتجزئة دقيقة وتوفير شبكة آلي",
+        "المحاكاة الافتراضية: VMware vSphere 8 أو Microsoft Hyper-V أو KVM مع مجموعة إدارة كاملة وأدوات أتمتة",
+        "النسخ الاحتياطي والتعافي: حماية البيانات المستمرة مع RPO < 15 دقيقة والفشل الآلي والنسخ المتماثل متعدد المواقع",
+        "المراقبة: مراقبة البنية التحتية في الوقت الفعلي والتحليلات التنبؤية وتخطيط السعة وأنظمة التنبيه الآلي",
+        "الأمان: التشفير القائم على الأجهزة و TPM 2.0 والتمهيد الآمن وكشف ومنع التطفل وبنية الثقة الصفرية",
+        "الوصول إلى API: واجهات برمجة تطبيقات RESTful للأتمتة والتكامل مع أدوات DevOps (Terraform و Ansible) وبوابة الخدمة الذاتية"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Hybrid Cloud",
+        "ar": "السحابة الهجينة"
+      },
+      "link": "/services/cloud/hybrid-cloud"
+    },
+    {
+      "title": {
+        "en": "Disaster Recovery",
+        "ar": "التعافي من الكوارث"
+      },
+      "link": "/services/cloud/disaster-recovery"
+    },
+    {
+      "title": {
+        "en": "Managed Services",
+        "ar": "الخدمات المدارة"
+      },
+      "link": "/services/managed"
+    }
+  ]
+}

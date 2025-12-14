@@ -1,0 +1,237 @@
+{
+  "hero": {
+    "title": {
+      "en": "Application Management Services",
+      "ar": "خدمات إدارة التطبيقات"
+    },
+    "subtitle": {
+      "en": "End-to-end application lifecycle management with performance optimization and proactive support",
+      "ar": "إدارة دورة حياة التطبيقات من البداية إلى النهاية مع تحسين الأداء والدعم الاستباقي"
+    },
+    "image": "/placeholder.svg"
+  },
+  "description": {
+    "en": "Our Application Management Services ensure your critical business applications run smoothly and efficiently. We provide comprehensive support from deployment to retirement, including performance monitoring, patch management, troubleshooting, and optimization. With expertise across enterprise applications (SAP, Oracle, Microsoft), custom-built systems, and cloud-native applications, we deliver 99.95% application availability backed by tiered SLAs and 24/7 support.",
+    "ar": "تضمن خدمات إدارة التطبيقات لدينا تشغيل تطبيقات الأعمال الحرجة بسلاسة وكفاءة. نقدم دعماً شاملاً من النشر إلى التقاعد، بما في ذلك مراقبة الأداء وإدارة التصحيحات واستكشاف الأخطاء والتحسين. مع الخبرة عبر تطبيقات المؤسسات (SAP و Oracle و Microsoft) والأنظمة المخصصة والتطبيقات السحابية الأصلية، نقدم توفر التطبيقات بنسبة 99.95٪ مدعوماً باتفاقيات SLA المتدرجة والدعم على مدار الساعة."
+  },
+  "features": [
+    {
+      "id": "performance-monitoring",
+      "title": {
+        "en": "Application Performance Monitoring (APM)",
+        "ar": "مراقبة أداء التطبيقات (APM)"
+      },
+      "description": {
+        "en": "Real-time transaction tracing with end-to-end visibility. Response time monitoring with <500ms target for critical transactions. User experience monitoring with Apdex scores and synthetic testing. Code-level diagnostics for performance bottleneck identification.",
+        "ar": "تتبع المعاملات في الوقت الفعلي مع رؤية شاملة. مراقبة وقت الاستجابة مع هدف أقل من 500 مللي ثانية للمعاملات الحرجة. مراقبة تجربة المستخدم مع نقاط Apdex والاختبار الاصطناعي. تشخيصات على مستوى الكود لتحديد اختناقات الأداء."
+      },
+      "icon": "Activity"
+    },
+    {
+      "id": "patch-lifecycle",
+      "title": {
+        "en": "Patch & Update Management",
+        "ar": "إدارة التصحيحات والتحديثات"
+      },
+      "description": {
+        "en": "Quarterly application patch cycles with comprehensive testing. Security patches applied within 48 hours of vendor release. Sandbox environment testing before production deployment. Automated rollback procedures for failed updates.",
+        "ar": "دورات تصحيح التطبيقات ربع السنوية مع اختبار شامل. تطبيق تصحيحات الأمان في غضون 48 ساعة من إصدار البائع. اختبار بيئة الحماية قبل النشر في الإنتاج. إجراءات التراجع التلقائية للتحديثات الفاشلة."
+      },
+      "icon": "RefreshCw"
+    },
+    {
+      "id": "incident-resolution",
+      "title": {
+        "en": "Incident & Problem Management",
+        "ar": "إدارة الحوادث والمشكلات"
+      },
+      "description": {
+        "en": "24/7 L1/L2/L3 support with escalation to application vendors. Root cause analysis for recurring issues with permanent fix implementation. Knowledge base documentation updated after each incident resolution. Proactive problem management to prevent future incidents.",
+        "ar": "دعم L1 / L2 / L3 على مدار الساعة مع التصعيد إلى بائعي التطبيقات. تحليل السبب الجذري للمشكلات المتكررة مع تنفيذ الإصلاح الدائم. تحديث وثائق قاعدة المعرفة بعد كل حل للحوادث. إدارة استباقية للمشكلات لمنع الحوادث المستقبلية."
+      },
+      "icon": "AlertCircle"
+    },
+    {
+      "id": "capacity-optimization",
+      "title": {
+        "en": "Capacity & Performance Tuning",
+        "ar": "تحسين السعة والأداء"
+      },
+      "description": {
+        "en": "Quarterly performance tuning sessions to optimize response times. Database query optimization reducing load by 40-60%. Application server rightsizing recommendations. Load testing before peak business periods (Black Friday, Ramadan).",
+        "ar": "جلسات ضبط الأداء ربع السنوية لتحسين أوقات الاستجابة. تحسين استعلام قاعدة البيانات مما يقلل التحميل بنسبة 40-60٪. توصيات تحجيم خادم التطبيقات الصحيح. اختبار التحميل قبل فترات الأعمال الذروة (الجمعة السوداء ورمضان)."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "integration-management",
+      "title": {
+        "en": "Integration & API Management",
+        "ar": "إدارة التكامل وواجهة برمجة التطبيقات"
+      },
+      "description": {
+        "en": "API gateway monitoring with rate limiting and quota management. Integration flow monitoring for B2B/EDI connections. Error handling and retry logic implementation. API versioning and backward compatibility management.",
+        "ar": "مراقبة بوابة API مع الحد من المعدل وإدارة الحصص. مراقبة تدفق التكامل لاتصالات B2B / EDI. تنفيذ معالجة الأخطاء ومنطق إعادة المحاولة. إصدار API وإدارة التوافق العكسي."
+      },
+      "icon": "Link"
+    },
+    {
+      "id": "disaster-recovery",
+      "title": {
+        "en": "Application DR & High Availability",
+        "ar": "التعافي من الكوارث للتطبيقات والتوفر العالي"
+      },
+      "description": {
+        "en": "Active-passive or active-active HA configurations. RPO 15 minutes / RTO 1 hour for Tier 1 applications. Automated failover testing quarterly. DR runbook maintenance and documentation.",
+        "ar": "تكوينات التوفر العالي النشط-السلبي أو النشط-النشط. RPO 15 دقيقة / RTO ساعة واحدة لتطبيقات المستوى 1. اختبار الفشل التلقائي ربع سنوياً. صيانة ووثائق كتيب تشغيل التعافي من الكوارث."
+      },
+      "icon": "Shield"
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Service Tiers",
+        "ar": "مستويات الخدمة"
+      },
+      "specs": [
+        {
+          "en": "Enterprise Tier: 99.95% SLA / 24/7 support / Dedicated team / Proactive optimization",
+          "ar": "المستوى المؤسسي: SLA 99.95٪ / دعم على مدار الساعة / فريق مخصص / تحسين استباقي"
+        },
+        {
+          "en": "Professional Tier: 99.9% SLA / 16/5 support / Shared resources / Monthly reviews",
+          "ar": "المستوى المهني: SLA 99.9٪ / دعم 16/5 / موارد مشتركة / مراجعات شهرية"
+        },
+        {
+          "en": "Standard Tier: 99.5% SLA / Business hours / Reactive support / Quarterly reviews",
+          "ar": "المستوى القياسي: SLA 99.5٪ / ساعات العمل / دعم تفاعلي / مراجعات ربع سنوية"
+        },
+        {
+          "en": "Custom SLAs available for specific application criticality levels",
+          "ar": "اتفاقيات SLA مخصصة متاحة لمستويات الأهمية الخاصة بالتطبيقات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Supported Applications",
+        "ar": "التطبيقات المدعومة"
+      },
+      "specs": [
+        {
+          "en": "Enterprise: SAP (ECC, S/4HANA, BW), Oracle EBS, Microsoft Dynamics",
+          "ar": "المؤسسات: SAP (ECC و S/4HANA و BW) و Oracle EBS و Microsoft Dynamics"
+        },
+        {
+          "en": "Collaboration: Microsoft 365, SharePoint, Exchange, Teams",
+          "ar": "التعاون: Microsoft 365 و SharePoint و Exchange و Teams"
+        },
+        {
+          "en": "Custom applications: .NET, Java, Python, Node.js stacks",
+          "ar": "التطبيقات المخصصة: .NET و Java و Python و Node.js"
+        },
+        {
+          "en": "Cloud-native: AWS, Azure, and GCP managed services",
+          "ar": "السحابة الأصلية: الخدمات المدارة AWS و Azure و GCP"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Support Team Structure",
+        "ar": "هيكل فريق الدعم"
+      },
+      "specs": [
+        {
+          "en": "L1 Support: Application helpdesk for user issues and basic troubleshooting",
+          "ar": "دعم L1: مكتب مساعدة التطبيقات لمشكلات المستخدم واستكشاف الأخطاص الأساسية"
+        },
+        {
+          "en": "L2 Support: Application specialists with vendor certifications",
+          "ar": "دعم L2: متخصصو التطبيقات مع شهادات البائعين"
+        },
+        {
+          "en": "L3 Support: Senior consultants and architects for complex issues",
+          "ar": "دعم L3: مستشارون ومهندسون معماريون كبار للمشكلات المعقدة"
+        },
+        {
+          "en": "Vendor liaison: Direct escalation channels with application vendors",
+          "ar": "اتصال البائع: قنوات تصعيد مباشرة مع بائعي التطبيقات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Monitoring & APM Tools",
+        "ar": "أدوات المراقبة و APM"
+      },
+      "specs": [
+        {
+          "en": "AppDynamics for Java, .NET, Node.js application monitoring",
+          "ar": "AppDynamics لمراقبة تطبيقات Java و .NET و Node.js"
+        },
+        {
+          "en": "Dynatrace for AI-powered full-stack observability",
+          "ar": "Dynatrace لمراقبة المكدس الكامل المدعوم بالذكاء الاصطناعي"
+        },
+        {
+          "en": "New Relic for cloud-native and microservices monitoring",
+          "ar": "New Relic لمراقبة السحابة الأصلية والخدمات الصغيرة"
+        },
+        {
+          "en": "Solution Manager for SAP application monitoring",
+          "ar": "Solution Manager لمراقبة تطبيقات SAP"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Change & Release Management",
+        "ar": "إدارة التغيير والإصدار"
+      },
+      "specs": [
+        {
+          "en": "ITIL-based change management with CAB approvals",
+          "ar": "إدارة التغيير المستندة إلى ITIL مع موافقات CAB"
+        },
+        {
+          "en": "CI/CD pipeline integration for automated deployments",
+          "ar": "تكامل خط أنابيب CI / CD للنشر التلقائي"
+        },
+        {
+          "en": "Blue-green and canary deployment strategies",
+          "ar": "استراتيجيات النشر الأزرق والأخضر والكناري"
+        },
+        {
+          "en": "Release validation testing and smoke tests",
+          "ar": "اختبار التحقق من الإصدار واختبارات الدخان"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Reporting & Analytics",
+        "ar": "إعداد التقارير والتحليلات"
+      },
+      "specs": [
+        {
+          "en": "Real-time application health dashboards",
+          "ar": "لوحات معلومات صحة التطبيقات في الوقت الفعلي"
+        },
+        {
+          "en": "Daily incident summaries with resolution times",
+          "ar": "ملخصات الحوادث اليومية مع أوقات الحل"
+        },
+        {
+          "en": "Weekly performance reports with trend analysis",
+          "ar": "تقارير الأداء الأسبوعية مع تحليل الاتجاهات"
+        },
+        {
+          "en": "Monthly SLA compliance reports and QBR presentations",
+          "ar": "تقارير الامتثال الشهرية لاتفاقية مستوى الخدمة وعروض QBR"
+        }
+      ]
+    }
+  ]
+}

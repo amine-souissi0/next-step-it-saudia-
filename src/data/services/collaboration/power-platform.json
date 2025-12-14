@@ -1,0 +1,204 @@
+{
+  "hero": {
+    "title": {
+      "en": "Microsoft Power Platform Solutions",
+      "ar": "حلول منصة Microsoft Power"
+    },
+    "subtitle": {
+      "en": "Low-code automation and app development to accelerate digital transformation",
+      "ar": "الأتمتة منخفضة التعليمات البرمجية وتطوير التطبيقات لتسريع التحول الرقمي"
+    }
+  },
+  "description": {
+    "en": "Empower your organization with Microsoft Power Platform - a comprehensive suite of low-code tools that enable citizen developers and IT professionals to build custom applications, automate workflows, analyze data, and create intelligent chatbots. Our Power Platform services help you leverage Power Apps, Power Automate, Power BI, and Power Virtual Agents to solve business challenges quickly, reduce development costs, and drive innovation across your organization.",
+    "ar": "مكّن مؤسستك بمنصة Microsoft Power - مجموعة شاملة من الأدوات منخفضة التعليمات البرمجية التي تمكّن المطورين المواطنين ومحترفي تكنولوجيا المعلومات من بناء تطبيقات مخصصة وأتمتة سير العمل وتحليل البيانات."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Power Apps Development",
+        "ar": "تطوير Power Apps"
+      },
+      "description": {
+        "en": "Build custom business applications quickly using canvas apps, model-driven apps, and portals with minimal coding",
+        "ar": "بناء تطبيقات الأعمال المخصصة بسرعة باستخدام تطبيقات القماش والتطبيقات الموجهة بالنموذج والبوابات بأقل قدر من الترميز"
+      }
+    },
+    {
+      "title": {
+        "en": "Power Automate Workflows",
+        "ar": "سير عمل Power Automate"
+      },
+      "description": {
+        "en": "Automate repetitive tasks and business processes with cloud flows, desktop flows (RPA), and business process flows",
+        "ar": "أتمتة المهام المتكررة وعمليات الأعمال مع التدفقات السحابية وتدفقات سطح المكتب (RPA) وتدفقات عمليات الأعمال"
+      }
+    },
+    {
+      "title": {
+        "en": "Power BI Analytics",
+        "ar": "تحليلات Power BI"
+      },
+      "description": {
+        "en": "Create interactive dashboards and reports for data-driven decision making with advanced analytics and AI insights",
+        "ar": "إنشاء لوحات معلومات وتقارير تفاعلية لاتخاذ قرارات قائمة على البيانات مع التحليلات المتقدمة ورؤى الذكاء الاصطناعي"
+      }
+    },
+    {
+      "title": {
+        "en": "Power Virtual Agents",
+        "ar": "وكلاء Power الافتراضيون"
+      },
+      "description": {
+        "en": "Build intelligent chatbots without coding to handle customer service, employee support, and business inquiries",
+        "ar": "بناء روبوتات الدردشة الذكية بدون ترميز للتعامل مع خدمة العملاء ودعم الموظفين واستفسارات الأعمال"
+      }
+    },
+    {
+      "title": {
+        "en": "Dataverse Integration",
+        "ar": "تكامل Dataverse"
+      },
+      "description": {
+        "en": "Centralized data platform that connects to hundreds of data sources and business systems for unified data management",
+        "ar": "منصة بيانات مركزية تتصل بمئات مصادر البيانات وأنظمة الأعمال لإدارة البيانات الموحدة"
+      }
+    },
+    {
+      "title": {
+        "en": "Governance & Security",
+        "ar": "الحوكمة والأمان"
+      },
+      "description": {
+        "en": "Enterprise-grade security with DLP policies, environment management, and compliance controls for safe citizen development",
+        "ar": "الأمان على مستوى المؤسسة مع سياسات DLP وإدارة البيئة وضوابط الامتثال للتطوير الآمن للمواطنين"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Power Apps Capabilities",
+        "ar": "قدرات Power Apps"
+      },
+      "specs": [
+        {
+          "en": "Canvas apps with drag-and-drop interface builder",
+          "ar": "تطبيقات القماش مع منشئ واجهة السحب والإفلات"
+        },
+        {
+          "en": "Model-driven apps based on Dataverse tables",
+          "ar": "التطبيقات الموجهة بالنموذج بناءً على جداول Dataverse"
+        },
+        {
+          "en": "Power Pages for external-facing portals",
+          "ar": "Power Pages للبوابات الخارجية"
+        },
+        {
+          "en": "300+ pre-built connectors to cloud services",
+          "ar": "أكثر من 300 موصل جاهز للخدمات السحابية"
+        },
+        {
+          "en": "Mobile app support for iOS and Android",
+          "ar": "دعم تطبيقات الهاتف المحمول لـ iOS و Android"
+        },
+        {
+          "en": "Custom connectors and API integration",
+          "ar": "الموصلات المخصصة وتكامل API"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Power Automate Features",
+        "ar": "ميزات Power Automate"
+      },
+      "specs": [
+        {
+          "en": "Cloud flows for API-based automation",
+          "ar": "التدفقات السحابية للأتمتة القائمة على API"
+        },
+        {
+          "en": "Desktop flows (RPA) for legacy application automation",
+          "ar": "تدفقات سطح المكتب (RPA) لأتمتة التطبيقات القديمة"
+        },
+        {
+          "en": "Business process flows for guided user experiences",
+          "ar": "تدفقات عمليات الأعمال لتجارب المستخدم الموجهة"
+        },
+        {
+          "en": "AI Builder for intelligent automation",
+          "ar": "AI Builder للأتمتة الذكية"
+        },
+        {
+          "en": "Approval workflows and notifications",
+          "ar": "سير عمل الموافقة والإخطارات"
+        },
+        {
+          "en": "Error handling and retry policies",
+          "ar": "معالجة الأخطاء وسياسات إعادة المحاولة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Power BI Analytics",
+        "ar": "تحليلات Power BI"
+      },
+      "specs": [
+        {
+          "en": "Interactive reports and dashboards",
+          "ar": "التقارير ولوحات المعلومات التفاعلية"
+        },
+        {
+          "en": "Direct Query and Import data modes",
+          "ar": "أوضاع الاستعلام المباشر واستيراد البيانات"
+        },
+        {
+          "en": "Row-level security (RLS) for data protection",
+          "ar": "الأمان على مستوى الصف (RLS) لحماية البيانات"
+        },
+        {
+          "en": "Paginated reports for operational reporting",
+          "ar": "التقارير المقسمة إلى صفحات لإعداد التقارير التشغيلية"
+        },
+        {
+          "en": "Natural language Q&A",
+          "ar": "الأسئلة والأجوبة باللغة الطبيعية"
+        },
+        {
+          "en": "Mobile app publishing",
+          "ar": "نشر تطبيقات الهاتف المحمول"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Governance & Administration",
+        "ar": "الحوكمة والإدارة"
+      },
+      "specs": [
+        {
+          "en": "Center of Excellence (CoE) Starter Kit implementation",
+          "ar": "تنفيذ مجموعة بداية مركز التميز (CoE)"
+        },
+        {
+          "en": "Data loss prevention (DLP) policies",
+          "ar": "سياسات منع فقدان البيانات (DLP)"
+        },
+        {
+          "en": "Environment strategy and lifecycle management",
+          "ar": "استراتيجية البيئة وإدارة دورة الحياة"
+        },
+        {
+          "en": "Application lifecycle management (ALM)",
+          "ar": "إدارة دورة حياة التطبيق (ALM)"
+        },
+        {
+          "en": "Licensing optimization and management",
+          "ar": "تحسين وإدارة الترخيص"
+        }
+      ]
+    }
+  ]
+}

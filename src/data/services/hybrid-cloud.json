@@ -1,0 +1,237 @@
+{
+  "hero": {
+    "title": {
+      "en": "Hybrid Cloud Solutions",
+      "ar": "حلول السحابة المختلطة"
+    },
+    "subtitle": {
+      "en": "Seamlessly integrate on-premises and cloud infrastructure for maximum flexibility and control",
+      "ar": "دمج سلس بين البنية التحتية المحلية والسحابية لأقصى مرونة وتحكم"
+    },
+    "image": "/placeholder.svg"
+  },
+  "description": {
+    "en": "Our Hybrid Cloud solutions provide the perfect balance between on-premises control and cloud scalability. We help organizations build unified infrastructure that seamlessly spans private datacenters and public cloud platforms, enabling workload portability, data sovereignty compliance, and optimized resource allocation across your entire IT landscape.",
+    "ar": "توفر حلول السحابة المختلطة لدينا التوازن المثالي بين التحكم المحلي وقابلية التوسع السحابية. نساعد المؤسسات على بناء بنية تحتية موحدة تمتد بسلاسة بين مراكز البيانات الخاصة ومنصات السحابة العامة، مما يتيح قابلية نقل أحمال العمل والامتثال لسيادة البيانات وتخصيص الموارد الأمثل عبر البنية التحتية لتقنية المعلومات بالكامل."
+  },
+  "features": [
+    {
+      "id": "workload-portability",
+      "title": {
+        "en": "Workload Portability",
+        "ar": "قابلية نقل أحمال العمل"
+      },
+      "description": {
+        "en": "Move applications seamlessly between on-premises and cloud environments without modification. Support for containerized and VM-based workloads with consistent management across all platforms.",
+        "ar": "نقل التطبيقات بسلاسة بين البيئات المحلية والسحابية دون تعديل. دعم أحمال العمل المعتمدة على الحاويات والأجهزة الافتراضية مع إدارة متسقة عبر جميع المنصات."
+      },
+      "icon": "ArrowLeftRight"
+    },
+    {
+      "id": "unified-management",
+      "title": {
+        "en": "Unified Management Console",
+        "ar": "وحدة إدارة موحدة"
+      },
+      "description": {
+        "en": "Single pane of glass for managing hybrid infrastructure. Centralized visibility, monitoring, and control across on-premises and multi-cloud environments with role-based access control.",
+        "ar": "لوحة واحدة لإدارة البنية التحتية المختلطة. رؤية مركزية ومراقبة وتحكم عبر البيئات المحلية والسحابية المتعددة مع التحكم في الوصول على أساس الأدوار."
+      },
+      "icon": "Layout"
+    },
+    {
+      "id": "data-sovereignty",
+      "title": {
+        "en": "Data Sovereignty & Compliance",
+        "ar": "سيادة البيانات والامتثال"
+      },
+      "description": {
+        "en": "Maintain sensitive data on-premises while leveraging cloud for non-sensitive workloads. Automated compliance enforcement for Saudi regulations including PDPL, NCA, and SAMA frameworks.",
+        "ar": "الحفاظ على البيانات الحساسة محلياً مع الاستفادة من السحابة لأحمال العمل غير الحساسة. فرض الامتثال التلقائي للوائح السعودية بما في ذلك PDPL و NCA و SAMA."
+      },
+      "icon": "Shield"
+    },
+    {
+      "id": "intelligent-routing",
+      "title": {
+        "en": "Intelligent Traffic Routing",
+        "ar": "توجيه ذكي لحركة المرور"
+      },
+      "description": {
+        "en": "Dynamic load balancing and traffic distribution across hybrid environments. Latency-based routing, geo-proximity steering, and automatic failover for optimal user experience.",
+        "ar": "موازنة الحمل الديناميكية وتوزيع حركة المرور عبر البيئات المختلطة. التوجيه المبني على زمن الوصول والتوجيه الجغرافي والفشل التلقائي لتجربة مستخدم مثالية."
+      },
+      "icon": "GitBranch"
+    },
+    {
+      "id": "cost-optimization",
+      "title": {
+        "en": "Cost Optimization",
+        "ar": "تحسين التكلفة"
+      },
+      "description": {
+        "en": "Intelligent workload placement based on cost, performance, and compliance requirements. Real-time cost analytics, budget alerts, and automated resource rightsizing recommendations.",
+        "ar": "وضع ذكي لأحمال العمل بناءً على التكلفة والأداء ومتطلبات الامتثال. تحليلات التكلفة في الوقت الفعلي وتنبيهات الميزانية وتوصيات تلقائية لتحسين حجم الموارد."
+      },
+      "icon": "TrendingDown"
+    },
+    {
+      "id": "disaster-recovery",
+      "title": {
+        "en": "Built-in DR Capabilities",
+        "ar": "قدرات التعافي من الكوارث المدمجة"
+      },
+      "description": {
+        "en": "Cloud-based disaster recovery for on-premises workloads and vice versa. Automated replication, one-click failover, and continuous validation of recovery procedures.",
+        "ar": "التعافي من الكوارث المستند إلى السحابة لأحمال العمل المحلية والعكس. النسخ المتماثل التلقائي والفشل بنقرة واحدة والتحقق المستمر من إجراءات الاسترداد."
+      },
+      "icon": "RefreshCw"
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Connectivity",
+        "ar": "الاتصال"
+      },
+      "specs": [
+        {
+          "en": "Dedicated private connections (10Gbps - 100Gbps)",
+          "ar": "اتصالات خاصة مخصصة (10 جيجابت - 100 جيجابت في الثانية)"
+        },
+        {
+          "en": "IPsec VPN with AES-256 encryption",
+          "ar": "VPN IPsec مع تشفير AES-256"
+        },
+        {
+          "en": "SD-WAN integration for multi-site connectivity",
+          "ar": "تكامل SD-WAN للاتصال متعدد المواقع"
+        },
+        {
+          "en": "Multi-cloud peering (AWS Direct Connect, Azure ExpressRoute, GCP Interconnect)",
+          "ar": "اتصال متعدد السحابات (AWS Direct Connect و Azure ExpressRoute و GCP Interconnect)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Integration Platforms",
+        "ar": "منصات التكامل"
+      },
+      "specs": [
+        {
+          "en": "VMware Cloud Foundation for unified SDDC",
+          "ar": "VMware Cloud Foundation لمركز بيانات برمجي موحد"
+        },
+        {
+          "en": "Azure Arc for hybrid management",
+          "ar": "Azure Arc للإدارة المختلطة"
+        },
+        {
+          "en": "AWS Outposts for on-premises AWS experience",
+          "ar": "AWS Outposts لتجربة AWS محلية"
+        },
+        {
+          "en": "Google Anthos for multi-cloud Kubernetes",
+          "ar": "Google Anthos لـ Kubernetes متعدد السحابات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Data Services",
+        "ar": "خدمات البيانات"
+      },
+      "specs": [
+        {
+          "en": "Bi-directional data synchronization with conflict resolution",
+          "ar": "مزامنة البيانات ثنائية الاتجاه مع حل التعارضات"
+        },
+        {
+          "en": "Hybrid database solutions (Azure SQL MI, AWS RDS on Outposts)",
+          "ar": "حلول قواعد البيانات المختلطة (Azure SQL MI و AWS RDS على Outposts)"
+        },
+        {
+          "en": "Distributed caching with Redis Enterprise",
+          "ar": "التخزين المؤقت الموزع مع Redis Enterprise"
+        },
+        {
+          "en": "Data tiering and lifecycle management",
+          "ar": "تصنيف البيانات وإدارة دورة الحياة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Security & Compliance",
+        "ar": "الأمن والامتثال"
+      },
+      "specs": [
+        {
+          "en": "Unified identity management (Azure AD, Okta, Active Directory)",
+          "ar": "إدارة الهوية الموحدة (Azure AD و Okta و Active Directory)"
+        },
+        {
+          "en": "End-to-end encryption for data in transit and at rest",
+          "ar": "تشفير شامل للبيانات أثناء النقل وفي حالة السكون"
+        },
+        {
+          "en": "Compliance automation for Saudi regulations",
+          "ar": "أتمتة الامتثال للوائح السعودية"
+        },
+        {
+          "en": "SIEM integration for unified security monitoring",
+          "ar": "تكامل SIEM للمراقبة الأمنية الموحدة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Performance",
+        "ar": "الأداء"
+      },
+      "specs": [
+        {
+          "en": "< 5ms latency between on-premises and cloud",
+          "ar": "زمن وصول أقل من 5 مللي ثانية بين المحلي والسحابة"
+        },
+        {
+          "en": "Automated workload optimization based on performance metrics",
+          "ar": "تحسين تلقائي لأحمال العمل بناءً على مقاييس الأداء"
+        },
+        {
+          "en": "Content delivery network integration",
+          "ar": "تكامل شبكة توصيل المحتوى"
+        },
+        {
+          "en": "99.95% hybrid infrastructure availability SLA",
+          "ar": "اتفاقية مستوى الخدمة لتوفر البنية التحتية المختلطة بنسبة 99.95٪"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Management Tools",
+        "ar": "أدوات الإدارة"
+      },
+      "specs": [
+        {
+          "en": "Terraform & Ansible for infrastructure as code",
+          "ar": "Terraform و Ansible للبنية التحتية كرمز"
+        },
+        {
+          "en": "Grafana & Prometheus for unified monitoring",
+          "ar": "Grafana و Prometheus للمراقبة الموحدة"
+        },
+        {
+          "en": "CloudHealth for multi-cloud cost management",
+          "ar": "CloudHealth لإدارة تكاليف السحابة المتعددة"
+        },
+        {
+          "en": "ServiceNow integration for IT service management",
+          "ar": "تكامل ServiceNow لإدارة خدمات تقنية المعلومات"
+        }
+      ]
+    }
+  ]
+}

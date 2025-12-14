@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "government",
+    "slug": "government"
+  },
+  "hero": {
+    "title": {
+      "en": "Government Solutions",
+      "ar": "حلول القطاع الحكومي"
+    },
+    "subtitle": {
+      "en": "Secure, compliant, and efficient technology solutions for government entities",
+      "ar": "حلول تقنية آمنة ومتوافقة وفعالة للجهات الحكومية"
+    },
+    "badge": {
+      "en": "Public Sector",
+      "ar": "القطاع العام"
+    }
+  },
+  "challenges": [
+    {
+      "title": "Data Security & Privacy",
+      "description": "Protecting sensitive citizen data while maintaining accessibility and transparency"
+    },
+    {
+      "title": "Digital Transformation",
+      "description": "Modernizing legacy systems and processes to improve citizen services"
+    },
+    {
+      "title": "Regulatory Compliance",
+      "description": "Meeting strict government regulations and international standards"
+    },
+    {
+      "title": "Budget Constraints",
+      "description": "Achieving digital goals within limited budgets and resources"
+    },
+    {
+      "title": "Interoperability",
+      "description": "Ensuring seamless communication between different government entities"
+    },
+    {
+      "title": "Cybersecurity Threats",
+      "description": "Defending against sophisticated nation-state and criminal cyber attacks"
+    }
+  ],
+  "certifications": [
+    "ISO 27001",
+    "ISO 27701",
+    "NIST Cybersecurity Framework",
+    "SAMA Compliance",
+    "NCA ECC Framework",
+    "Saudi Cloud Computing Framework"
+  ]
+}

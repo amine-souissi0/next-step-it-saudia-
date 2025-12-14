@@ -1,0 +1,132 @@
+{
+  "hero": {
+    "title": {
+      "en": "Threat Intelligence Services",
+      "ar": "خدمات استخبارات التهديدات"
+    },
+    "subtitle": {
+      "en": "Stay ahead of cyber threats with actionable intelligence and proactive defense strategies",
+      "ar": "ابقَ متقدمًا على التهديدات السيبرانية مع الاستخبارات القابلة للتنفيذ واستراتيجيات الدفاع الاستباقية"
+    }
+  },
+  "description": {
+    "en": "Transform raw data into actionable intelligence with our advanced threat intelligence services. We collect, analyze, and contextualize threat data from multiple sources to provide you with timely insights about emerging threats, attack patterns, and adversary tactics. Our threat intelligence helps your security team make informed decisions and take proactive measures to protect your organization.",
+    "ar": "حوّل البيانات الأولية إلى استخبارات قابلة للتنفيذ مع خدمات استخبارات التهديدات المتقدمة لدينا. نجمع ونحلل ونضع في سياقها بيانات التهديدات من مصادر متعددة."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Real-Time Threat Feeds",
+        "ar": "تغذية التهديدات في الوقت الفعلي"
+      },
+      "description": {
+        "en": "Access to curated threat intelligence feeds with IOCs, TTPs, and contextual information from global sources",
+        "ar": "الوصول إلى موجزات استخبارات التهديدات المنسقة مع مؤشرات الاختراق والتكتيكات والمعلومات السياقية"
+      }
+    },
+    {
+      "title": {
+        "en": "Dark Web Monitoring",
+        "ar": "مراقبة الويب المظلم"
+      },
+      "description": {
+        "en": "Continuous monitoring of dark web forums and marketplaces for mentions of your organization or leaked credentials",
+        "ar": "المراقبة المستمرة لمنتديات الويب المظلم والأسواق للإشارات إلى مؤسستك أو بيانات الاعتماد المسربة"
+      }
+    },
+    {
+      "title": {
+        "en": "Advanced Threat Hunting",
+        "ar": "البحث المتقدم عن التهديدات"
+      },
+      "description": {
+        "en": "Proactive threat hunting activities to identify hidden threats and advanced persistent threats (APTs) in your environment",
+        "ar": "أنشطة البحث الاستباقي عن التهديدات لتحديد التهديدات الخفية والتهديدات المستمرة المتقدمة"
+      }
+    },
+    {
+      "title": {
+        "en": "Adversary Profiling",
+        "ar": "تحليل ملفات الخصوم"
+      },
+      "description": {
+        "en": "Detailed analysis of threat actor groups, their motivations, capabilities, and targeting patterns",
+        "ar": "تحليل مفصل لمجموعات الجهات الفاعلة في التهديد ودوافعها وقدراتها وأنماط استهدافها"
+      }
+    },
+    {
+      "title": {
+        "en": "Industry-Specific Intelligence",
+        "ar": "استخبارات خاصة بالصناعة"
+      },
+      "description": {
+        "en": "Tailored threat intelligence focused on risks and attack trends specific to your industry sector",
+        "ar": "استخبارات التهديدات المخصصة التي تركز على المخاطر واتجاهات الهجوم الخاصة بقطاع صناعتك"
+      }
+    },
+    {
+      "title": {
+        "en": "Strategic Intelligence Reports",
+        "ar": "تقارير الاستخبارات الاستراتيجية"
+      },
+      "description": {
+        "en": "Executive-level threat landscape reports and strategic recommendations for security investment decisions",
+        "ar": "تقارير مشهد التهديدات على المستوى التنفيذي والتوصيات الاستراتيجية لقرارات الاستثمار الأمني"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Intelligence Sources",
+        "ar": "مصادر الاستخبارات"
+      },
+      "specs": [
+        {
+          "en": "Commercial threat intelligence platforms (Recorded Future, CrowdStrike, Mandiant)",
+          "ar": "منصات استخبارات التهديدات التجارية (Recorded Future و CrowdStrike و Mandiant)"
+        },
+        {
+          "en": "Open-source intelligence (OSINT) from public sources",
+          "ar": "الاستخبارات مفتوحة المصدر (OSINT) من المصادر العامة"
+        },
+        {
+          "en": "Dark web and deep web monitoring",
+          "ar": "مراقبة الويب المظلم والويب العميق"
+        },
+        {
+          "en": "Industry sharing communities (ISACs)",
+          "ar": "مجتمعات مشاركة الصناعة (ISACs)"
+        },
+        {
+          "en": "Government and law enforcement feeds",
+          "ar": "موجزات حكومية وموجزات إنفاذ القانون"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Integration Capabilities",
+        "ar": "قدرات التكامل"
+      },
+      "specs": [
+        {
+          "en": "STIX/TAXII standard format support",
+          "ar": "دعم تنسيق معايير STIX/TAXII"
+        },
+        {
+          "en": "Integration with SIEM and SOAR platforms",
+          "ar": "التكامل مع منصات SIEM و SOAR"
+        },
+        {
+          "en": "API access for automated IOC ingestion",
+          "ar": "الوصول عبر API لاستيعاب مؤشرات الاختراق التلقائي"
+        },
+        {
+          "en": "Custom threat feed development",
+          "ar": "تطوير موجزات التهديدات المخصصة"
+        }
+      ]
+    }
+  ]
+}

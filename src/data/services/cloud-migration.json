@@ -1,0 +1,237 @@
+{
+  "hero": {
+    "title": {
+      "en": "Cloud Migration Services",
+      "ar": "خدمات الهجرة السحابية"
+    },
+    "subtitle": {
+      "en": "Strategic cloud migration with zero-downtime cutover and optimized cloud-native architecture",
+      "ar": "هجرة سحابية استراتيجية مع انتقال بدون توقف وبنية سحابية أصلية محسّنة"
+    },
+    "image": "/placeholder.svg"
+  },
+  "description": {
+    "en": "Our Cloud Migration Services provide end-to-end support for moving your workloads to the cloud with minimal risk and maximum value. We follow proven methodologies (AWS MAP, Azure CAF, Google Cloud Adoption Framework) to assess, plan, migrate, and optimize your cloud journey. From lift-and-shift migrations to complete application modernization, we ensure your transition delivers improved performance, reduced costs, and enhanced agility while maintaining business continuity.",
+    "ar": "توفر خدمات الهجرة السحابية لدينا دعماً شاملاً لنقل أحمال العمل الخاصة بك إلى السحابة بأقل قدر من المخاطر وأقصى قيمة. نتبع منهجيات مثبتة (AWS MAP و Azure CAF و Google Cloud Adoption Framework) لتقييم وتخطيط وترحيل وتحسين رحلتك السحابية. من عمليات الترحيل البسيطة إلى التحديث الكامل للتطبيقات، نضمن أن يحقق انتقالك أداءً محسّناً وتكاليف مخفضة ومرونة معززة مع الحفاظ على استمرارية الأعمال."
+  },
+  "features": [
+    {
+      "id": "migration-assessment",
+      "title": {
+        "en": "Comprehensive Migration Assessment",
+        "ar": "تقييم شامل للهجرة"
+      },
+      "description": {
+        "en": "Discovery of all IT assets with automated inventory tools. TCO analysis comparing on-premises vs cloud costs. Application dependency mapping and migration wave planning. Readiness assessment with risk identification and mitigation strategies.",
+        "ar": "اكتشاف جميع أصول تقنية المعلومات باستخدام أدوات الجرد التلقائية. تحليل التكلفة الإجمالية للملكية مقارنة بين التكاليف المحلية والسحابية. تعيين تبعية التطبيقات وتخطيط موجة الترحيل. تقييم الجاهزية مع تحديد المخاطر واستراتيجيات التخفيف."
+      },
+      "icon": "Search"
+    },
+    {
+      "id": "migration-strategies",
+      "title": {
+        "en": "Multiple Migration Strategies",
+        "ar": "استراتيجيات هجرة متعددة"
+      },
+      "description": {
+        "en": "Rehost (Lift & Shift): Fast migration with minimal changes. Replatform: Optimize for cloud with minor modifications. Refactor: Modernize to cloud-native architecture. Retire: Identify and decommission unused systems. Retain: Keep certain workloads on-premises.",
+        "ar": "إعادة الاستضافة (الرفع والتحول): هجرة سريعة مع تغييرات طفيفة. إعادة النظام الأساسي: التحسين للسحابة مع تعديلات بسيطة. إعادة الهيكلة: التحديث إلى بنية سحابية أصلية. التقاعد: تحديد وإيقاف الأنظمة غير المستخدمة. الاحتفاظ: الحفاظ على أحمال عمل معينة محلياً."
+      },
+      "icon": "GitBranch"
+    },
+    {
+      "id": "zero-downtime",
+      "title": {
+        "en": "Zero-Downtime Migration",
+        "ar": "هجرة بدون توقف"
+      },
+      "description": {
+        "en": "Live migration techniques for minimal service disruption. Synchronized data replication between source and target. Gradual traffic cutover with instant rollback capability. Blue-green and canary deployment strategies for critical applications.",
+        "ar": "تقنيات الترحيل المباشر لأقل انقطاع للخدمة. نسخ متماثل متزامن للبيانات بين المصدر والهدف. انتقال تدريجي لحركة المرور مع قدرة التراجع الفوري. استراتيجيات النشر الأزرق والأخضر والكناري للتطبيقات الحرجة."
+      },
+      "icon": "Zap"
+    },
+    {
+      "id": "data-migration",
+      "title": {
+        "en": "Secure Data Migration",
+        "ar": "ترحيل بيانات آمن"
+      },
+      "description": {
+        "en": "Petabyte-scale data transfer with AWS Snowball, Azure Data Box. Direct Connect / ExpressRoute for large datasets. Database migration with AWS DMS, Azure Database Migration Service. Data validation and integrity verification at every stage.",
+        "ar": "نقل بيانات بمقياس بيتابايت مع AWS Snowball و Azure Data Box. اتصال مباشر / ExpressRoute لمجموعات البيانات الكبيرة. ترحيل قاعدة البيانات مع AWS DMS و Azure Database Migration Service. التحقق من صحة البيانات والتحقق من السلامة في كل مرحلة."
+      },
+      "icon": "Database"
+    },
+    {
+      "id": "application-modernization",
+      "title": {
+        "en": "Application Modernization",
+        "ar": "تحديث التطبيقات"
+      },
+      "description": {
+        "en": "Containerization with Docker and Kubernetes. Microservices architecture transformation. Serverless migration for event-driven workloads. API-first approach with API Gateway integration. DevOps and CI/CD pipeline establishment.",
+        "ar": "الحوسبة الحاوية مع Docker و Kubernetes. تحول بنية الخدمات الصغرية. الترحيل بدون خادم لأحمال العمل المعتمدة على الأحداث. نهج API أولاً مع تكامل API Gateway. إنشاء خط أنابيب DevOps و CI / CD."
+      },
+      "icon": "Code"
+    },
+    {
+      "id": "post-migration-optimization",
+      "title": {
+        "en": "Post-Migration Optimization",
+        "ar": "التحسين بعد الترحيل"
+      },
+      "description": {
+        "en": "Right-sizing recommendations based on actual usage. Reserved instance and savings plan optimization. Architecture review for performance and cost efficiency. Security hardening and compliance validation. 90-day hypercare support with 24/7 monitoring.",
+        "ar": "توصيات تحسين الحجم بناءً على الاستخدام الفعلي. تحسين النسخ المحجوزة وخطة التوفير. مراجعة البنية للأداء وكفاءة التكلفة. تعزيز الأمن والتحقق من الامتثال. دعم الرعاية الفائقة لمدة 90 يوماً مع مراقبة على مدار الساعة."
+      },
+      "icon": "TrendingUp"
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Assessment Tools",
+        "ar": "أدوات التقييم"
+      },
+      "specs": [
+        {
+          "en": "AWS Migration Evaluator for TCO analysis",
+          "ar": "AWS Migration Evaluator لتحليل التكلفة الإجمالية للملكية"
+        },
+        {
+          "en": "Azure Migrate for discovery and assessment",
+          "ar": "Azure Migrate للاكتشاف والتقييم"
+        },
+        {
+          "en": "CloudEndure for workload profiling",
+          "ar": "CloudEndure لتحديد ملف تعريف عبء العمل"
+        },
+        {
+          "en": "Turbonomic for application dependency mapping",
+          "ar": "Turbonomic لتعيين تبعية التطبيقات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Migration Platforms",
+        "ar": "منصات الهجرة"
+      },
+      "specs": [
+        {
+          "en": "AWS Application Migration Service (CloudEndure)",
+          "ar": "خدمة ترحيل تطبيقات AWS (CloudEndure)"
+        },
+        {
+          "en": "Azure Site Recovery for VM migration",
+          "ar": "Azure Site Recovery لترحيل الأجهزة الافتراضية"
+        },
+        {
+          "en": "Google Migrate for Compute Engine",
+          "ar": "Google Migrate لمحرك الحوسبة"
+        },
+        {
+          "en": "VMware HCX for vSphere to cloud",
+          "ar": "VMware HCX من vSphere إلى السحابة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Database Migration",
+        "ar": "ترحيل قاعدة البيانات"
+      },
+      "specs": [
+        {
+          "en": "AWS Database Migration Service (DMS) with CDC",
+          "ar": "خدمة ترحيل قواعد البيانات AWS (DMS) مع CDC"
+        },
+        {
+          "en": "Azure Database Migration Service",
+          "ar": "خدمة ترحيل قواعد البيانات Azure"
+        },
+        {
+          "en": "Oracle Data Pump and GoldenGate",
+          "ar": "Oracle Data Pump و GoldenGate"
+        },
+        {
+          "en": "MongoDB Atlas Live Migration Service",
+          "ar": "خدمة الترحيل المباشر MongoDB Atlas"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Data Transfer",
+        "ar": "نقل البيانات"
+      },
+      "specs": [
+        {
+          "en": "AWS Snowball Edge (100TB per device)",
+          "ar": "AWS Snowball Edge (100 تيرابايت لكل جهاز)"
+        },
+        {
+          "en": "Azure Data Box (80TB usable capacity)",
+          "ar": "Azure Data Box (سعة قابلة للاستخدام 80 تيرابايت)"
+        },
+        {
+          "en": "Dedicated 10Gbps Direct Connect / ExpressRoute",
+          "ar": "اتصال مخصص 10 جيجابت في الثانية Direct Connect / ExpressRoute"
+        },
+        {
+          "en": "Aspera high-speed file transfer (up to 10Gbps)",
+          "ar": "نقل ملفات عالي السرعة Aspera (حتى 10 جيجابت في الثانية)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Migration Methodologies",
+        "ar": "منهجيات الهجرة"
+      },
+      "specs": [
+        {
+          "en": "AWS Migration Acceleration Program (MAP)",
+          "ar": "برنامج تسريع الهجرة AWS (MAP)"
+        },
+        {
+          "en": "Microsoft Cloud Adoption Framework (CAF)",
+          "ar": "إطار اعتماد السحابة من Microsoft (CAF)"
+        },
+        {
+          "en": "Google Cloud Adoption Framework",
+          "ar": "إطار اعتماد Google Cloud"
+        },
+        {
+          "en": "ITIL-based change and release management",
+          "ar": "إدارة التغيير والإصدار المستندة إلى ITIL"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Testing & Validation",
+        "ar": "الاختبار والتحقق"
+      },
+      "specs": [
+        {
+          "en": "Automated functional and performance testing",
+          "ar": "اختبار وظيفي وأداء تلقائي"
+        },
+        {
+          "en": "User acceptance testing (UAT) environment",
+          "ar": "بيئة اختبار قبول المستخدم (UAT)"
+        },
+        {
+          "en": "Load testing with LoadRunner, JMeter",
+          "ar": "اختبار الحمل مع LoadRunner و JMeter"
+        },
+        {
+          "en": "Rollback validation and disaster recovery drills",
+          "ar": "التحقق من التراجع وتدريبات التعافي من الكوارث"
+        }
+      ]
+    }
+  ]
+}

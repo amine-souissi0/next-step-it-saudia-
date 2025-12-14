@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cloud",
+    "slug": "cloud-datacenter"
+  },
+  "hero": {
+    "title": {
+      "en": "Cloud & Datacenter Solutions",
+      "ar": "حلول السحابة ومراكز البيانات"
+    },
+    "subtitle": {
+      "en": "Modern infrastructure solutions that scale with your business needs",
+      "ar": "حلول بنية تحتية حديثة تنمو مع احتياجات عملك"
+    },
+    "badge": {
+      "en": "Cloud Services",
+      "ar": "الخدمات السحابية"
+    }
+  },
+  "overview": {
+    "en": "Transform your IT infrastructure with our comprehensive cloud and datacenter solutions. We help organizations leverage the power of cloud computing while maintaining control, security, and compliance. Our solutions are designed to optimize performance, reduce costs, and enable digital transformation.",
+    "ar": "قم بتحويل البنية التحتية لتكنولوجيا المعلومات من خلال حلولنا الشاملة للسحابة ومراكز البيانات. نساعد المؤسسات على الاستفادة من قوة الحوسبة السحابية مع الحفاظ على التحكم والأمان والامتثال."
+  },
+  "benefits": [
+    "Scalable infrastructure that grows with your business",
+    "99.99% uptime SLA guarantee",
+    "Advanced security and compliance",
+    "24/7 expert support and monitoring",
+    "Cost optimization and predictable pricing",
+    "Hybrid and multi-cloud capabilities"
+  ]
+}

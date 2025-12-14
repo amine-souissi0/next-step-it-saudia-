@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cybersecurity",
+    "slug": "cybersecurity-soc"
+  },
+  "hero": {
+    "title": {
+      "en": "Cybersecurity & SOC Solutions",
+      "ar": "حلول الأمن السيبراني ومركز العمليات الأمنية"
+    },
+    "subtitle": {
+      "en": "Comprehensive security solutions to protect your digital assets",
+      "ar": "حلول أمنية شاملة لحماية أصولك الرقمية"
+    },
+    "badge": {
+      "en": "Cybersecurity",
+      "ar": "الأمن السيبراني"
+    }
+  },
+  "overview": {
+    "en": "Protect your organization with our advanced cybersecurity solutions. Our Security Operations Center (SOC) provides 24/7 monitoring, threat detection, and incident response. We combine cutting-edge technology with expert security professionals to keep your business safe from evolving cyber threats.",
+    "ar": "احمِ مؤسستك بحلولنا المتقدمة للأمن السيبراني. يوفر مركز العمليات الأمنية (SOC) لدينا مراقبة على مدار الساعة طوال أيام الأسبوع، واكتشاف التهديدات، والاستجابة للحوادث."
+  },
+  "benefits": [
+    "24/7 Security Operations Center monitoring",
+    "Advanced threat detection and response",
+    "Compliance with international standards",
+    "Regular security assessments and audits",
+    "Incident response and forensics",
+    "Security awareness training"
+  ]
+}

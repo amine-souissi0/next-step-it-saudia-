@@ -1,0 +1,237 @@
+{
+  "hero": {
+    "title": {
+      "en": "Infrastructure Management Services",
+      "ar": "خدمات إدارة البنية التحتية"
+    },
+    "subtitle": {
+      "en": "Proactive 24/7 management of your IT infrastructure with guaranteed SLAs and expert support",
+      "ar": "إدارة استباقية على مدار الساعة للبنية التحتية لتكنولوجيا المعلومات مع اتفاقيات SLA مضمونة ودعم خبراء"
+    },
+    "image": "/placeholder.svg"
+  },
+  "description": {
+    "en": "Our Infrastructure Management Services provide comprehensive monitoring, maintenance, and optimization of your entire IT infrastructure. We ensure 99.99% uptime through proactive monitoring, automated remediation, and 24/7 expert support. From servers and storage to networks and security devices, we manage every aspect of your infrastructure so you can focus on your core business objectives.",
+    "ar": "توفر خدمات إدارة البنية التحتية لدينا مراقبة وصيانة وتحسين شاملة لجميع البنية التحتية لتكنولوجيا المعلومات لديك. نضمن وقت تشغيل بنسبة 99.99٪ من خلال المراقبة الاستباقية والمعالجة التلقائية والدعم من الخبراء على مدار الساعة. من الخوادم والتخزين إلى الشبكات وأجهزة الأمان، نحن ندير كل جانب من جوانب البنية التحتية الخاصة بك حتى تتمكن من التركيز على أهداف عملك الأساسية."
+  },
+  "features": [
+    {
+      "id": "proactive-monitoring",
+      "title": {
+        "en": "24/7 Proactive Monitoring",
+        "ar": "مراقبة استباقية على مدار الساعة"
+      },
+      "description": {
+        "en": "Real-time monitoring of all infrastructure components with AI-powered anomaly detection. Automated alerting with severity-based escalation to Level 1, 2, and 3 support teams. Custom dashboards with 500+ metrics tracked per device.",
+        "ar": "مراقبة في الوقت الفعلي لجميع مكونات البنية التحتية مع الكشف عن الحالات الشاذة المدعوم بالذكاء الاصطناعي. التنبيه التلقائي مع التصعيد على أساس الخطورة إلى فرق الدعم من المستوى 1 و 2 و 3. لوحات معلومات مخصصة مع أكثر من 500 مقياس يتم تتبعها لكل جهاز."
+      },
+      "icon": "Activity"
+    },
+    {
+      "id": "automated-remediation",
+      "title": {
+        "en": "Intelligent Automation",
+        "ar": "الأتمتة الذكية"
+      },
+      "description": {
+        "en": "Self-healing infrastructure with automated remediation for common issues. Runbook automation for 80% of incidents resolved without human intervention. Predictive maintenance using ML models to prevent failures before they occur.",
+        "ar": "بنية تحتية ذاتية الإصلاح مع المعالجة التلقائية للمشكلات الشائعة. أتمتة كتيب التشغيل لحل 80٪ من الحوادث دون تدخل بشري. الصيانة التنبؤية باستخدام نماذج التعلم الآلي لمنع الأعطال قبل حدوثها."
+      },
+      "icon": "Zap"
+    },
+    {
+      "id": "patch-management",
+      "title": {
+        "en": "Patch & Update Management",
+        "ar": "إدارة التصحيحات والتحديثات"
+      },
+      "description": {
+        "en": "Automated patch deployment with pre-production testing and rollback capability. Monthly security patches applied within 72 hours of release. Zero-downtime patching for critical systems using blue-green deployment strategies.",
+        "ar": "نشر التصحيحات التلقائي مع الاختبار قبل الإنتاج وقدرة التراجع. تطبيق تصحيحات الأمان الشهرية في غضون 72 ساعة من الإصدار. تصحيح بدون توقف للأنظمة الحرجة باستخدام استراتيجيات النشر الأزرق والأخضر."
+      },
+      "icon": "Shield"
+    },
+    {
+      "id": "capacity-planning",
+      "title": {
+        "en": "Capacity Planning & Optimization",
+        "ar": "تخطيط السعة والتحسين"
+      },
+      "description": {
+        "en": "Continuous capacity analysis with 6-month forecasting. Right-sizing recommendations to reduce infrastructure costs by 30-40%. Performance tuning for CPU, memory, storage, and network utilization optimization.",
+        "ar": "تحليل مستمر للسعة مع التنبؤ لمدة 6 أشهر. توصيات تحسين الحجم لتقليل تكاليف البنية التحتية بنسبة 30-40٪. ضبط الأداء لتحسين استخدام وحدة المعالجة المركزية والذاكرة والتخزين والشبكة."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "backup-recovery",
+      "title": {
+        "en": "Backup & Recovery Management",
+        "ar": "إدارة النسخ الاحتياطي والاسترداد"
+      },
+      "description": {
+        "en": "Automated daily backups with 3-2-1 backup strategy (3 copies, 2 media types, 1 offsite). Monthly disaster recovery tests with documented RTO/RPO validation. Immutable backups protected from ransomware attacks.",
+        "ar": "نسخ احتياطية يومية تلقائية مع استراتيجية النسخ الاحتياطي 3-2-1 (3 نسخ، 2 نوع وسائط، 1 خارج الموقع). اختبارات شهرية للتعافي من الكوارث مع التحقق الموثق من RTO / RPO. نسخ احتياطية غير قابلة للتغيير محمية من هجمات برامج الفدية."
+      },
+      "icon": "Database"
+    },
+    {
+      "id": "change-management",
+      "title": {
+        "en": "ITIL Change Management",
+        "ar": "إدارة التغيير ITIL"
+      },
+      "description": {
+        "en": "Structured change approval process with CAB (Change Advisory Board) reviews. Emergency change procedures for critical incidents. Automated rollback capability for failed changes with version control integration.",
+        "ar": "عملية موافقة منظمة للتغيير مع مراجعات CAB (مجلس استشاري للتغيير). إجراءات تغيير الطوارئ للحوادث الحرجة. قدرة التراجع التلقائي للتغييرات الفاشلة مع تكامل التحكم في الإصدار."
+      },
+      "icon": "GitBranch"
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "SLA Tiers & Guarantees",
+        "ar": "مستويات SLA والضمانات"
+      },
+      "specs": [
+        {
+          "en": "Platinum: 99.99% uptime / 15 min response / P1 incidents resolved in 4 hours",
+          "ar": "البلاتينيوم: وقت تشغيل 99.99٪ / استجابة 15 دقيقة / حل حوادث P1 في 4 ساعات"
+        },
+        {
+          "en": "Gold: 99.95% uptime / 30 min response / P1 incidents resolved in 8 hours",
+          "ar": "الذهبي: وقت تشغيل 99.95٪ / استجابة 30 دقيقة / حل حوادث P1 في 8 ساعات"
+        },
+        {
+          "en": "Silver: 99.9% uptime / 1 hour response / P1 incidents resolved in 24 hours",
+          "ar": "الفضي: وقت تشغيل 99.9٪ / استجابة ساعة واحدة / حل حوادث P1 في 24 ساعة"
+        },
+        {
+          "en": "Financial credits provided for SLA breaches (5% per 0.1% missed)",
+          "ar": "أرصدة مالية مقدمة لانتهاكات SLA (5٪ لكل 0.1٪ فائت)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Monitoring Coverage",
+        "ar": "تغطية المراقبة"
+      },
+      "specs": [
+        {
+          "en": "Physical servers, virtual machines, containers, and cloud instances",
+          "ar": "الخوادم الفعلية والأجهزة الافتراضية والحاويات ونسخ السحابة"
+        },
+        {
+          "en": "Storage arrays (SAN, NAS, DAS) with capacity and performance metrics",
+          "ar": "صفائف التخزين (SAN و NAS و DAS) مع مقاييس السعة والأداء"
+        },
+        {
+          "en": "Network devices (routers, switches, firewalls, load balancers)",
+          "ar": "أجهزة الشبكة (أجهزة التوجيه والمحولات وجدران الحماية وموازنات التحميل)"
+        },
+        {
+          "en": "Application performance monitoring (APM) with transaction tracing",
+          "ar": "مراقبة أداء التطبيقات (APM) مع تتبع المعاملات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Support Teams Structure",
+        "ar": "هيكل فرق الدعم"
+      },
+      "specs": [
+        {
+          "en": "Level 1: 24/7 NOC team for initial triage and basic troubleshooting",
+          "ar": "المستوى 1: فريق NOC على مدار الساعة للفرز الأولي واستكشاف الأخطاء الأساسية"
+        },
+        {
+          "en": "Level 2: Infrastructure specialists available 24/7 for complex issues",
+          "ar": "المستوى 2: متخصصو البنية التحتية متاحون على مدار الساعة للمشكلات المعقدة"
+        },
+        {
+          "en": "Level 3: Senior architects and vendor escalation contacts",
+          "ar": "المستوى 3: كبار المهندسين المعماريين وجهات اتصال التصعيد مع البائعين"
+        },
+        {
+          "en": "Dedicated Technical Account Manager (TAM) for Platinum tier",
+          "ar": "مدير حساب تقني مخصص (TAM) لمستوى البلاتينيوم"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Automation Platforms",
+        "ar": "منصات الأتمتة"
+      },
+      "specs": [
+        {
+          "en": "Ansible Tower for configuration management and orchestration",
+          "ar": "Ansible Tower لإدارة التكوين والتنسيق"
+        },
+        {
+          "en": "ServiceNow for ITSM with custom workflows and integrations",
+          "ar": "ServiceNow لـ ITSM مع سير عمل مخصص وتكاملات"
+        },
+        {
+          "en": "Terraform for infrastructure as code (IaC) management",
+          "ar": "Terraform لإدارة البنية التحتية كرمز (IaC)"
+        },
+        {
+          "en": "Jenkins and GitLab CI/CD for deployment automation",
+          "ar": "Jenkins و GitLab CI / CD لأتمتة النشر"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Monitoring Tools",
+        "ar": "أدوات المراقبة"
+      },
+      "specs": [
+        {
+          "en": "Nagios XI / PRTG for infrastructure monitoring (500+ checks per device)",
+          "ar": "Nagios XI / PRTG لمراقبة البنية التحتية (أكثر من 500 فحص لكل جهاز)"
+        },
+        {
+          "en": "Prometheus + Grafana for metrics collection and visualization",
+          "ar": "Prometheus + Grafana لجمع المقاييس والتصور"
+        },
+        {
+          "en": "ELK Stack (Elasticsearch, Logstash, Kibana) for log aggregation",
+          "ar": "ELK Stack (Elasticsearch و Logstash و Kibana) لتجميع السجلات"
+        },
+        {
+          "en": "AppDynamics / Dynatrace for application performance monitoring",
+          "ar": "AppDynamics / Dynatrace لمراقبة أداء التطبيقات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Reporting & Analytics",
+        "ar": "إعداد التقارير والتحليلات"
+      },
+      "specs": [
+        {
+          "en": "Daily operations reports with incident summaries",
+          "ar": "تقارير العمليات اليومية مع ملخصات الحوادث"
+        },
+        {
+          "en": "Weekly capacity and performance trend analysis",
+          "ar": "تحليل أسبوعي لاتجاهات السعة والأداء"
+        },
+        {
+          "en": "Monthly executive dashboards with SLA compliance metrics",
+          "ar": "لوحات معلومات تنفيذية شهرية مع مقاييس الامتثال لاتفاقية مستوى الخدمة"
+        },
+        {
+          "en": "Quarterly business reviews (QBR) with optimization recommendations",
+          "ar": "مراجعات الأعمال ربع السنوية (QBR) مع توصيات التحسين"
+        }
+      ]
+    }
+  ]
+}

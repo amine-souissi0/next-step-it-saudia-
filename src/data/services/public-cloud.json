@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "public-cloud",
+    "slug": "public-cloud",
+    "parentService": "cloud"
+  },
+  "hero": {
+    "title": {
+      "en": "Public Cloud Services",
+      "ar": "خدمات السحابة العامة"
+    },
+    "subtitle": {
+      "en": "Enterprise-grade public cloud solutions with global reach, unlimited scalability, and pay-as-you-go pricing",
+      "ar": "حلول سحابية عامة على مستوى المؤسسات مع انتشار عالمي وقابلية توسع غير محدودة وتسعير حسب الاستخدام"
+    },
+    "badge": {
+      "en": "Scalable Infrastructure",
+      "ar": "بنية تحتية قابلة للتوسع"
+    }
+  },
+  "description": {
+    "en": "Leverage the power of leading public cloud providers including AWS, Microsoft Azure, and Google Cloud Platform. Our public cloud services offer unmatched scalability, global presence, and a comprehensive suite of managed services that enable rapid innovation while reducing infrastructure complexity and operational overhead.",
+    "ar": "استفد من قوة مزودي السحابة العامة الرائدين بما في ذلك AWS و Microsoft Azure و Google Cloud Platform. توفر خدمات السحابة العامة لدينا قابلية توسع لا مثيل لها ووجودًا عالميًا ومجموعة شاملة من الخدمات المدارة التي تمكن الابتكار السريع مع تقليل تعقيد البنية التحتية والنفقات التشغيلية."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Multi-Cloud Strategy",
+        "ar": "استراتيجية السحابة المتعددة"
+      },
+      "description": {
+        "en": "Deploy across AWS, Azure, and GCP with unified management, avoiding vendor lock-in while leveraging best-of-breed services from each provider.",
+        "ar": "انشر عبر AWS و Azure و GCP مع إدارة موحدة، وتجنب الارتباط بالبائع مع الاستفادة من أفضل الخدمات من كل مزود."
+      }
+    },
+    {
+      "title": {
+        "en": "Global Infrastructure",
+        "ar": "البنية التحتية العالمية"
+      },
+      "description": {
+        "en": "Access 30+ regions and 100+ availability zones worldwide, ensuring low-latency access and compliance with data residency requirements.",
+        "ar": "الوصول إلى أكثر من 30 منطقة وأكثر من 100 منطقة توافر في جميع أنحاء العالم، مما يضمن الوصول بزمن استجابة منخفض والامتثال لمتطلبات إقامة البيانات."
+      }
+    },
+    {
+      "title": {
+        "en": "Serverless Computing",
+        "ar": "الحوسبة بدون خادم"
+      },
+      "description": {
+        "en": "Build and run applications without managing servers using AWS Lambda, Azure Functions, and Cloud Functions with automatic scaling and pay-per-execution pricing.",
+        "ar": "قم ببناء وتشغيل التطبيقات دون إدارة الخوادم باستخدام AWS Lambda و Azure Functions و Cloud Functions مع التوسع التلقائي والتسعير لكل تنفيذ."
+      }
+    },
+    {
+      "title": {
+        "en": "Managed AI & ML Services",
+        "ar": "خدمات الذكاء الاصطناعي والتعلم الآلي المدارة"
+      },
+      "description": {
+        "en": "Accelerate AI adoption with pre-built services for computer vision, natural language processing, speech recognition, and custom model training.",
+        "ar": "قم بتسريع اعتماد الذكاء الاصطناعي مع الخدمات المعدة مسبقًا للرؤية الحاسوبية ومعالجة اللغة الطبيعية والتعرف على الكلام والتدريب النموذجي المخصص."
+      }
+    },
+    {
+      "title": {
+        "en": "Enterprise Support",
+        "ar": "الدعم المؤسسي"
+      },
+      "description": {
+        "en": "24/7 premium support with dedicated Technical Account Managers, architecture reviews, proactive monitoring, and priority access to cloud provider support teams.",
+        "ar": "دعم مميز على مدار الساعة طوال أيام الأسبوع مع مديري حسابات تقنيين مخصصين ومراجعات للبنية والمراقبة الاستباقية والوصول ذي الأولوية إلى فرق دعم مزودي السحابة."
+      }
+    },
+    {
+      "title": {
+        "en": "Cost Optimization",
+        "ar": "تحسين التكلفة"
+      },
+      "description": {
+        "en": "Continuous cost analysis and optimization with reserved instances, spot instances, auto-scaling policies, and rightsizing recommendations reducing cloud spend by up to 40%.",
+        "ar": "التحليل المستمر للتكلفة والتحسين مع الحالات المحجوزة والحالات الفورية وسياسات التوسع التلقائي وتوصيات التحجيم الصحيح مما يقلل من الإنفاق السحابي بنسبة تصل إلى 40٪."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Technical Specifications & Platform Capabilities",
+      "ar": "المواصفات الفنية وقدرات المنصة"
+    },
+    "items": {
+      "en": [
+        "Compute: EC2, Azure VMs, Compute Engine with 750+ instance types, up to 448 vCPUs, 24TB RAM, and GPU acceleration (NVIDIA A100, H100)",
+        "Storage: S3, Azure Blob, Cloud Storage with 99.999999999% durability, intelligent tiering, lifecycle policies, and cross-region replication",
+        "Databases: RDS, Aurora, Azure SQL, Cloud SQL supporting PostgreSQL, MySQL, SQL Server, Oracle with automated backups and point-in-time recovery",
+        "Networking: VPC, Virtual Networks with 100Gbps bandwidth, VPN, Direct Connect, ExpressRoute, and Cloud Interconnect for hybrid connectivity",
+        "Container Services: EKS, AKS, GKE fully managed Kubernetes with autoscaling, service mesh, and integrated CI/CD pipelines",
+        "Data Analytics: Redshift, Synapse, BigQuery for petabyte-scale analytics with sub-second query performance and ML integration",
+        "Security: IAM, Key Vault, Cloud KMS with hardware security modules (HSM), encryption at rest and in transit, DDoS protection, and WAF",
+        "Monitoring: CloudWatch, Azure Monitor, Cloud Monitoring with custom metrics, logs aggregation, distributed tracing, and AI-powered anomaly detection"
+      ],
+      "ar": [
+        "الحوسبة: EC2 و Azure VMs و Compute Engine مع أكثر من 750 نوع حالة، حتى 448 vCPU و 24 تيرابايت من ذاكرة الوصول العشوائي وتسريع GPU (NVIDIA A100 و H100)",
+        "التخزين: S3 و Azure Blob و Cloud Storage مع متانة 99.999999999٪ والتدريج الذكي وسياسات دورة الحياة والنسخ المتماثل عبر المناطق",
+        "قواعد البيانات: RDS و Aurora و Azure SQL و Cloud SQL تدعم PostgreSQL و MySQL و SQL Server و Oracle مع النسخ الاحتياطية التلقائية والاسترداد في الوقت المناسب",
+        "الشبكات: VPC والشبكات الافتراضية مع عرض نطاق 100 جيجابت في الثانية و VPN و Direct Connect و ExpressRoute و Cloud Interconnect للاتصال الهجين",
+        "خدمات الحاويات: EKS و AKS و GKE Kubernetes المدارة بالكامل مع التوسع التلقائي وشبكة الخدمة وخطوط CI/CD المتكاملة",
+        "تحليلات البيانات: Redshift و Synapse و BigQuery للتحليلات على نطاق بيتابايت مع أداء استعلام أقل من الثانية وتكامل التعلم الآلي",
+        "الأمان: IAM و Key Vault و Cloud KMS مع وحدات الأمان الأجهزة (HSM) والتشفير في حالة الراحة والعبور وحماية DDoS و WAF",
+        "المراقبة: CloudWatch و Azure Monitor و Cloud Monitoring مع المقاييس المخصصة وتجميع السجلات والتتبع الموزع والكشف عن الحالات الشاذة المدعوم بالذكاء الاصطناعي"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Private Cloud",
+        "ar": "السحابة الخاصة"
+      },
+      "link": "/services/cloud/private-cloud"
+    },
+    {
+      "title": {
+        "en": "Hybrid Cloud",
+        "ar": "السحابة الهجينة"
+      },
+      "link": "/services/cloud/hybrid-cloud"
+    },
+    {
+      "title": {
+        "en": "Cloud Migration",
+        "ar": "الترحيل السحابي"
+      },
+      "link": "/services/integration"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "journey": "الرحلة",
+    "services": "الخدمات",
+    "industries": "القطاعات",
+    "innovation": "الابتكار",
+    "resources": "الموارد",
+    "about": "من نحن",
+    "contact": "تواصل معنا",
+    "getStarted": "ابدأ الآن",
+    "search": "بحث"
+  },
+  "footer": {
+    "tagline": "شريكك الموثوق في التحول الرقمي",
+    "rights": "جميع الحقوق محفوظة"
+  },
+  "services": {
+    "cloud": "السحابة ومراكز البيانات",
+    "integration": "التكامل والخدمات الاحترافية",
+    "cybersecurity": "الأمن السيبراني ومركز العمليات",
+    "managed": "الخدمات المدارة",
+    "collaboration": "التعاون والتحول الرقمي"
+  },
+  "industries": {
+    "government": "الحكومي",
+    "banking": "المصرفي والمالي",
+    "telecom": "الاتصالات",
+    "oilGas": "النفط والغاز",
+    "healthcare": "الرعاية الصحية",
+    "retail": "التجزئة",
+    "education": "التعليم",
+    "smartCities": "المدن الذكية"
+  },
+  "journey": {
+    "title": "رحلتك في الأمن السيبراني",
+    "tamkeen": "تمكين",
+    "himaya": "حماية",
+    "manaa": "منع",
+    "thiqah": "ثقة",
+    "riyada": "ريادة"
+  },
+  "common": {
+    "learnMore": "اعرف المزيد",
+    "contactUs": "تواصل معنا",
+    "getQuote": "احصل على عرض سعر",
+    "download": "تحميل",
+    "viewAll": "عرض الكل",
+    "readMore": "اقرأ المزيد",
+    "backToHome": "العودة للرئيسية"
+  }
+}

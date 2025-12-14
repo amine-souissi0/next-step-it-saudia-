@@ -1,0 +1,237 @@
+{
+  "hero": {
+    "title": {
+      "en": "Network Operations Center (NOC) Services",
+      "ar": "خدمات مركز عمليات الشبكة (NOC)"
+    },
+    "subtitle": {
+      "en": "24/7/365 network monitoring and incident response with sub-5-minute detection and response times",
+      "ar": "مراقبة الشبكة والاستجابة للحوادث على مدار الساعة مع أوقات كشف واستجابة أقل من 5 دقائق"
+    },
+    "image": "/placeholder.svg"
+  },
+  "description": {
+    "en": "Our state-of-the-art Network Operations Center provides round-the-clock monitoring, management, and rapid response to network incidents. With certified network engineers, advanced automation, and AI-powered analytics, we ensure your network infrastructure delivers optimal performance and availability. Our NOC operates across three geographically distributed sites in Saudi Arabia, providing redundancy and local expertise for mission-critical operations.",
+    "ar": "يوفر مركز عمليات الشبكة المتطور لدينا المراقبة والإدارة والاستجابة السريعة لحوادث الشبكة على مدار الساعة. مع مهندسي الشبكات المعتمدين والأتمتة المتقدمة والتحليلات المدعومة بالذكاء الاصطناعي، نضمن أن البنية التحتية للشبكة توفر الأداء والتوفر الأمثل. يعمل مركز NOC الخاص بنا عبر ثلاثة مواقع موزعة جغرافياً في المملكة العربية السعودية، مما يوفر التكرار والخبرة المحلية للعمليات الحرجة."
+  },
+  "features": [
+    {
+      "id": "realtime-monitoring",
+      "title": {
+        "en": "Real-Time Network Monitoring",
+        "ar": "مراقبة الشبكة في الوقت الفعلي"
+      },
+      "description": {
+        "en": "Comprehensive monitoring of routers, switches, firewalls, and WAN links with <2 minute polling intervals. NetFlow/sFlow analysis for traffic pattern detection. Real-time bandwidth utilization tracking with threshold-based alerting.",
+        "ar": "مراقبة شاملة لأجهزة التوجيه والمحولات وجدران الحماية وروابط WAN مع فترات استطلاع أقل من دقيقتين. تحليل NetFlow / sFlow للكشف عن أنماط حركة المرور. تتبع استخدام النطاق الترددي في الوقت الفعلي مع التنبيه القائم على العتبة."
+      },
+      "icon": "Activity"
+    },
+    {
+      "id": "incident-management",
+      "title": {
+        "en": "Rapid Incident Response",
+        "ar": "الاستجابة السريعة للحوادث"
+      },
+      "description": {
+        "en": "Sub-5-minute incident detection with automated escalation workflows. P1 incidents: 15 min response | P2: 30 min | P3: 2 hours | P4: 8 hours. Incident command center activation for major outages with executive communication protocols.",
+        "ar": "الكشف عن الحوادث في أقل من 5 دقائق مع سير عمل التصعيد التلقائي. حوادث P1: استجابة 15 دقيقة | P2: 30 دقيقة | P3: ساعتان | P4: 8 ساعات. تنشيط مركز قيادة الحوادث للانقطاعات الكبرى مع بروتوكولات الاتصال التنفيذي."
+      },
+      "icon": "AlertTriangle"
+    },
+    {
+      "id": "change-execution",
+      "title": {
+        "en": "Network Change Execution",
+        "ar": "تنفيذ تغيير الشبكة"
+      },
+      "description": {
+        "en": "Scheduled and emergency change implementation with pre-change testing. Configuration backup before every change with automated rollback. Maintenance windows coordinated across time zones with minimal business impact.",
+        "ar": "تنفيذ التغيير المجدول والطارئ مع الاختبار قبل التغيير. النسخ الاحتياطي للتكوين قبل كل تغيير مع التراجع التلقائي. نوافذ الصيانة المنسقة عبر المناطق الزمنية مع تأثير تجاري ضئيل."
+      },
+      "icon": "Settings"
+    },
+    {
+      "id": "performance-optimization",
+      "title": {
+        "en": "Network Performance Tuning",
+        "ar": "ضبط أداء الشبكة"
+      },
+      "description": {
+        "en": "Continuous QoS policy optimization for voice, video, and data traffic. Latency and jitter monitoring for critical applications. Bandwidth optimization with traffic shaping and prioritization recommendations.",
+        "ar": "تحسين مستمر لسياسة QoS لحركة الصوت والفيديو والبيانات. مراقبة الكمون والاهتزاز للتطبيقات الحرجة. تحسين النطاق الترددي مع توصيات تشكيل حركة المرور وتحديد الأولويات."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "id": "security-monitoring",
+      "title": {
+        "en": "Network Security Monitoring",
+        "ar": "مراقبة أمن الشبكة"
+      },
+      "description": {
+        "en": "Firewall log analysis with threat intelligence correlation. DDoS detection and mitigation coordination with ISPs. Unauthorized access attempts tracking with automated blocking rules. Integration with SOC for unified security operations.",
+        "ar": "تحليل سجلات جدار الحماية مع ارتباط معلومات التهديد. الكشف عن DDoS وتنسيق التخفيف مع مزودي خدمة الإنترنت. تتبع محاولات الوصول غير المصرح بها مع قواعد الحجب التلقائية. التكامل مع SOC لعمليات الأمان الموحدة."
+      },
+      "icon": "Shield"
+    },
+    {
+      "id": "capacity-management",
+      "title": {
+        "en": "Network Capacity Planning",
+        "ar": "تخطيط سعة الشبكة"
+      },
+      "description": {
+        "en": "12-month bandwidth growth forecasting based on historical trends. Port and circuit utilization tracking with upgrade recommendations. WAN link optimization to reduce costs by 20-30% through rightful sizing.",
+        "ar": "التنبؤ بنمو النطاق الترددي لمدة 12 شهراً بناءً على الاتجاهات التاريخية. تتبع استخدام المنافذ والدوائر مع توصيات الترقية. تحسين روابط WAN لتقليل التكاليف بنسبة 20-30٪ من خلال تحديد الحجم الصحيح."
+      },
+      "icon": "BarChart"
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "NOC Service Levels",
+        "ar": "مستويات خدمة NOC"
+      },
+      "specs": [
+        {
+          "en": "Premium NOC: 24/7/365 coverage / Dedicated team / 5 min response / Proactive optimization",
+          "ar": "NOC المتميز: تغطية على مدار الساعة / فريق مخصص / استجابة 5 دقائق / تحسين استباقي"
+        },
+        {
+          "en": "Standard NOC: 24/7/365 coverage / Shared resources / 15 min response / Monthly reviews",
+          "ar": "NOC القياسي: تغطية على مدار الساعة / موارد مشتركة / استجابة 15 دقيقة / مراجعات شهرية"
+        },
+        {
+          "en": "Basic NOC: Business hours only / 30 min response / Quarterly reviews",
+          "ar": "NOC الأساسي: ساعات العمل فقط / استجابة 30 دقيقة / مراجعات ربع سنوية"
+        },
+        {
+          "en": "All tiers include incident management, change execution, and reporting",
+          "ar": "تتضمن جميع المستويات إدارة الحوادث وتنفيذ التغيير وإعداد التقارير"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Monitoring Scope",
+        "ar": "نطاق المراقبة"
+      },
+      "specs": [
+        {
+          "en": "Core network devices: routers, switches, wireless controllers",
+          "ar": "أجهزة الشبكة الأساسية: أجهزة التوجيه والمحولات ووحدات التحكم اللاسلكية"
+        },
+        {
+          "en": "Security infrastructure: firewalls, IPS/IDS, VPN concentrators",
+          "ar": "البنية التحتية الأمنية: جدران الحماية و IPS / IDS ومركزات VPN"
+        },
+        {
+          "en": "WAN links: MPLS, Internet, SD-WAN, backup circuits",
+          "ar": "روابط WAN: MPLS والإنترنت و SD-WAN والدوائر الاحتياطية"
+        },
+        {
+          "en": "Load balancers, DNS servers, DHCP servers, and network services",
+          "ar": "موازنات التحميل وخوادم DNS وخوادم DHCP وخدمات الشبكة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "NOC Team Structure",
+        "ar": "هيكل فريق NOC"
+      },
+      "specs": [
+        {
+          "en": "NOC Analysts: 24/7 shift coverage with CCNA/Network+ certifications",
+          "ar": "محللو NOC: تغطية الورديات على مدار الساعة مع شهادات CCNA / Network+"
+        },
+        {
+          "en": "Network Engineers: CCNP-certified specialists for complex troubleshooting",
+          "ar": "مهندسو الشبكات: متخصصون معتمدون من CCNP لاستكشاف الأخطاء المعقدة"
+        },
+        {
+          "en": "Senior Architects: CCIE-level experts for design and optimization",
+          "ar": "كبار المهندسين المعماريين: خبراء مستوى CCIE للتصميم والتحسين"
+        },
+        {
+          "en": "Arabic and English language support for local and international teams",
+          "ar": "دعم اللغة العربية والإنجليزية للفرق المحلية والدولية"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Monitoring Tools & Platforms",
+        "ar": "أدوات ومنصات المراقبة"
+      },
+      "specs": [
+        {
+          "en": "SolarWinds NPM for comprehensive network performance monitoring",
+          "ar": "SolarWinds NPM لمراقبة أداء الشبكة الشاملة"
+        },
+        {
+          "en": "Cisco Prime Infrastructure for Cisco-centric environments",
+          "ar": "Cisco Prime Infrastructure لبيئات محورية Cisco"
+        },
+        {
+          "en": "PRTG Network Monitor for multi-vendor device support",
+          "ar": "PRTG Network Monitor لدعم أجهزة متعددة البائعين"
+        },
+        {
+          "en": "Splunk for log aggregation and security event correlation",
+          "ar": "Splunk لتجميع السجلات وارتباط أحداث الأمان"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Automation & AI",
+        "ar": "الأتمتة والذكاء الاصطناعي"
+      },
+      "specs": [
+        {
+          "en": "AI-powered anomaly detection for predictive alerting",
+          "ar": "الكشف عن الحالات الشاذة المدعوم بالذكاء الاصطناعي للتنبيه التنبؤي"
+        },
+        {
+          "en": "Automated ticket creation and escalation workflows",
+          "ar": "إنشاء تذاكر تلقائي وسير عمل التصعيد"
+        },
+        {
+          "en": "Self-healing network automation for common failure scenarios",
+          "ar": "أتمتة الشبكة ذاتية الإصلاح لسيناريوهات الفشل الشائعة"
+        },
+        {
+          "en": "ChatOps integration for Slack/Teams-based incident management",
+          "ar": "تكامل ChatOps لإدارة الحوادث على أساس Slack / Teams"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Reporting & Compliance",
+        "ar": "إعداد التقارير والامتثال"
+      },
+      "specs": [
+        {
+          "en": "Real-time dashboards with network health status",
+          "ar": "لوحات معلومات في الوقت الفعلي مع حالة صحة الشبكة"
+        },
+        {
+          "en": "Daily incident reports with root cause analysis",
+          "ar": "تقارير الحوادث اليومية مع تحليل السبب الجذري"
+        },
+        {
+          "en": "Monthly SLA compliance reports with uptime statistics",
+          "ar": "تقارير الامتثال الشهرية لاتفاقية مستوى الخدمة مع إحصائيات وقت التشغيل"
+        },
+        {
+          "en": "Compliance documentation for NCA, CITC, and ISO 27001 audits",
+          "ar": "وثائق الامتثال لتدقيقات NCA و CITC و ISO 27001"
+        }
+      ]
+    }
+  ]
+}

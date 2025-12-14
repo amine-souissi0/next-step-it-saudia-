@@ -1,0 +1,188 @@
+{
+  "hero": {
+    "title": {
+      "en": "Virtual Desktop Infrastructure (VDI)",
+      "ar": "البنية التحتية لسطح المكتب الافتراضي (VDI)"
+    },
+    "subtitle": {
+      "en": "Secure, centralized desktop delivery for anywhere, anytime access to applications and data",
+      "ar": "تسليم سطح المكتب الآمن والمركزي للوصول إلى التطبيقات والبيانات في أي مكان وفي أي وقت"
+    }
+  },
+  "description": {
+    "en": "Enable flexible work environments with our Virtual Desktop Infrastructure (VDI) solutions. We deploy and manage centralized virtual desktops that give users secure access to their applications and data from any device, anywhere. Whether implementing VMware Horizon, Citrix Virtual Apps and Desktops, or Azure Virtual Desktop, our VDI solutions enhance security, simplify IT management, and support modern work-from-anywhere requirements while reducing hardware costs.",
+    "ar": "مكّن بيئات العمل المرنة مع حلول البنية التحتية لسطح المكتب الافتراضي (VDI) لدينا. نقوم بنشر وإدارة أجهزة سطح المكتب الافتراضية المركزية التي توفر للمستخدمين وصولاً آمنًا إلى تطبيقاتهم وبياناتهم من أي جهاز."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Centralized Desktop Management",
+        "ar": "إدارة سطح المكتب المركزية"
+      },
+      "description": {
+        "en": "Manage all desktop images, applications, and user profiles from a single control plane for consistent user experience",
+        "ar": "إدارة جميع صور سطح المكتب والتطبيقات وملفات تعريف المستخدمين من مستوى تحكم واحد لتجربة مستخدم متسقة"
+      }
+    },
+    {
+      "title": {
+        "en": "Persistent & Non-Persistent Desktops",
+        "ar": "أجهزة سطح المكتب الدائمة وغير الدائمة"
+      },
+      "description": {
+        "en": "Flexible desktop delivery models including dedicated persistent desktops and cost-effective pooled non-persistent desktops",
+        "ar": "نماذج تسليم سطح المكتب المرنة بما في ذلك أجهزة سطح المكتب الدائمة المخصصة وأجهزة سطح المكتب غير الدائمة المجمعة الفعالة من حيث التكلفة"
+      }
+    },
+    {
+      "title": {
+        "en": "Application Virtualization",
+        "ar": "المحاكاة الافتراضية للتطبيقات"
+      },
+      "description": {
+        "en": "Deliver applications separately from desktops for faster updates and better resource utilization",
+        "ar": "تسليم التطبيقات بشكل منفصل عن أجهزة سطح المكتب لتحديثات أسرع واستخدام أفضل للموارد"
+      }
+    },
+    {
+      "title": {
+        "en": "Multi-Device Support",
+        "ar": "دعم الأجهزة المتعددة"
+      },
+      "description": {
+        "en": "Access virtual desktops from Windows, Mac, Linux, iOS, Android, and thin client devices with optimized performance",
+        "ar": "الوصول إلى أجهزة سطح المكتب الافتراضية من أجهزة Windows و Mac و Linux و iOS و Android والعملاء الرفيعين بأداء محسّن"
+      }
+    },
+    {
+      "title": {
+        "en": "GPU Acceleration",
+        "ar": "تسريع GPU"
+      },
+      "description": {
+        "en": "Virtual GPU support for graphics-intensive applications including CAD, video editing, and 3D rendering",
+        "ar": "دعم GPU الافتراضي للتطبيقات كثيفة الرسومات بما في ذلك CAD وتحرير الفيديو والتصيير ثلاثي الأبعاد"
+      }
+    },
+    {
+      "title": {
+        "en": "Disaster Recovery Ready",
+        "ar": "جاهز للتعافي من الكوارث"
+      },
+      "description": {
+        "en": "Built-in high availability and disaster recovery capabilities to ensure business continuity",
+        "ar": "قدرات التوافر العالي والتعافي من الكوارث المدمجة لضمان استمرارية الأعمال"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "VDI Platforms",
+        "ar": "منصات VDI"
+      },
+      "specs": [
+        {
+          "en": "VMware Horizon (on-premises and cloud)",
+          "ar": "VMware Horizon (في الموقع والسحابة)"
+        },
+        {
+          "en": "Citrix Virtual Apps and Desktops (CVAD)",
+          "ar": "Citrix Virtual Apps and Desktops (CVAD)"
+        },
+        {
+          "en": "Microsoft Azure Virtual Desktop (AVD)",
+          "ar": "Microsoft Azure Virtual Desktop (AVD)"
+        },
+        {
+          "en": "Nutanix AHV and Frame",
+          "ar": "Nutanix AHV و Frame"
+        },
+        {
+          "en": "Amazon WorkSpaces",
+          "ar": "Amazon WorkSpaces"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Infrastructure Components",
+        "ar": "مكونات البنية التحتية"
+      },
+      "specs": [
+        {
+          "en": "Connection brokers and load balancers",
+          "ar": "وسطاء الاتصال وموازنات التحميل"
+        },
+        {
+          "en": "Virtual desktop pools and farms",
+          "ar": "مجموعات أجهزة سطح المكتب الافتراضية والمزارع"
+        },
+        {
+          "en": "User profile management (FSLogix, Citrix Profile Management)",
+          "ar": "إدارة ملف تعريف المستخدم (FSLogix، Citrix Profile Management)"
+        },
+        {
+          "en": "App layering and packaging (App Volumes, Citrix App Layering)",
+          "ar": "طبقات التطبيقات والتعبئة (App Volumes، Citrix App Layering)"
+        },
+        {
+          "en": "NVIDIA vGPU and AMD MxGPU support",
+          "ar": "دعم NVIDIA vGPU و AMD MxGPU"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Access & Security",
+        "ar": "الوصول والأمان"
+      },
+      "specs": [
+        {
+          "en": "Secure gateway and reverse proxy (Unified Access Gateway, NetScaler Gateway)",
+          "ar": "بوابة آمنة ووكيل عكسي (Unified Access Gateway، NetScaler Gateway)"
+        },
+        {
+          "en": "Multi-factor authentication integration",
+          "ar": "تكامل المصادقة متعددة العوامل"
+        },
+        {
+          "en": "SSL/TLS encryption for all connections",
+          "ar": "تشفير SSL/TLS لجميع الاتصالات"
+        },
+        {
+          "en": "Session recording and watermarking",
+          "ar": "تسجيل الجلسة والعلامات المائية"
+        },
+        {
+          "en": "USB redirection and clipboard control",
+          "ar": "إعادة توجيه USB والتحكم في الحافظة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Performance Optimization",
+        "ar": "تحسين الأداء"
+      },
+      "specs": [
+        {
+          "en": "Protocol optimization (Blast Extreme, HDX, RDP)",
+          "ar": "تحسين البروتوكول (Blast Extreme، HDX، RDP)"
+        },
+        {
+          "en": "WAN optimization and content caching",
+          "ar": "تحسين WAN والتخزين المؤقت للمحتوى"
+        },
+        {
+          "en": "Adaptive compression and bandwidth management",
+          "ar": "الضغط التكيفي وإدارة النطاق الترددي"
+        },
+        {
+          "en": "Storage optimization with deduplication and tiering",
+          "ar": "تحسين التخزين مع إلغاء البيانات المكررة والتدرج"
+        }
+      ]
+    }
+  ]
+}

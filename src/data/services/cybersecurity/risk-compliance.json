@@ -1,0 +1,136 @@
+{
+  "hero": {
+    "title": {
+      "en": "Risk & Compliance Management",
+      "ar": "إدارة المخاطر والامتثال"
+    },
+    "subtitle": {
+      "en": "Comprehensive risk assessment and regulatory compliance services for your organization",
+      "ar": "خدمات تقييم المخاطر والامتثال التنظيمي الشاملة لمؤسستك"
+    }
+  },
+  "description": {
+    "en": "Navigate the complex landscape of cybersecurity regulations with our expert risk and compliance management services. We help organizations identify, assess, and mitigate security risks while ensuring compliance with local and international standards including NCA ECC, SAMA, ISO 27001, NIST, and industry-specific requirements. Our structured approach combines technical assessments with strategic guidance to build a robust security posture.",
+    "ar": "تنقل في المشهد المعقد للوائح الأمن السيبراني مع خدمات إدارة المخاطر والامتثال الخبيرة لدينا. نساعد المؤسسات على تحديد وتقييم وتخفيف المخاطر الأمنية مع ضمان الامتثال للمعايير المحلية والدولية."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Risk Assessment & Analysis",
+        "ar": "تقييم وتحليل المخاطر"
+      },
+      "description": {
+        "en": "Comprehensive identification and evaluation of security risks across your IT infrastructure and business processes",
+        "ar": "تحديد وتقييم شامل للمخاطر الأمنية عبر البنية التحتية لتكنولوجيا المعلومات وعمليات الأعمال"
+      }
+    },
+    {
+      "title": {
+        "en": "NCA ECC Compliance",
+        "ar": "الامتثال لهيئة الأمن السيبراني"
+      },
+      "description": {
+        "en": "Expert guidance for achieving and maintaining National Cybersecurity Authority Essential Cybersecurity Controls compliance",
+        "ar": "إرشادات خبراء لتحقيق والحفاظ على الامتثال لضوابط الأمن السيبراني الأساسية للهيئة الوطنية للأمن السيبراني"
+      }
+    },
+    {
+      "title": {
+        "en": "SAMA Framework Alignment",
+        "ar": "التوافق مع إطار ساما"
+      },
+      "description": {
+        "en": "Specialized services for financial institutions to comply with Saudi Central Bank cybersecurity framework",
+        "ar": "خدمات متخصصة للمؤسسات المالية للامتثال لإطار الأمن السيبراني للبنك المركزي السعودي"
+      }
+    },
+    {
+      "title": {
+        "en": "ISO 27001 Certification",
+        "ar": "شهادة ISO 27001"
+      },
+      "description": {
+        "en": "End-to-end support for implementing and achieving ISO 27001 information security management system certification",
+        "ar": "دعم شامل لتنفيذ والحصول على شهادة نظام إدارة أمن المعلومات ISO 27001"
+      }
+    },
+    {
+      "title": {
+        "en": "Gap Analysis & Remediation",
+        "ar": "تحليل الفجوات والمعالجة"
+      },
+      "description": {
+        "en": "Detailed assessment of current security posture against regulatory requirements with actionable remediation plans",
+        "ar": "تقييم مفصل للوضع الأمني الحالي مقابل المتطلبات التنظيمية مع خطط معالجة قابلة للتنفيذ"
+      }
+    },
+    {
+      "title": {
+        "en": "Continuous Monitoring",
+        "ar": "المراقبة المستمرة"
+      },
+      "description": {
+        "en": "Ongoing compliance monitoring and reporting to ensure sustained adherence to regulatory frameworks",
+        "ar": "مراقبة وإعداد تقارير الامتثال المستمرة لضمان الالتزام المستدام بالأطر التنظيمية"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Supported Frameworks",
+        "ar": "الأطر المدعومة"
+      },
+      "specs": [
+        {
+          "en": "NCA ECC (Essential Cybersecurity Controls)",
+          "ar": "ضوابط الأمن السيبراني الأساسية NCA ECC"
+        },
+        {
+          "en": "SAMA Cybersecurity Framework",
+          "ar": "إطار الأمن السيبراني لمؤسسة النقد"
+        },
+        {
+          "en": "ISO/IEC 27001, 27002, 27017, 27018",
+          "ar": "معايير ISO/IEC 27001، 27002، 27017، 27018"
+        },
+        {
+          "en": "NIST Cybersecurity Framework (CSF)",
+          "ar": "إطار الأمن السيبراني NIST"
+        },
+        {
+          "en": "PCI-DSS for payment card industry",
+          "ar": "معيار أمن بيانات صناعة بطاقات الدفع PCI-DSS"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Service Deliverables",
+        "ar": "مخرجات الخدمة"
+      },
+      "specs": [
+        {
+          "en": "Comprehensive risk assessment reports",
+          "ar": "تقارير تقييم المخاطر الشاملة"
+        },
+        {
+          "en": "Gap analysis documentation with priority rankings",
+          "ar": "وثائق تحليل الفجوات مع ترتيب الأولويات"
+        },
+        {
+          "en": "Remediation roadmaps and implementation guides",
+          "ar": "خرائط طريق المعالجة وأدلة التنفيذ"
+        },
+        {
+          "en": "Policy and procedure templates",
+          "ar": "قوالب السياسات والإجراءات"
+        },
+        {
+          "en": "Compliance dashboards and KPI tracking",
+          "ar": "لوحات معلومات الامتثال وتتبع مؤشرات الأداء"
+        }
+      ]
+    }
+  ]
+}

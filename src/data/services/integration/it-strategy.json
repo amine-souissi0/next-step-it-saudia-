@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "it-strategy",
+    "slug": "it-strategy",
+    "parentService": "integration"
+  },
+  "hero": {
+    "title": {
+      "en": "IT Strategy & Alignment Services",
+      "ar": "خدمات استراتيجية تكنولوجيا المعلومات والمواءمة"
+    },
+    "subtitle": {
+      "en": "Transform IT from cost center to strategic enabler with business-aligned technology roadmaps and digital transformation strategies",
+      "ar": "حوّل تكنولوجيا المعلومات من مركز تكلفة إلى محرك استراتيجي مع خرائط طريق تكنولوجية متوافقة مع الأعمال واستراتيجيات التحول الرقمي"
+    },
+    "badge": {
+      "en": "Strategic Consulting",
+      "ar": "الاستشارات الاستراتيجية"
+    }
+  },
+  "description": {
+    "en": "Bridge the gap between business objectives and technology capabilities with our strategic IT consulting services. We help organizations develop comprehensive IT strategies that drive innovation, optimize investments, and support long-term business goals. Our consultants work closely with C-level executives and business leaders to assess current IT capabilities, identify gaps, define target architectures, and create actionable roadmaps that balance innovation with operational stability. From digital transformation planning to technology portfolio optimization, we ensure your IT investments deliver measurable business value.",
+    "ar": "سد الفجوة بين أهداف الأعمال وقدرات التكنولوجيا مع خدمات الاستشارات الاستراتيجية لتكنولوجيا المعلومات لدينا. نحن نساعد المؤسسات على تطوير استراتيجيات شاملة لتكنولوجيا المعلومات تدفع الابتكار وتحسن الاستثمارات وتدعم أهداف الأعمال طويلة الأجل. يعمل مستشارونا عن كثب مع المديرين التنفيذيين وقادة الأعمال على مستوى C لتقييم قدرات تكنولوجيا المعلومات الحالية وتحديد الفجوات وتحديد الهندسة المعمارية المستهدفة وإنشاء خرائط طريق قابلة للتنفيذ توازن بين الابتكار والاستقرار التشغيلي. من تخطيط التحول الرقمي إلى تحسين محفظة التكنولوجيا، نضمن أن تقدم استثماراتك في تكنولوجيا المعلومات قيمة تجارية قابلة للقياس."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Digital Transformation Strategy",
+        "ar": "استراتيجية التحول الرقمي"
+      },
+      "description": {
+        "en": "Develop comprehensive digital transformation roadmaps that leverage cloud, AI, automation, and data analytics to modernize operations, enhance customer experiences, and create competitive advantages.",
+        "ar": "تطوير خرائط طريق شاملة للتحول الرقمي تستفيد من السحابة والذكاء الاصطناعي والأتمتة وتحليلات البيانات لتحديث العمليات وتعزيز تجارب العملاء وخلق مزايا تنافسية."
+      }
+    },
+    {
+      "title": {
+        "en": "Enterprise Architecture",
+        "ar": "هندسة المؤسسة"
+      },
+      "description": {
+        "en": "Design target enterprise architectures using TOGAF or Zachman frameworks, including business, application, data, and technology architecture layers with transition roadmaps and governance models.",
+        "ar": "تصميم الهندسة المعمارية المستهدفة للمؤسسة باستخدام أطر عمل TOGAF أو Zachman، بما في ذلك طبقات هندسة الأعمال والتطبيقات والبيانات والتكنولوجيا مع خرائط طريق الانتقال ونماذج الحوكمة."
+      }
+    },
+    {
+      "title": {
+        "en": "Technology Portfolio Optimization",
+        "ar": "تحسين محفظة التكنولوجيا"
+      },
+      "description": {
+        "en": "Rationalize application portfolios, eliminate technical debt, consolidate redundant systems, and optimize technology investments to reduce costs while improving agility and innovation capacity.",
+        "ar": "ترشيد محافظ التطبيقات والقضاء على الديون التقنية ودمج الأنظمة الزائدة عن الحاجة وتحسين استثمارات التكنولوجيا لتقليل التكاليف مع تحسين المرونة وقدرة الابتكار."
+      }
+    },
+    {
+      "title": {
+        "en": "IT Governance & Compliance",
+        "ar": "حوكمة تكنولوجيا المعلومات والامتثال"
+      },
+      "description": {
+        "en": "Establish IT governance frameworks aligned with COBIT, ITIL, and ISO standards, including policies, procedures, decision rights, and accountability structures for effective IT management.",
+        "ar": "إنشاء أطر حوكمة تكنولوجيا المعلومات المتوافقة مع معايير COBIT و ITIL و ISO، بما في ذلك السياسات والإجراءات وحقوق القرار وهياكل المساءلة لإدارة فعالة لتكنولوجيا المعلومات."
+      }
+    },
+    {
+      "title": {
+        "en": "Cloud Strategy & Economics",
+        "ar": "استراتيجية السحابة والاقتصاد"
+      },
+      "description": {
+        "en": "Define cloud adoption strategies, multi-cloud approaches, and cloud economics models with TCO analysis, workload placement decisions, and FinOps practices for cost optimization.",
+        "ar": "تحديد استراتيجيات اعتماد السحابة ونهج السحابة المتعددة ونماذج اقتصاديات السحابة مع تحليل التكلفة الإجمالية للملكية وقرارات وضع أحمال العمل وممارسات FinOps لتحسين التكلفة."
+      }
+    },
+    {
+      "title": {
+        "en": "IT Operating Model Design",
+        "ar": "تصميم نموذج تشغيل تكنولوجيا المعلومات"
+      },
+      "description": {
+        "en": "Design optimized IT operating models including organizational structures, roles, processes, service delivery models, sourcing strategies, and performance metrics for efficient IT operations.",
+        "ar": "تصميم نماذج تشغيل تكنولوجيا المعلومات المحسّنة بما في ذلك الهياكل التنظيمية والأدوار والعمليات ونماذج تقديم الخدمات واستراتيجيات التوريد ومقاييس الأداء لعمليات تكنولوجيا المعلومات الفعالة."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Strategic Deliverables & Frameworks",
+      "ar": "المخرجات الاستراتيجية والأطر"
+    },
+    "items": {
+      "en": [
+        "IT Strategy Document: Comprehensive 3-5 year IT strategy aligned with business objectives, including vision, principles, goals, and success metrics",
+        "Technology Roadmap: Multi-year technology evolution plan with initiatives prioritized by business value, risk, dependencies, and resource requirements",
+        "Business Capability Model: Mapping of business capabilities to technology enablers, identifying gaps, redundancies, and optimization opportunities",
+        "Architecture Blueprint: Target state architecture across business, application, data, and infrastructure layers with migration pathways and transition states",
+        "Investment Portfolio: IT investment prioritization framework with business case templates, ROI models, and portfolio management governance processes",
+        "Vendor Strategy: Strategic vendor management framework including vendor selection criteria, relationship models, contract optimization, and risk mitigation",
+        "Governance Framework: IT governance structure with decision-making authority, approval workflows, policy frameworks, and compliance monitoring mechanisms",
+        "Change Management: Organizational change strategy for IT transformation including stakeholder engagement, communication plans, and capability building programs"
+      ],
+      "ar": [
+        "وثيقة استراتيجية تكنولوجيا المعلومات: استراتيجية شاملة لتكنولوجيا المعلومات لمدة 3-5 سنوات متوافقة مع أهداف الأعمال، بما في ذلك الرؤية والمبادئ والأهداف ومقاييس النجاح",
+        "خارطة طريق التكنولوجيا: خطة تطور تكنولوجي متعددة السنوات مع مبادرات مرتبة حسب الأولوية حسب قيمة الأعمال والمخاطر والتبعيات ومتطلبات الموارد",
+        "نموذج قدرات الأعمال: رسم خرائط قدرات الأعمال إلى محركات التكنولوجيا، وتحديد الفجوات والتكرارات وفرص التحسين",
+        "مخطط الهندسة: هندسة الحالة المستهدفة عبر طبقات الأعمال والتطبيقات والبيانات والبنية التحتية مع مسارات الترحيل وحالات الانتقال",
+        "محفظة الاستثمار: إطار تحديد أولويات استثمار تكنولوجيا المعلومات مع قوالب حالة الأعمال ونماذج العائد على الاستثمار وعمليات حوكمة إدارة المحفظة",
+        "استراتيجية البائع: إطار إدارة البائع الاستراتيجي بما في ذلك معايير اختيار البائع ونماذج العلاقة وتحسين العقود وتخفيف المخاطر",
+        "إطار الحوكمة: هيكل حوكمة تكنولوجيا المعلومات مع سلطة اتخاذ القرار وسير عمل الموافقة وأطر السياسة وآليات مراقبة الامتثال",
+        "إدارة التغيير: استراتيجية التغيير التنظيمي لتحول تكنولوجيا المعلومات بما في ذلك مشاركة أصحاب المصلحة وخطط الاتصال وبرامج بناء القدرات"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Project Management",
+        "ar": "إدارة المشاريع"
+      },
+      "link": "/services/integration/project-management"
+    },
+    {
+      "title": {
+        "en": "Cloud Strategy",
+        "ar": "استراتيجية السحابة"
+      },
+      "link": "/services/cloud"
+    },
+    {
+      "title": {
+        "en": "Cybersecurity Strategy",
+        "ar": "استراتيجية الأمن السيبراني"
+      },
+      "link": "/services/cybersecurity"
+    }
+  ]
+}

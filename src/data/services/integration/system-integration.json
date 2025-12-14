@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "system-integration",
+    "slug": "system-integration",
+    "parentService": "integration"
+  },
+  "hero": {
+    "title": {
+      "en": "System Integration Services",
+      "ar": "خدمات تكامل الأنظمة"
+    },
+    "subtitle": {
+      "en": "Seamlessly connecting disparate systems, applications, and data sources for unified enterprise operations",
+      "ar": "ربط الأنظمة والتطبيقات ومصادر البيانات المتباينة بسلاسة لعمليات مؤسسية موحدة"
+    },
+    "badge": {
+      "en": "Enterprise Integration",
+      "ar": "التكامل المؤسسي"
+    }
+  },
+  "description": {
+    "en": "Transform your fragmented IT landscape into a cohesive, efficient ecosystem with our comprehensive system integration services. We specialize in connecting legacy systems with modern applications, integrating cloud and on-premises solutions, and establishing robust data flows across your entire technology stack. Our integration architects design scalable, secure, and maintainable solutions that eliminate data silos, automate workflows, and enable real-time information exchange across all business units.",
+    "ar": "حوّل مشهد تكنولوجيا المعلومات المجزأ إلى نظام بيئي متماسك وفعال مع خدمات تكامل الأنظمة الشاملة لدينا. نحن متخصصون في ربط الأنظمة القديمة بالتطبيقات الحديثة، وتكامل حلول السحابة والحلول المحلية، وإنشاء تدفقات بيانات قوية عبر مجموعة التكنولوجيا بأكملها. يصمم مهندسو التكامل لدينا حلولاً قابلة للتوسع وآمنة وقابلة للصيانة تقضي على صوامع البيانات وتؤتمت سير العمل وتمكن تبادل المعلومات في الوقت الفعلي عبر جميع وحدات الأعمال."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "API & Middleware Integration",
+        "ar": "تكامل API والبرمجيات الوسيطة"
+      },
+      "description": {
+        "en": "Design and implement RESTful APIs, microservices architectures, and enterprise service bus (ESB) solutions for seamless application-to-application communication and data exchange.",
+        "ar": "تصميم وتنفيذ واجهات برمجة تطبيقات RESTful وبنى الخدمات الدقيقة وحلول ناقل خدمات المؤسسة (ESB) للتواصل السلس بين التطبيقات وتبادل البيانات."
+      }
+    },
+    {
+      "title": {
+        "en": "Legacy System Modernization",
+        "ar": "تحديث الأنظمة القديمة"
+      },
+      "description": {
+        "en": "Bridge legacy mainframe and traditional systems with modern cloud applications through custom connectors, wrappers, and integration middleware without disrupting existing operations.",
+        "ar": "ربط الأنظمة الرئيسية القديمة والأنظمة التقليدية بتطبيقات السحابة الحديثة من خلال موصلات مخصصة وغلافات وبرمجيات وسيطة للتكامل دون تعطيل العمليات الحالية."
+      }
+    },
+    {
+      "title": {
+        "en": "Cloud & Hybrid Integration",
+        "ar": "التكامل السحابي والهجين"
+      },
+      "description": {
+        "en": "Connect on-premises systems with cloud platforms (AWS, Azure, GCP) using iPaaS solutions, VPN tunnels, direct connect services, and secure API gateways for hybrid architectures.",
+        "ar": "ربط الأنظمة المحلية بمنصات السحابة (AWS و Azure و GCP) باستخدام حلول iPaaS وأنفاق VPN وخدمات الاتصال المباشر وبوابات API الآمنة للبنى الهجينة."
+      }
+    },
+    {
+      "title": {
+        "en": "Data Integration & ETL",
+        "ar": "تكامل البيانات و ETL"
+      },
+      "description": {
+        "en": "Implement robust ETL/ELT pipelines, data warehousing solutions, real-time data replication, and master data management for unified enterprise data across disparate sources.",
+        "ar": "تنفيذ خطوط أنابيب ETL/ELT قوية وحلول مستودعات البيانات والنسخ المتماثل للبيانات في الوقت الفعلي وإدارة البيانات الرئيسية لبيانات المؤسسة الموحدة عبر المصادر المتباينة."
+      }
+    },
+    {
+      "title": {
+        "en": "Business Process Automation",
+        "ar": "أتمتة عمليات الأعمال"
+      },
+      "description": {
+        "en": "Automate end-to-end business workflows spanning multiple systems using RPA, workflow engines, and orchestration platforms to reduce manual effort and improve accuracy.",
+        "ar": "أتمتة سير عمل الأعمال من البداية إلى النهاية عبر أنظمة متعددة باستخدام RPA ومحركات سير العمل ومنصات التنسيق لتقليل الجهد اليدوي وتحسين الدقة."
+      }
+    },
+    {
+      "title": {
+        "en": "Integration Security & Governance",
+        "ar": "أمان التكامل والحوكمة"
+      },
+      "description": {
+        "en": "Ensure secure data transmission with encryption, authentication, authorization, audit logging, and compliance monitoring across all integration points and data flows.",
+        "ar": "ضمان نقل البيانات بشكل آمن مع التشفير والمصادقة والتفويض وتسجيل التدقيق ومراقبة الامتثال عبر جميع نقاط التكامل وتدفقات البيانات."
+      }
+    }
+  ],
+  "technicalSpecs": {
+    "title": {
+      "en": "Integration Capabilities & Technologies",
+      "ar": "قدرات وتقنيات التكامل"
+    },
+    "items": {
+      "en": [
+        "Integration Platforms: MuleSoft Anypoint, Dell Boomi, IBM App Connect, Azure Logic Apps, AWS Step Functions, Apache Camel",
+        "API Management: Kong, Apigee, AWS API Gateway, Azure API Management with rate limiting, versioning, and analytics",
+        "Data Integration: Informatica, Talend, Apache NiFi, Azure Data Factory, AWS Glue for batch and real-time data processing",
+        "Message Queuing: RabbitMQ, Apache Kafka, Amazon SQS/SNS, Azure Service Bus for asynchronous communication and event streaming",
+        "Database Connectors: Native drivers for Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, SAP HANA, and cloud databases",
+        "Legacy Integration: AS/400, mainframe connectivity, COBOL wrappers, screen scraping, file-based integration (FTP, SFTP, AS2)",
+        "Security Standards: OAuth 2.0, JWT tokens, mutual TLS, SAML 2.0, encrypted data at rest and in transit, API key management",
+        "Monitoring & Analytics: Real-time integration monitoring, error handling, retry mechanisms, transaction logging, and performance dashboards"
+      ],
+      "ar": [
+        "منصات التكامل: MuleSoft Anypoint و Dell Boomi و IBM App Connect و Azure Logic Apps و AWS Step Functions و Apache Camel",
+        "إدارة API: Kong و Apigee و AWS API Gateway و Azure API Management مع تحديد المعدل والإصدار والتحليلات",
+        "تكامل البيانات: Informatica و Talend و Apache NiFi و Azure Data Factory و AWS Glue لمعالجة البيانات الدفعية والوقت الفعلي",
+        "قائمة انتظار الرسائل: RabbitMQ و Apache Kafka و Amazon SQS/SNS و Azure Service Bus للاتصال غير المتزامن وبث الأحداث",
+        "موصلات قاعدة البيانات: برامج تشغيل أصلية لـ Oracle و SQL Server و MySQL و PostgreSQL و MongoDB و SAP HANA وقواعد بيانات السحابة",
+        "التكامل القديم: اتصال AS/400 والإطار الرئيسي وأغلفة COBOL وكشط الشاشة والتكامل القائم على الملفات (FTP و SFTP و AS2)",
+        "معايير الأمان: OAuth 2.0 ورموز JWT و mutual TLS و SAML 2.0 والبيانات المشفرة في حالة السكون والنقل وإدارة مفاتيح API",
+        "المراقبة والتحليلات: مراقبة التكامل في الوقت الفعلي ومعالجة الأخطاء وآليات إعادة المحاولة وتسجيل المعاملات ولوحات معلومات الأداء"
+      ]
+    }
+  },
+  "relatedServices": [
+    {
+      "title": {
+        "en": "Cloud Migration",
+        "ar": "الانتقال إلى السحابة"
+      },
+      "link": "/services/cloud/cloud-migration"
+    },
+    {
+      "title": {
+        "en": "Migration Projects",
+        "ar": "مشاريع الترحيل"
+      },
+      "link": "/services/integration/migration-projects"
+    },
+    {
+      "title": {
+        "en": "Database Management",
+        "ar": "إدارة قواعد البيانات"
+      },
+      "link": "/services/managed/database"
+    }
+  ]
+}

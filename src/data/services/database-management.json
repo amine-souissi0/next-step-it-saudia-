@@ -1,0 +1,249 @@
+{
+  "hero": {
+    "title": {
+      "en": "Database Management Services",
+      "ar": "خدمات إدارة قواعد البيانات"
+    },
+    "subtitle": {
+      "en": "Expert database administration with 99.99% availability, performance tuning, and 24/7 monitoring",
+      "ar": "إدارة قواعد بيانات احترافية مع توفر 99.99٪ وضبط الأداء ومراقبة على مدار الساعة"
+    },
+    "image": "/placeholder.svg"
+  },
+  "description": {
+    "en": "Our Database Management Services provide comprehensive support for all your database platforms, ensuring optimal performance, security, and availability. With certified DBAs, automated monitoring, and proactive optimization, we manage Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, and cloud database services. We deliver 99.99% database uptime through high availability configurations, automated backups, disaster recovery, and 24/7 expert support backed by tiered SLAs.",
+    "ar": "توفر خدمات إدارة قواعد البيانات لدينا دعماً شاملاً لجميع منصات قواعد البيانات الخاصة بك، مما يضمن الأداء والأمان والتوفر الأمثل. مع مسؤولي قواعد البيانات المعتمدين والمراقبة التلقائية والتحسين الاستباقي، نحن ندير Oracle و SQL Server و PostgreSQL و MySQL و MongoDB وخدمات قواعد البيانات السحابية. نقدم وقت تشغيل لقاعدة البيانات بنسبة 99.99٪ من خلال تكوينات التوفر العالي والنسخ الاحتياطية التلقائية والتعافي من الكوارث والدعم من الخبراء على مدار الساعة مدعوماً باتفاقيات SLA المتدرجة."
+  },
+  "features": [
+    {
+      "id": "proactive-monitoring",
+      "title": {
+        "en": "24/7 Database Monitoring",
+        "ar": "مراقبة قواعد البيانات على مدار الساعة"
+      },
+      "description": {
+        "en": "Real-time monitoring of 200+ database metrics per instance. Tablespace, memory, and connection pool monitoring with intelligent alerting. Query performance tracking with automatic slow query identification. Deadlock detection and automated resolution.",
+        "ar": "مراقبة في الوقت الفعلي لأكثر من 200 مقياس لقاعدة البيانات لكل نسخة. مراقبة مساحة الجداول والذاكرة ومجموعة الاتصال مع التنبيه الذكي. تتبع أداء الاستعلام مع تحديد تلقائي للاستعلامات البطيئة. الكشف عن الجمود والحل التلقائي."
+      },
+      "icon": "Activity"
+    },
+    {
+      "id": "performance-tuning",
+      "title": {
+        "en": "Performance Optimization",
+        "ar": "تحسين الأداء"
+      },
+      "description": {
+        "en": "Monthly performance tuning sessions reducing query times by 40-70%. Index optimization with automated recommendations. Query plan analysis and optimization. Buffer cache and memory parameter tuning. Partitioning strategy for large tables (>100M rows).",
+        "ar": "جلسات ضبط الأداء الشهرية تقلل أوقات الاستعلام بنسبة 40-70٪. تحسين الفهرس مع توصيات تلقائية. تحليل وتحسين خطة الاستعلام. ضبط ذاكرة التخزين المؤقت ومعاملات الذاكرة. استراتيجية التقسيم للجداول الكبيرة (أكثر من 100 مليون صف)."
+      },
+      "icon": "Zap"
+    },
+    {
+      "id": "backup-recovery",
+      "title": {
+        "en": "Backup & Recovery Management",
+        "ar": "إدارة النسخ الاحتياطي والاسترداد"
+      },
+      "description": {
+        "en": "Automated daily full backups with hourly transaction log backups. Point-in-time recovery capability with 15-minute granularity. Backup validation and monthly restore testing. Retention policies: 7 days daily, 4 weeks weekly, 12 months monthly. Encrypted backups stored across multiple geographic locations.",
+        "ar": "نسخ احتياطية كاملة يومية تلقائية مع نسخ احتياطية لسجل المعاملات كل ساعة. قدرة الاسترداد إلى نقطة زمنية مع دقة 15 دقيقة. التحقق من النسخ الاحتياطي واختبار الاسترداد الشهري. سياسات الاحتفاظ: 7 أيام يومياً، 4 أسابيع أسبوعياً، 12 شهراً شهرياً. نسخ احتياطية مشفرة مخزنة عبر مواقع جغرافية متعددة."
+      },
+      "icon": "Database"
+    },
+    {
+      "id": "high-availability",
+      "title": {
+        "en": "High Availability & Clustering",
+        "ar": "التوفر العالي والتجميع"
+      },
+      "description": {
+        "en": "Oracle RAC, SQL Server Always On, PostgreSQL Patroni configurations. Automatic failover with <30 second detection and <2 minute recovery. Load balancing for read replicas. Geographic replication for disaster recovery. 99.99% database availability guarantee.",
+        "ar": "تكوينات Oracle RAC و SQL Server Always On و PostgreSQL Patroni. الفشل التلقائي مع الكشف في أقل من 30 ثانية والاسترداد في أقل من دقيقتين. موازنة التحميل للنسخ المتماثلة للقراءة. النسخ المتماثل الجغرافي للتعافي من الكوارث. ضمان توفر قاعدة البيانات 99.99٪."
+      },
+      "icon": "Shield"
+    },
+    {
+      "id": "security-compliance",
+      "title": {
+        "en": "Security & Compliance",
+        "ar": "الأمن والامتثال"
+      },
+      "description": {
+        "en": "Transparent Data Encryption (TDE) for data at rest. Always Encrypted for sensitive columns. Database Activity Monitoring (DAM) with audit logging. Privileged access management with session recording. PCI-DSS, HIPAA, PDPL compliance support.",
+        "ar": "تشفير البيانات الشفاف (TDE) للبيانات في حالة السكون. التشفير دائماً للأعمدة الحساسة. مراقبة نشاط قاعدة البيانات (DAM) مع سجلات التدقيق. إدارة الوصول المميز مع تسجيل الجلسة. دعم الامتثال لـ PCI-DSS و HIPAA و PDPL."
+      },
+      "icon": "Lock"
+    },
+    {
+      "id": "migration-upgrade",
+      "title": {
+        "en": "Migration & Upgrades",
+        "ar": "الترحيل والترقيات"
+      },
+      "description": {
+        "en": "Zero-downtime database migrations using live replication. Version upgrades with comprehensive testing and rollback plans. Cloud migration to AWS RDS, Azure SQL, Google Cloud SQL. Schema changes with online DDL operations. Data type conversions and ETL processes.",
+        "ar": "ترحيل قواعد البيانات بدون توقف باستخدام النسخ المتماثل المباشر. ترقيات الإصدار مع الاختبار الشامل وخطط التراجع. الترحيل السحابي إلى AWS RDS و Azure SQL و Google Cloud SQL. تغييرات المخطط مع عمليات DDL عبر الإنترنت. تحويلات نوع البيانات وعمليات ETL."
+      },
+      "icon": "ArrowRight"
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "SLA Tiers",
+        "ar": "مستويات SLA"
+      },
+      "specs": [
+        {
+          "en": "Mission Critical: 99.99% uptime / 15 min response / 4 hour resolution / Dedicated DBA",
+          "ar": "المهمة الحرجة: وقت تشغيل 99.99٪ / استجابة 15 دقيقة / حل 4 ساعات / DBA مخصص"
+        },
+        {
+          "en": "Business Critical: 99.95% uptime / 30 min response / 8 hour resolution",
+          "ar": "الأعمال الحرجة: وقت تشغيل 99.95٪ / استجابة 30 دقيقة / حل 8 ساعات"
+        },
+        {
+          "en": "Standard: 99.9% uptime / 1 hour response / 24 hour resolution",
+          "ar": "القياسي: وقت تشغيل 99.9٪ / استجابة ساعة واحدة / حل 24 ساعة"
+        },
+        {
+          "en": "All tiers include 24/7 monitoring, automated backups, and monthly health checks",
+          "ar": "تتضمن جميع المستويات مراقبة على مدار الساعة ونسخ احتياطية تلقائية وفحوصات صحية شهرية"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Supported Database Platforms",
+        "ar": "منصات قواعد البيانات المدعومة"
+      },
+      "specs": [
+        {
+          "en": "Oracle: 11g, 12c, 18c, 19c, 21c (RAC, Data Guard, Exadata)",
+          "ar": "Oracle: 11g و 12c و 18c و 19c و 21c (RAC و Data Guard و Exadata)"
+        },
+        {
+          "en": "Microsoft SQL Server: 2016, 2017, 2019, 2022 (Always On, Replication)",
+          "ar": "Microsoft SQL Server: 2016 و 2017 و 2019 و 2022 (Always On و Replication)"
+        },
+        {
+          "en": "PostgreSQL: 11, 12, 13, 14, 15 (Patroni, Streaming Replication)",
+          "ar": "PostgreSQL: 11 و 12 و 13 و 14 و 15 (Patroni و Streaming Replication)"
+        },
+        {
+          "en": "MySQL/MariaDB: 5.7, 8.0 (Group Replication, Galera Cluster)",
+          "ar": "MySQL / MariaDB: 5.7 و 8.0 (Group Replication و Galera Cluster)"
+        },
+        {
+          "en": "NoSQL: MongoDB, Cassandra, Redis, Elasticsearch",
+          "ar": "NoSQL: MongoDB و Cassandra و Redis و Elasticsearch"
+        },
+        {
+          "en": "Cloud: AWS RDS/Aurora, Azure SQL, Google Cloud SQL, Oracle Cloud",
+          "ar": "السحابة: AWS RDS / Aurora و Azure SQL و Google Cloud SQL و Oracle Cloud"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "DBA Team Expertise",
+        "ar": "خبرة فريق DBA"
+      },
+      "specs": [
+        {
+          "en": "Oracle Certified Master (OCM) and Oracle ACE professionals",
+          "ar": "محترفو Oracle Certified Master (OCM) و Oracle ACE"
+        },
+        {
+          "en": "Microsoft Certified: Azure Database Administrator Associates",
+          "ar": "Microsoft Certified: شركاء مسؤول قاعدة بيانات Azure"
+        },
+        {
+          "en": "PostgreSQL Certified Professionals and Patroni experts",
+          "ar": "محترفو PostgreSQL المعتمدون وخبراء Patroni"
+        },
+        {
+          "en": "24/7 coverage with Level 1, 2, and 3 DBA escalation tiers",
+          "ar": "تغطية على مدار الساعة مع مستويات تصعيد DBA من المستوى 1 و 2 و 3"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Monitoring & Management Tools",
+        "ar": "أدوات المراقبة والإدارة"
+      },
+      "specs": [
+        {
+          "en": "Oracle Enterprise Manager (OEM) for Oracle database fleet management",
+          "ar": "Oracle Enterprise Manager (OEM) لإدارة أسطول قواعد بيانات Oracle"
+        },
+        {
+          "en": "SQL Server Management Studio (SSMS) + sp_Blitz + Ola Hallengren scripts",
+          "ar": "SQL Server Management Studio (SSMS) + sp_Blitz + Ola Hallengren"
+        },
+        {
+          "en": "pgAdmin + pg_stat_statements + Patroni for PostgreSQL",
+          "ar": "pgAdmin + pg_stat_statements + Patroni لـ PostgreSQL"
+        },
+        {
+          "en": "Percona Monitoring and Management (PMM) for MySQL/MariaDB",
+          "ar": "Percona Monitoring and Management (PMM) لـ MySQL / MariaDB"
+        },
+        {
+          "en": "SolarWinds Database Performance Analyzer (DPA) for multi-platform monitoring",
+          "ar": "SolarWinds Database Performance Analyzer (DPA) للمراقبة متعددة المنصات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Automation & DevOps",
+        "ar": "الأتمتة و DevOps"
+      },
+      "specs": [
+        {
+          "en": "Infrastructure as Code (Terraform, Ansible) for database provisioning",
+          "ar": "البنية التحتية كرمز (Terraform و Ansible) لتوفير قاعدة البيانات"
+        },
+        {
+          "en": "Database CI/CD with Liquibase, Flyway for schema migrations",
+          "ar": "قاعدة البيانات CI / CD مع Liquibase و Flyway لترحيل المخططات"
+        },
+        {
+          "en": "Automated patching with pre-production validation",
+          "ar": "التصحيح التلقائي مع التحقق قبل الإنتاج"
+        },
+        {
+          "en": "Self-healing scripts for common database issues",
+          "ar": "نصوص الإصلاح الذاتي لمشكلات قاعدة البيانات الشائعة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Reporting & Documentation",
+        "ar": "إعداد التقارير والوثائق"
+      },
+      "specs": [
+        {
+          "en": "Real-time dashboards with database health scores",
+          "ar": "لوحات معلومات في الوقت الفعلي مع نقاط صحة قاعدة البيانات"
+        },
+        {
+          "en": "Daily automated health checks and capacity reports",
+          "ar": "فحوصات صحية يومية تلقائية وتقارير السعة"
+        },
+        {
+          "en": "Weekly performance optimization recommendations",
+          "ar": "توصيات تحسين الأداء الأسبوعية"
+        },
+        {
+          "en": "Monthly SLA reports and quarterly business reviews (QBR)",
+          "ar": "تقارير SLA الشهرية ومراجعات الأعمال ربع السنوية (QBR)"
+        }
+      ]
+    }
+  ]
+}

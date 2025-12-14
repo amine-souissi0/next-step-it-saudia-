@@ -1,0 +1,236 @@
+{
+  "hero": {
+    "title": {
+      "en": "Service Desk & IT Support",
+      "ar": "مكتب الخدمة والدعم الفني"
+    },
+    "subtitle": {
+      "en": "24/7 multi-tiered IT support delivering exceptional user experience and rapid issue resolution",
+      "ar": "دعم فني متعدد المستويات على مدار الساعة يقدم تجربة مستخدم استثنائية وحل سريع للمشكلات"
+    }
+  },
+  "description": {
+    "en": "Deliver world-class IT support with our comprehensive Service Desk solutions. We provide multi-tiered, 24/7 support services that serve as the single point of contact for all IT-related requests, incidents, and service inquiries. Our ITIL-aligned service desk combines experienced support professionals, advanced ticketing systems, knowledge management, and automation to ensure rapid resolution, high user satisfaction, and continuous service improvement.",
+    "ar": "قدم دعمًا فنيًا عالمي المستوى مع حلول مكتب الخدمة الشاملة لدينا. نوفر خدمات دعم متعددة المستويات على مدار الساعة تعمل كنقطة اتصال واحدة لجميع الطلبات والحوادث واستفسارات الخدمة المتعلقة بتكنولوجيا المعلومات."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Multi-Tier Support Structure",
+        "ar": "هيكل الدعم متعدد المستويات"
+      },
+      "description": {
+        "en": "Comprehensive L1, L2, and L3 support tiers with clear escalation paths and specialized expertise at each level",
+        "ar": "مستويات دعم شاملة L1 و L2 و L3 مع مسارات تصعيد واضحة وخبرة متخصصة في كل مستوى"
+      }
+    },
+    {
+      "title": {
+        "en": "24/7/365 Availability",
+        "ar": "التوفر على مدار الساعة"
+      },
+      "description": {
+        "en": "Round-the-clock support coverage with bilingual Arabic and English support agents across multiple time zones",
+        "ar": "تغطية الدعم على مدار الساعة مع وكلاء دعم ثنائيي اللغة العربية والإنجليزية عبر مناطق زمنية متعددة"
+      }
+    },
+    {
+      "title": {
+        "en": "Omnichannel Support",
+        "ar": "الدعم متعدد القنوات"
+      },
+      "description": {
+        "en": "Seamless support across phone, email, chat, self-service portal, and mobile app with unified ticket tracking",
+        "ar": "دعم سلس عبر الهاتف والبريد الإلكتروني والدردشة وبوابة الخدمة الذاتية وتطبيق الهاتف المحمول مع تتبع موحد للتذاكر"
+      }
+    },
+    {
+      "title": {
+        "en": "Knowledge Management",
+        "ar": "إدارة المعرفة"
+      },
+      "description": {
+        "en": "Comprehensive knowledge base with searchable articles, FAQs, and self-service guides to empower users",
+        "ar": "قاعدة معرفية شاملة مع مقالات قابلة للبحث والأسئلة الشائعة وأدلة الخدمة الذاتية لتمكين المستخدمين"
+      }
+    },
+    {
+      "title": {
+        "en": "Incident & Request Management",
+        "ar": "إدارة الحوادث والطلبات"
+      },
+      "description": {
+        "en": "ITIL-compliant incident and service request workflows with automated routing, prioritization, and SLA tracking",
+        "ar": "سير عمل الحوادث وطلبات الخدمة المتوافقة مع ITIL مع التوجيه الآلي وتحديد الأولويات وتتبع SLA"
+      }
+    },
+    {
+      "title": {
+        "en": "Performance Analytics",
+        "ar": "تحليلات الأداء"
+      },
+      "description": {
+        "en": "Real-time dashboards and reporting on ticket metrics, resolution times, user satisfaction, and trend analysis",
+        "ar": "لوحات معلومات وتقارير في الوقت الفعلي عن مقاييس التذاكر وأوقات الحل ورضا المستخدمين وتحليل الاتجاهات"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Service Desk Platforms",
+        "ar": "منصات مكتب الخدمة"
+      },
+      "specs": [
+        {
+          "en": "ServiceNow IT Service Management (ITSM)",
+          "ar": "ServiceNow IT Service Management (ITSM)"
+        },
+        {
+          "en": "BMC Remedy / Helix ITSM",
+          "ar": "BMC Remedy / Helix ITSM"
+        },
+        {
+          "en": "Microsoft System Center Service Manager",
+          "ar": "Microsoft System Center Service Manager"
+        },
+        {
+          "en": "Freshservice and Freshdesk",
+          "ar": "Freshservice و Freshdesk"
+        },
+        {
+          "en": "Zendesk and Jira Service Management",
+          "ar": "Zendesk و Jira Service Management"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Support Channels",
+        "ar": "قنوات الدعم"
+      },
+      "specs": [
+        {
+          "en": "Toll-free phone support with IVR",
+          "ar": "دعم هاتفي مجاني مع IVR"
+        },
+        {
+          "en": "Email ticketing with automated categorization",
+          "ar": "إصدار التذاكر عبر البريد الإلكتروني مع التصنيف الآلي"
+        },
+        {
+          "en": "Live chat and chatbot integration",
+          "ar": "الدردشة المباشرة وتكامل روبوت الدردشة"
+        },
+        {
+          "en": "Self-service web portal and mobile app",
+          "ar": "بوابة الويب للخدمة الذاتية وتطبيق الهاتف المحمول"
+        },
+        {
+          "en": "Microsoft Teams and Slack integration",
+          "ar": "تكامل Microsoft Teams و Slack"
+        },
+        {
+          "en": "Walk-up support at on-site locations",
+          "ar": "دعم في الموقع في المواقع الميدانية"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Support Capabilities",
+        "ar": "قدرات الدعم"
+      },
+      "specs": [
+        {
+          "en": "Password resets and account unlocks",
+          "ar": "إعادة تعيين كلمات المرور وإلغاء قفل الحسابات"
+        },
+        {
+          "en": "Software installation and troubleshooting",
+          "ar": "تثبيت البرامج واستكشاف الأخطاء وإصلاحها"
+        },
+        {
+          "en": "Hardware support and device provisioning",
+          "ar": "دعم الأجهزة وتوفير الأجهزة"
+        },
+        {
+          "en": "Application access and permissions",
+          "ar": "الوصول إلى التطبيقات والأذونات"
+        },
+        {
+          "en": "Network connectivity issues",
+          "ar": "مشاكل اتصال الشبكة"
+        },
+        {
+          "en": "Email and collaboration tool support",
+          "ar": "دعم البريد الإلكتروني وأدوات التعاون"
+        },
+        {
+          "en": "VPN and remote access troubleshooting",
+          "ar": "استكشاف أخطاء VPN والوصول عن بعد وإصلاحها"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "SLA Commitments",
+        "ar": "التزامات SLA"
+      },
+      "specs": [
+        {
+          "en": "Priority 1 (Critical): Response within 15 minutes",
+          "ar": "الأولوية 1 (حرج): الاستجابة خلال 15 دقيقة"
+        },
+        {
+          "en": "Priority 2 (High): Response within 1 hour",
+          "ar": "الأولوية 2 (عالي): الاستجابة خلال ساعة واحدة"
+        },
+        {
+          "en": "Priority 3 (Medium): Response within 4 hours",
+          "ar": "الأولوية 3 (متوسط): الاستجابة خلال 4 ساعات"
+        },
+        {
+          "en": "Priority 4 (Low): Response within 8 hours",
+          "ar": "الأولوية 4 (منخفض): الاستجابة خلال 8 ساعات"
+        },
+        {
+          "en": "First Call Resolution (FCR) target: >70%",
+          "ar": "هدف الحل في الاتصال الأول (FCR): >70%"
+        },
+        {
+          "en": "User satisfaction (CSAT) target: >90%",
+          "ar": "هدف رضا المستخدمين (CSAT): >90%"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Automation & AI",
+        "ar": "الأتمتة والذكاء الاصطناعي"
+      },
+      "specs": [
+        {
+          "en": "AI-powered chatbots for common requests",
+          "ar": "روبوتات الدردشة المدعومة بالذكاء الاصطناعي للطلبات الشائعة"
+        },
+        {
+          "en": "Automated ticket routing and categorization",
+          "ar": "توجيه التذاكر وتصنيفها الآلي"
+        },
+        {
+          "en": "Self-healing automation for common issues",
+          "ar": "الأتمتة ذاتية الإصلاح للمشاكل الشائعة"
+        },
+        {
+          "en": "Predictive analytics for proactive support",
+          "ar": "التحليلات التنبؤية للدعم الاستباقي"
+        },
+        {
+          "en": "Knowledge article recommendations",
+          "ar": "توصيات مقالات المعرفة"
+        }
+      ]
+    }
+  ]
+}

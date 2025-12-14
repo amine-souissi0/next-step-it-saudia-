@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "Home",
+    "journey": "Journey",
+    "services": "Services",
+    "industries": "Industries",
+    "innovation": "Innovation",
+    "resources": "Resources",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "search": "Search"
+  },
+  "footer": {
+    "tagline": "Your trusted partner in digital transformation",
+    "rights": "All rights reserved"
+  },
+  "services": {
+    "cloud": "Cloud & Datacenter",
+    "integration": "Integration & Pro Services",
+    "cybersecurity": "Cybersecurity & SOC",
+    "managed": "Managed Services",
+    "collaboration": "Collaboration & Digital"
+  },
+  "industries": {
+    "government": "Government",
+    "banking": "Banking & Financial",
+    "telecom": "Telecom",
+    "oilGas": "Oil & Gas",
+    "healthcare": "Healthcare",
+    "retail": "Retail",
+    "education": "Education",
+    "smartCities": "Smart Cities"
+  },
+  "journey": {
+    "title": "Your Cybersecurity Journey",
+    "tamkeen": "Tamkeen",
+    "himaya": "Himaya",
+    "manaa": "Mana'a",
+    "thiqah": "Thiqah",
+    "riyada": "Riyada"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "getQuote": "Get a Quote",
+    "download": "Download",
+    "viewAll": "View All",
+    "readMore": "Read More",
+    "backToHome": "Back to Home"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "hero": {
+    "title": {
+      "en": "SLA Performance Management",
+      "ar": "إدارة أداء مستوى الخدمة"
+    },
+    "subtitle": {
+      "en": "Comprehensive service level monitoring, reporting, and continuous improvement for IT services",
+      "ar": "مراقبة مستوى الخدمة الشاملة والتقارير والتحسين المستمر لخدمات تكنولوجيا المعلومات"
+    }
+  },
+  "description": {
+    "en": "Ensure consistent service delivery with our SLA Performance Management services. We establish, monitor, and optimize Service Level Agreements (SLAs) that align IT performance with business objectives. Our comprehensive approach includes SLA design, real-time monitoring, automated alerting, detailed reporting, and continuous improvement programs to maintain high service standards, meet commitments, and drive accountability across your IT operations.",
+    "ar": "ضمن تقديم خدمة متسق مع خدمات إدارة أداء مستوى الخدمة لدينا. نحن نضع ونراقب ونحسن اتفاقيات مستوى الخدمة (SLA) التي تواءم أداء تكنولوجيا المعلومات مع أهداف العمل."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "SLA Design & Implementation",
+        "ar": "تصميم وتنفيذ SLA"
+      },
+      "description": {
+        "en": "Develop comprehensive SLAs with clear metrics, targets, and measurement criteria aligned with business priorities",
+        "ar": "تطوير اتفاقيات مستوى خدمة شاملة مع مقاييس وأهداف ومعايير قياس واضحة تتماشى مع أولويات الأعمال"
+      }
+    },
+    {
+      "title": {
+        "en": "Real-Time Monitoring",
+        "ar": "المراقبة في الوقت الفعلي"
+      },
+      "description": {
+        "en": "Continuous tracking of SLA performance across all IT services with automated data collection and analysis",
+        "ar": "التتبع المستمر لأداء SLA عبر جميع خدمات تكنولوجيا المعلومات مع جمع وتحليل البيانات الآلي"
+      }
+    },
+    {
+      "title": {
+        "en": "Automated Alerting",
+        "ar": "التنبيه الآلي"
+      },
+      "description": {
+        "en": "Proactive notifications when SLA thresholds are at risk or breached, enabling rapid corrective action",
+        "ar": "الإخطارات الاستباقية عندما تكون عتبات SLA معرضة للخطر أو منتهكة، مما يتيح إجراء تصحيحي سريع"
+      }
+    },
+    {
+      "title": {
+        "en": "Executive Dashboards",
+        "ar": "لوحات معلومات تنفيذية"
+      },
+      "description": {
+        "en": "Interactive dashboards providing real-time visibility into SLA compliance, trends, and performance across all services",
+        "ar": "لوحات معلومات تفاعلية توفر رؤية في الوقت الفعلي لامتثال SLA والاتجاهات والأداء عبر جميع الخدمات"
+      }
+    },
+    {
+      "title": {
+        "en": "Compliance Reporting",
+        "ar": "تقارير الامتثال"
+      },
+      "description": {
+        "en": "Detailed SLA compliance reports with historical trends, breach analysis, and performance summaries for stakeholders",
+        "ar": "تقارير امتثال SLA مفصلة مع الاتجاهات التاريخية وتحليل الانتهاكات وملخصات الأداء لأصحاب المصلحة"
+      }
+    },
+    {
+      "title": {
+        "en": "Continuous Improvement",
+        "ar": "التحسين المستمر"
+      },
+      "description": {
+        "en": "Regular SLA reviews, root cause analysis of breaches, and actionable recommendations for service optimization",
+        "ar": "مراجعات SLA المنتظمة وتحليل السبب الجذري للانتهاكات والتوصيات القابلة للتنفيذ لتحسين الخدمة"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "SLA Categories",
+        "ar": "فئات SLA"
+      },
+      "specs": [
+        {
+          "en": "System Availability SLAs (uptime, planned downtime)",
+          "ar": "اتفاقيات مستوى الخدمة لتوفر النظام (وقت التشغيل، وقت التوقف المخطط)"
+        },
+        {
+          "en": "Performance SLAs (response time, throughput, latency)",
+          "ar": "اتفاقيات مستوى خدمة الأداء (وقت الاستجابة، الإنتاجية، الكمون)"
+        },
+        {
+          "en": "Support Response SLAs (incident response, resolution time)",
+          "ar": "اتفاقيات مستوى خدمة استجابة الدعم (استجابة الحادث، وقت الحل)"
+        },
+        {
+          "en": "Backup & Recovery SLAs (RPO, RTO, backup success rate)",
+          "ar": "اتفاقيات مستوى خدمة النسخ الاحتياطي والاسترداد (RPO، RTO، معدل نجاح النسخ الاحتياطي)"
+        },
+        {
+          "en": "Security SLAs (patch compliance, vulnerability remediation)",
+          "ar": "اتفاقيات مستوى خدمة الأمان (امتثال التصحيح، معالجة الثغرات)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Monitoring Tools",
+        "ar": "أدوات المراقبة"
+      },
+      "specs": [
+        {
+          "en": "ServiceNow Performance Analytics",
+          "ar": "ServiceNow Performance Analytics"
+        },
+        {
+          "en": "SolarWinds Service Desk (formerly Samanage)",
+          "ar": "SolarWinds Service Desk (سابقًا Samanage)"
+        },
+        {
+          "en": "Splunk IT Service Intelligence (ITSI)",
+          "ar": "Splunk IT Service Intelligence (ITSI)"
+        },
+        {
+          "en": "Microsoft Power BI for custom dashboards",
+          "ar": "Microsoft Power BI للوحات المعلومات المخصصة"
+        },
+        {
+          "en": "Datadog and New Relic APM integration",
+          "ar": "تكامل Datadog و New Relic APM"
+        },
+        {
+          "en": "Custom APIs for data aggregation",
+          "ar": "واجهات برمجة تطبيقات مخصصة لتجميع البيانات"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Key Metrics Tracked",
+        "ar": "المقاييس الرئيسية المتتبعة"
+      },
+      "specs": [
+        {
+          "en": "Service availability and uptime percentage",
+          "ar": "توفر الخدمة ونسبة وقت التشغيل"
+        },
+        {
+          "en": "Mean Time To Respond (MTTR)",
+          "ar": "متوسط الوقت للاستجابة (MTTR)"
+        },
+        {
+          "en": "Mean Time To Resolve (MTTR)",
+          "ar": "متوسط الوقت للحل (MTTR)"
+        },
+        {
+          "en": "First Call Resolution (FCR) rate",
+          "ar": "معدل الحل في الاتصال الأول (FCR)"
+        },
+        {
+          "en": "SLA compliance percentage",
+          "ar": "نسبة امتثال SLA"
+        },
+        {
+          "en": "Customer Satisfaction Score (CSAT)",
+          "ar": "درجة رضا العملاء (CSAT)"
+        },
+        {
+          "en": "Number of SLA breaches and root causes",
+          "ar": "عدد انتهاكات SLA والأسباب الجذرية"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Reporting Frequency",
+        "ar": "تكرار التقارير"
+      },
+      "specs": [
+        {
+          "en": "Real-time dashboards for operational teams",
+          "ar": "لوحات معلومات في الوقت الفعلي للفرق التشغيلية"
+        },
+        {
+          "en": "Daily SLA health summary reports",
+          "ar": "تقارير ملخص صحة SLA اليومية"
+        },
+        {
+          "en": "Weekly trend analysis and alerts",
+          "ar": "تحليل الاتجاهات الأسبوعي والتنبيهات"
+        },
+        {
+          "en": "Monthly comprehensive SLA compliance reports",
+          "ar": "تقارير امتثال SLA الشاملة الشهرية"
+        },
+        {
+          "en": "Quarterly business review presentations",
+          "ar": "عروض مراجعة الأعمال ربع السنوية"
+        },
+        {
+          "en": "Annual SLA review and optimization workshops",
+          "ar": "ورش عمل مراجعة وتحسين SLA السنوية"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "SLA Components",
+        "ar": "مكونات SLA"
+      },
+      "specs": [
+        {
+          "en": "Service description and scope definition",
+          "ar": "وصف الخدمة وتعريف النطاق"
+        },
+        {
+          "en": "Performance targets and thresholds",
+          "ar": "أهداف الأداء والعتبات"
+        },
+        {
+          "en": "Measurement methodology and tools",
+          "ar": "منهجية القياس والأدوات"
+        },
+        {
+          "en": "Roles and responsibilities matrix",
+          "ar": "مصفوفة الأدوار والمسؤوليات"
+        },
+        {
+          "en": "Escalation procedures and contacts",
+          "ar": "إجراءات التصعيد وجهات الاتصال"
+        },
+        {
+          "en": "Service credits and penalty clauses",
+          "ar": "أرصدة الخدمة وبنود العقوبات"
+        },
+        {
+          "en": "Change management and review process",
+          "ar": "إدارة التغيير وعملية المراجعة"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Benefits",
+        "ar": "الفوائد"
+      },
+      "specs": [
+        {
+          "en": "Improved accountability and transparency",
+          "ar": "تحسين المساءلة والشفافية"
+        },
+        {
+          "en": "Early detection of service degradation",
+          "ar": "الكشف المبكر عن تدهور الخدمة"
+        },
+        {
+          "en": "Data-driven decision making for improvements",
+          "ar": "اتخاذ القرارات القائمة على البيانات للتحسينات"
+        },
+        {
+          "en": "Better alignment between IT and business",
+          "ar": "توافق أفضل بين تكنولوجيا المعلومات والأعمال"
+        },
+        {
+          "en": "Enhanced customer satisfaction and trust",
+          "ar": "تعزيز رضا العملاء والثقة"
+        }
+      ]
+    }
+  ]
+}

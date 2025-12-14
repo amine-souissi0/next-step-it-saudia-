@@ -1,0 +1,188 @@
+{
+  "hero": {
+    "title": {
+      "en": "Unified Communications Solutions",
+      "ar": "حلول الاتصالات الموحدة"
+    },
+    "subtitle": {
+      "en": "Seamless voice, video, messaging, and collaboration tools integrated into one platform",
+      "ar": "أدوات الصوت والفيديو والمراسلة والتعاون السلسة المتكاملة في منصة واحدة"
+    }
+  },
+  "description": {
+    "en": "Transform how your organization communicates with our Unified Communications (UC) solutions. We integrate voice, video, messaging, presence, and collaboration capabilities into a single, cohesive platform that works seamlessly across all devices and locations. Whether you're implementing Microsoft Teams, Cisco Webex, or other leading UC platforms, our expert team ensures smooth deployment, user adoption, and ongoing optimization to enhance productivity and reduce communication costs.",
+    "ar": "حوّل طريقة تواصل مؤسستك مع حلول الاتصالات الموحدة (UC) لدينا. ندمج قدرات الصوت والفيديو والمراسلة والحضور والتعاون في منصة واحدة متماسكة تعمل بسلاسة عبر جميع الأجهزة والمواقع."
+  },
+  "features": [
+    {
+      "title": {
+        "en": "Voice over IP (VoIP)",
+        "ar": "الصوت عبر بروتوكول الإنترنت (VoIP)"
+      },
+      "description": {
+        "en": "Enterprise-grade IP telephony with advanced call routing, voicemail, and integration with business applications",
+        "ar": "هاتف IP على مستوى المؤسسة مع توجيه المكالمات المتقدم والبريد الصوتي والتكامل مع تطبيقات الأعمال"
+      }
+    },
+    {
+      "title": {
+        "en": "Video Conferencing",
+        "ar": "مؤتمرات الفيديو"
+      },
+      "description": {
+        "en": "High-quality video meetings with screen sharing, recording, and integration with calendar systems",
+        "ar": "اجتماعات فيديو عالية الجودة مع مشاركة الشاشة والتسجيل والتكامل مع أنظمة التقويم"
+      }
+    },
+    {
+      "title": {
+        "en": "Instant Messaging & Presence",
+        "ar": "المراسلة الفورية والحضور"
+      },
+      "description": {
+        "en": "Real-time messaging with presence indicators, file sharing, and persistent chat rooms for team collaboration",
+        "ar": "المراسلة في الوقت الفعلي مع مؤشرات الحضور ومشاركة الملفات وغرف الدردشة المستمرة للتعاون الجماعي"
+      }
+    },
+    {
+      "title": {
+        "en": "Mobile Integration",
+        "ar": "التكامل مع الأجهزة المحمولة"
+      },
+      "description": {
+        "en": "Full UC capabilities on smartphones and tablets with seamless handoff between devices",
+        "ar": "قدرات الاتصالات الموحدة الكاملة على الهواتف الذكية والأجهزة اللوحية مع التسليم السلس بين الأجهزة"
+      }
+    },
+    {
+      "title": {
+        "en": "Contact Center Integration",
+        "ar": "تكامل مركز الاتصال"
+      },
+      "description": {
+        "en": "Advanced call center features including IVR, call queuing, reporting, and CRM integration",
+        "ar": "ميزات مركز الاتصال المتقدمة بما في ذلك IVR وقائمة انتظار المكالمات والتقارير وتكامل CRM"
+      }
+    },
+    {
+      "title": {
+        "en": "Directory Services",
+        "ar": "خدمات الدليل"
+      },
+      "description": {
+        "en": "Centralized directory with Active Directory integration for unified user management and authentication",
+        "ar": "دليل مركزي مع تكامل Active Directory لإدارة المستخدمين الموحدة والمصادقة"
+      }
+    }
+  ],
+  "technicalSpecs": [
+    {
+      "category": {
+        "en": "Supported Platforms",
+        "ar": "المنصات المدعومة"
+      },
+      "specs": [
+        {
+          "en": "Microsoft Teams (Phone System, Direct Routing, SIP Trunking)",
+          "ar": "Microsoft Teams (نظام الهاتف، التوجيه المباشر، SIP Trunking)"
+        },
+        {
+          "en": "Cisco Unified Communications Manager (CUCM)",
+          "ar": "Cisco Unified Communications Manager (CUCM)"
+        },
+        {
+          "en": "Cisco Webex Calling and Meetings",
+          "ar": "Cisco Webex للمكالمات والاجتماعات"
+        },
+        {
+          "en": "Avaya Aura and IP Office platforms",
+          "ar": "منصات Avaya Aura و IP Office"
+        },
+        {
+          "en": "Zoom Phone and Zoom Meetings",
+          "ar": "Zoom Phone و Zoom Meetings"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Connectivity & Infrastructure",
+        "ar": "الاتصال والبنية التحتية"
+      },
+      "specs": [
+        {
+          "en": "SIP trunking for voice connectivity",
+          "ar": "SIP trunking لاتصال الصوت"
+        },
+        {
+          "en": "Session Border Controllers (SBC) for security",
+          "ar": "وحدات التحكم في حدود الجلسة (SBC) للأمان"
+        },
+        {
+          "en": "Quality of Service (QoS) configuration",
+          "ar": "تكوين جودة الخدمة (QoS)"
+        },
+        {
+          "en": "PSTN gateway and E1/PRI integration",
+          "ar": "بوابة PSTN وتكامل E1/PRI"
+        },
+        {
+          "en": "MPLS and SD-WAN optimization",
+          "ar": "تحسين MPLS و SD-WAN"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Features & Capabilities",
+        "ar": "الميزات والقدرات"
+      },
+      "specs": [
+        {
+          "en": "Auto-attendant and IVR (Interactive Voice Response)",
+          "ar": "المجيب الآلي و IVR (الاستجابة الصوتية التفاعلية)"
+        },
+        {
+          "en": "Call recording and voicemail-to-email",
+          "ar": "تسجيل المكالمات والبريد الصوتي إلى البريد الإلكتروني"
+        },
+        {
+          "en": "Presence-based routing and find-me/follow-me",
+          "ar": "التوجيه القائم على الحضور وميزة اعثر علي/تابعني"
+        },
+        {
+          "en": "Video conferencing with up to 1000 participants",
+          "ar": "مؤتمرات الفيديو مع ما يصل إلى 1000 مشارك"
+        },
+        {
+          "en": "Screen sharing, whiteboarding, and annotations",
+          "ar": "مشاركة الشاشة واللوحة البيضاء والتعليقات التوضيحية"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Security & Compliance",
+        "ar": "الأمان والامتثال"
+      },
+      "specs": [
+        {
+          "en": "End-to-end encryption for voice and video",
+          "ar": "التشفير من طرف إلى طرف للصوت والفيديو"
+        },
+        {
+          "en": "TLS/SRTP for secure communications",
+          "ar": "TLS/SRTP للاتصالات الآمنة"
+        },
+        {
+          "en": "Multi-factor authentication (MFA)",
+          "ar": "المصادقة متعددة العوامل (MFA)"
+        },
+        {
+          "en": "Call detail records (CDR) and audit logging",
+          "ar": "سجلات تفاصيل المكالمات (CDR) وتسجيل التدقيق"
+        }
+      ]
+    }
+  ]
+}

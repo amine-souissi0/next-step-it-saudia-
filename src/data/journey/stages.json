@@ -1,0 +1,129 @@
+{
+  "stages": [
+    {
+      "id": "tamkeen",
+      "name": {
+        "en": "Tamkeen (Enablement)",
+        "ar": "تمكين"
+      },
+      "description": {
+        "en": "Building foundational cybersecurity capabilities and awareness",
+        "ar": "بناء قدرات ووعي الأمن السيبراني الأساسية"
+      },
+      "level": 1,
+      "color": "from-blue-500 to-cyan-500",
+      "objectives": [
+        "Establish basic security policies and procedures",
+        "Implement essential security controls",
+        "Build security awareness across the organization",
+        "Create incident response framework"
+      ],
+      "services": [
+        "Security Assessment",
+        "Policy Development",
+        "Security Awareness Training",
+        "Basic Security Controls"
+      ]
+    },
+    {
+      "id": "himaya",
+      "name": {
+        "en": "Himaya (Protection)",
+        "ar": "حماية"
+      },
+      "description": {
+        "en": "Implementing comprehensive protection measures and controls",
+        "ar": "تنفيذ تدابير وضوابط حماية شاملة"
+      },
+      "level": 2,
+      "color": "from-green-500 to-emerald-500",
+      "objectives": [
+        "Deploy advanced security technologies",
+        "Implement access controls and encryption",
+        "Establish security monitoring",
+        "Protect critical assets"
+      ],
+      "services": [
+        "Firewall & IDS/IPS",
+        "Data Encryption",
+        "Access Control Systems",
+        "Security Monitoring"
+      ]
+    },
+    {
+      "id": "manaa",
+      "name": {
+        "en": "Mana'a (Prevention)",
+        "ar": "منع"
+      },
+      "description": {
+        "en": "Proactive threat prevention and risk mitigation",
+        "ar": "منع التهديدات بشكل استباقي والحد من المخاطر"
+      },
+      "level": 3,
+      "color": "from-yellow-500 to-orange-500",
+      "objectives": [
+        "Implement threat intelligence",
+        "Deploy advanced threat prevention",
+        "Conduct regular security testing",
+        "Maintain security posture"
+      ],
+      "services": [
+        "Threat Intelligence",
+        "Penetration Testing",
+        "Vulnerability Management",
+        "Advanced Threat Prevention"
+      ]
+    },
+    {
+      "id": "thiqah",
+      "name": {
+        "en": "Thiqah (Trust)",
+        "ar": "ثقة"
+      },
+      "description": {
+        "en": "Building trust through compliance and governance",
+        "ar": "بناء الثقة من خلال الامتثال والحوكمة"
+      },
+      "level": 4,
+      "color": "from-purple-500 to-pink-500",
+      "objectives": [
+        "Achieve compliance certifications",
+        "Implement governance framework",
+        "Conduct regular audits",
+        "Maintain transparency"
+      ],
+      "services": [
+        "Compliance Management",
+        "Security Audits",
+        "Governance Framework",
+        "Risk Management"
+      ]
+    },
+    {
+      "id": "riyada",
+      "name": {
+        "en": "Riyada (Leadership)",
+        "ar": "ريادة"
+      },
+      "description": {
+        "en": "Achieving security excellence and industry leadership",
+        "ar": "تحقيق التميز الأمني والريادة في المجال"
+      },
+      "level": 5,
+      "color": "from-red-500 to-rose-500",
+      "objectives": [
+        "Implement AI-driven security",
+        "Lead industry best practices",
+        "Continuous innovation",
+        "Security ecosystem leadership"
+      ],
+      "services": [
+        "AI Security Solutions",
+        "Zero Trust Architecture",
+        "Security Innovation Lab",
+        "Industry Leadership Programs"
+      ]
+    }
+  ]
+}
